@@ -1,0 +1,16 @@
+{
+  "Index": {
+    "title": "Peace",
+    "description": "Working together for global peace through understanding and common ground"
+  },
+  "Navigation": {
+    "home": "Home",
+    "commonGround": "Common Ground",
+    "conflicts": "Conflicts",
+    "takeAction": "Take Action"
+  },
+  "Footer": {
+    "tagline": "Together for Peace",
+    "rights": "© {year} Peace Project"
+  }
+}

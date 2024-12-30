@@ -1,0 +1,201 @@
+# Guidelines for Contributing Conflict Analysis
+
+## Core Principles
+
+1. **Solution-Focused**
+   - Emphasize potential paths to peace
+   - Identify common ground between parties
+   - Highlight successful peace-building examples
+   - Focus on actionable steps forward
+
+2. **Objectivity**
+   - Present verified facts from reliable sources
+   - Include multiple perspectives
+   - Avoid taking sides or showing bias
+   - Distinguish between facts and interpretations
+
+3. **Respect**
+   - Use neutral, non-inflammatory language
+   - Respect all parties' dignity
+   - Acknowledge legitimate concerns on all sides
+   - Consider cultural sensitivities
+
+## Content Structure
+
+### 1. Situation Overview
+- Current state of the conflict
+- Key parties involved
+- Main areas of disagreement
+- Immediate humanitarian concerns
+
+### 2. Historical Context
+- Relevant historical background
+- Development of the current situation
+- Previous peace attempts and their outcomes
+- Lessons learned from past efforts
+
+### 3. Common Ground Analysis
+- Shared interests between parties
+- Common values and beliefs
+- Mutual benefits of peace
+- Potential areas for cooperation
+
+### 4. Peace Potential
+- Opportunities for dialogue
+- Existing peace initiatives
+- Potential mediators or facilitators
+- Support from international community
+
+### 5. Concrete Steps
+- Immediate actions to reduce tension
+- Medium-term confidence-building measures
+- Long-term peace-building strategies
+- Specific recommendations for:
+  - Political leaders
+  - Religious leaders
+  - Civil society
+  - International community
+  - Individual citizens
+
+## Quality Standards
+
+### Sources
+- Use multiple reliable sources
+- Prefer primary sources when available
+- Include academic research
+- Reference peace studies literature
+- Cite all sources properly
+
+### Analysis Quality
+- Clear logical progression
+- Evidence-based reasoning
+- Consideration of multiple factors
+- Recognition of complexity
+- Practical feasibility of solutions
+
+### Writing Style
+- Clear, accessible language
+- Well-organized structure
+- Professional tone
+- Culturally sensitive expression
+
+## Red Flags to Avoid
+
+1. **Content Issues**
+   - Taking sides in the conflict
+   - Inflammatory language
+   - Oversimplified solutions
+   - Unverified claims
+   - Personal opinions presented as facts
+
+2. **Analysis Problems**
+   - Single-perspective views
+   - Ignoring key stakeholders
+   - Unrealistic proposals
+   - Lack of concrete steps
+   - Overlooking cultural factors
+
+3. **Style Concerns**
+   - Emotional manipulation
+   - Propaganda elements
+   - Dehumanizing language
+   - Absolutist statements
+   - Political rhetoric
+
+## Submission Process
+
+### 1. Initial Research
+- Gather information from diverse sources
+- Review existing analysis on the platform
+- Identify gaps in current coverage
+- Consult experts when possible
+
+### 2. Content Development
+- Follow the structure outlined above
+- Include all required sections
+- Provide concrete, actionable steps
+- Support claims with evidence
+
+### 3. Review Process
+- Self-review against these guidelines
+- Peer review if possible
+- Expert consultation when needed
+- Editorial review by platform team
+
+### 4. Updates and Maintenance
+- Regular review of content accuracy
+- Updates for changing situations
+- Incorporation of new developments
+- Response to feedback
+
+## Example Template
+
+```markdown
+# [Conflict Name] Analysis
+
+## Situation Overview
+[Current state of conflict, key parties, main issues]
+
+## Historical Context
+[Relevant history, development of situation]
+
+## Common Ground Analysis
+[Shared interests, values, potential cooperation areas]
+
+## Peace Potential
+[Opportunities, initiatives, possible mediators]
+
+## Concrete Steps
+1. Immediate Actions
+   - [Specific step]
+   - [Specific step]
+
+2. Medium-term Measures
+   - [Specific measure]
+   - [Specific measure]
+
+3. Long-term Strategies
+   - [Specific strategy]
+   - [Specific strategy]
+
+## Sources
+[List of sources with proper citations]
+```
+
+## Special Considerations
+
+### 1. Sensitive Information
+- Protect vulnerable populations
+- Consider security implications
+- Respect privacy concerns
+- Follow "do no harm" principle
+
+### 2. Timing Considerations
+- Urgency of situation
+- Window of opportunity
+- Sequence of actions
+- Realistic timeframes
+
+### 3. Implementation Factors
+- Resource requirements
+- Capacity considerations
+- Political feasibility
+- Social acceptance
+
+### 4. Success Metrics
+- Clear indicators of progress
+- Measurable outcomes
+- Monitoring mechanisms
+- Evaluation criteria
+
+## Collaboration
+
+We encourage collaboration between:
+- Peace researchers
+- Conflict resolution experts
+- Local stakeholders
+- Cultural experts
+- Policy analysts
+- Civil society representatives
+
+Together, we can build a comprehensive resource for understanding and resolving conflicts worldwide.

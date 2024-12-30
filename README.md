@@ -1,36 +1,87 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# peace
 
-## Getting Started
+A platform dedicated to fostering global peace through understanding and common ground and ending armed conflicts worldwide.
 
-First, run the development server:
+## Project Overview
 
+This project aims to:
+- Explore peaceful common ground across religious and non-religious perspectives
+- Provide resources and information about specific conflicts
+- Create opportunities for dialogue and understanding
+- Support concrete actions toward peace
+- Provide direct steps for ending armed conflicts
+
+## Website Structure
+
+- **Common Ground**: Exploration of shared values across different beliefs and philosophies
+- **Current Conflicts**: Analysis and understanding of ongoing conflicts
+- **Take Action**: Resources and guidance for contributing to peace efforts
+
+## Technical Details
+
+### Built With
+- [Next.js](https://nextjs.org/) - React framework
+- [TypeScript](https://www.typescriptlang.org/) - Type safety
+- [Tailwind CSS](https://tailwindcss.com/) - Styling
+- [next-intl](https://next-intl-docs.vercel.app/) - Internationalization
+
+### Prerequisites
+- Node.js 18.17 or later
+- npm 9.6.7 or later
+
+### Installation
+
+1. Clone the repository
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/yourusername/peace.git
+cd peace
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install dependencies
+```bash
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Run the development server
+```bash
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## Learn More
+### Internationalization
 
-To learn more about Next.js, take a look at the following resources:
+The project supports multiple languages including:
+- English (en)
+- Ukrainian (uk)
+- Russian (ru)
+- Chinese (zh)
+- Arabic (ar)
+- Spanish (es)
+- French (fr)
+- German (de)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Contributing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+We welcome contributions! Please read our contributing guidelines before submitting pull requests.
 
-## Deploy on Vercel
+#### Guidelines
+- Ensure cross-browser compatibility
+- Follow the existing code style
+- Add appropriate tests for new features
+- Update documentation as needed
+- Be respectful and constructive in discussions
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+You can reach us through:
+- [Discord Community](#) - Join our discussions
+- GitHub Issues - For technical matters and bug reports
+
+## Acknowledgments
+
+Special thanks to everyone contributing to this initiative for global peace.
