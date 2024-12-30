@@ -1,0 +1,33 @@
+{
+  "Index": {
+    "title": "和平",
+    "description": "终止全球武装冲突。",
+    "takeAction": "采取行动",
+    "learnMore": "了解更多",
+    "sections": {
+      "commonGround": {
+        "title": "寻找共识",
+        "description": "探索可以消除分歧、促进不同群体间理解的共同价值观和原则。"
+      },
+      "conflicts": {
+        "title": "当前冲突",
+        "description": "获取详细分析和解决全球活跃冲突的具体步骤。"
+      },
+      "action": {
+        "title": "直接行动",
+        "description": "为和平建设和冲突解决做出贡献。"
+      }
+    },
+    "joinDiscord": {
+      "title": "加入和平Discord服务器",
+      "description": "终止武装冲突，建立持久和平。",
+      "button": "加入Discord服务器"
+    }
+  },
+  "Navigation": {
+    "message": "是时候结束世界上的武装冲突了。这需要我们所有人的共同承诺",
+    "commonGround": "共识",
+    "conflicts": "冲突",
+    "takeAction": "采取行动"
+  }
+}

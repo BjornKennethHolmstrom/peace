@@ -1,0 +1,33 @@
+{
+  "Index": {
+    "title": "paix",
+    "description": "Mettre fin aux conflits armés dans le monde.",
+    "takeAction": "Agir",
+    "learnMore": "En Savoir Plus",
+    "sections": {
+      "commonGround": {
+        "title": "Trouver un Terrain d'Entente",
+        "description": "Explorez les valeurs et principes communs qui peuvent combler les divisions et favoriser la compréhension entre différents groupes."
+      },
+      "conflicts": {
+        "title": "Conflits Actuels",
+        "description": "Accédez à une analyse détaillée et aux étapes concrètes pour résoudre les conflits actifs dans le monde."
+      },
+      "action": {
+        "title": "Action Directe",
+        "description": "Contribuez aux efforts de construction de la paix et de résolution des conflits."
+      }
+    },
+    "joinDiscord": {
+      "title": "Rejoignez le serveur Discord pour la paix",
+      "description": "Mettre fin aux conflits armés et construire une paix durable",
+      "button": "Rejoindre le serveur Discord"
+    }
+  },
+  "Navigation": {
+    "message": "Il est temps de mettre fin aux conflits armés dans le monde. C'est à nous tous de nous y engager",
+    "commonGround": "Terrain d'Entente",
+    "conflicts": "Conflits",
+    "takeAction": "Agir"
+  }
+}

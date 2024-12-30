@@ -1,19 +1,22 @@
 import createMiddleware from 'next-intl/middleware';
-import { locales, defaultLocale } from './src/config/i18n';
- 
+import {locales, defaultLocale} from './src/config/i18n';
+
+// The middleware is used to redirect users to their preferred locale
 export default createMiddleware({
   // A list of all locales that are supported
   locales: locales,
   
-  // The default locale to be used when visiting
-  // a non-locale prefixed path e.g. `/dashboard`
+  // If this locale is matched, pathnames work without a prefix (e.g. `/about`)
   defaultLocale: defaultLocale,
+  
+  // Redirect to defaultLocale if no locale is found
+  localePrefix: 'always',
 
-  // Domains can be configured per locale if needed
-  // localePrefix: 'as-needed'
+  // Set default locale on root path
+  localeDetection: true
 });
- 
+
 export const config = {
   // Skip all paths that should not be internationalized
-  matcher: ['/((?!api|_next|.*\\..*).*)']
+  matcher: ['/((?!api|_next|_vercel|.*\\..*).*)']
 };

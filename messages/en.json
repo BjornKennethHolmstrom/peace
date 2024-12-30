@@ -1,16 +1,88 @@
 {
   "Index": {
-    "title": "Peace",
-    "description": "Working together for global peace through understanding and common ground"
+    "title": "peace",
+    "description": "Ending armed conflicts worldwide.",
+    "takeAction": "Take Action",
+    "learnMore": "Learn More",
+    "sections": {
+      "commonGround": {
+        "title": "Finding Common Ground",
+        "description": "Explore shared values and principles that can bridge divides and foster understanding between different groups."
+      },
+      "conflicts": {
+        "title": "Current Conflicts",
+        "description": "Access detailed analysis and concrete steps to resolve active conflicts around the world."
+      },
+      "action": {
+        "title": "Direct Action",
+        "description": "Contribute to peace-building efforts and conflict resolution."
+      }
+    },
+    "joinDiscord": {
+      "title": "Join the Discord server for peace",
+      "description": "End armed conflicts and build lasting peace.",
+      "button": "Join the Discord server"
+    }
   },
   "Navigation": {
-    "home": "Home",
+    "message": "It is time to end the world's armed conflicts. It is up to all of us to commit to this",
     "commonGround": "Common Ground",
     "conflicts": "Conflicts",
     "takeAction": "Take Action"
   },
-  "Footer": {
-    "tagline": "Together for Peace",
-    "rights": "© {year} Peace Project"
+  "TakeAction": {
+    "title": "Take Action",
+    "description": "Peace requires both inner transformation and outer action. Choose your path or combine both approaches.",
+    "readMore": "Learn more",
+    "sections": {
+      "inner": {
+        "title": "Inner Path to Peace",
+        "description": "Discover how inner peace and self-understanding contribute to global peace"
+      },
+      "external": {
+        "title": "External Actions",
+        "description": "Take concrete steps to promote peace through communication and engagement"
+      },
+      "join": {
+        "title": "Join Forces",
+        "description": "Connect with others working toward peace globally"
+      }
+    }
+  },
+  "InnerPath": {
+    "title": "Inner Path to Peace",
+    "introduction": "The path to global peace begins within. By understanding our own minds and hearts, we create the foundation for lasting peace.",
+    "sections": {
+      "mind": {
+        "title": "Understanding the Mind",
+        "description": "Our minds often create stress and conflict through constant grasping and attachment.",
+        "points": {
+          "grasping": "Notice how the mind continuously seeks to grasp and hold onto thoughts and emotions",
+          "observation": "Learn to observe these patterns without getting caught in them",
+          "beyond": "Discover the peace that exists beyond mental grasping"
+        }
+      },
+      "practices": {
+        "title": "Simple Daily Practices",
+        "observation": {
+          "title": "Mindful Observation",
+          "description": "Take time each day to simply observe your thoughts and feelings without judgment"
+        },
+        "presence": {
+          "title": "Present Moment Awareness",
+          "description": "Practice being fully present in simple daily activities"
+        },
+        "connection": {
+          "title": "Universal Connection",
+          "description": "Experience your connection to life beyond personal identity"
+        }
+      },
+      "deeper": {
+        "title": "Deeper Understanding",
+        "description": "As we observe ourselves, we begin to see how personal and collective peace are interconnected.",
+        "quote": "True peace emerges when we recognize our essential connection to all life"
+      }
+    }
   }
 }
+

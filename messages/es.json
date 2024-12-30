@@ -1,0 +1,33 @@
+{
+  "Index": {
+    "title": "paz",
+    "message": "Es hora de terminar con los conflictos armados del mundo. Depende de todos nosotros comprometernos con esto",
+    "takeAction": "Tomar Acción",
+    "learnMore": "Saber Más",
+    "sections": {
+      "commonGround": {
+        "title": "Encontrar Puntos en Común",
+        "description": "Explora valores y principios compartidos que pueden cerrar brechas y fomentar el entendimiento entre diferentes grupos."
+      },
+      "conflicts": {
+        "title": "Conflictos Actuales",
+        "description": "Accede a análisis detallados y pasos concretos para resolver conflictos activos en todo el mundo."
+      },
+      "action": {
+        "title": "Acción Directa",
+        "description": "Contribuye a los esfuerzos de construcción de paz y resolución de conflictos."
+      }
+    },
+    "joinDiscord": {
+      "title": "Únete al servidor Discord de paz",
+      "description": "Terminar los conflictos armados y construir una paz duradera",
+      "button": "Unirse al servidor Discord"
+    }
+  },
+  "Navigation": {
+    "description": "Terminando conflictos armados en todo el mundo.",
+    "commonGround": "Puntos en Común",
+    "conflicts": "Conflictos",
+    "takeAction": "Tomar Acción"
+  }
+}

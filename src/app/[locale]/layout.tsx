@@ -9,43 +9,63 @@ import '@/styles/globals.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
-async function getMessages(locale: string) {
-  try {
-    return (await import(`../../../messages/${locale}.json`)).default;
-  } catch (error) {
-    notFound();
-  }
-}
-
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
 }
 
+// Generate metadata for the page
+export function generateMetadata({ params }: { params: { locale: string }}) {
+  return {
+    title: 'peace',
+    icons: {
+      icon: [
+        {
+          url: '/blank-favicon.ico',
+          sizes: 'any',
+        },
+      ],
+    },
+  }
+}
+
 export default async function LocaleLayout({
   children,
-  params: { locale }
+  params,
 }: {
   children: React.ReactNode;
   params: { locale: string };
 }) {
+  unstable_setRequestLocale(params.locale);
+
   // Validate that the incoming `locale` parameter is valid
-  if (!isValidLocale(locale)) notFound();
+  if (!isValidLocale(params.locale)) notFound();
 
-  unstable_setRequestLocale(locale);
+  const messages = await import(`../../../messages/${params.locale}.json`).then(
+    (module) => module.default
+  ).catch(() => {
+    console.error(`Failed to load messages for locale ${params.locale}`);
+    return {};
+  });
 
-  const messages = await getMessages(locale);
+  const direction = isRtlLocale(params.locale) ? 'rtl' : 'ltr';
 
   return (
-    <html lang={locale} dir={isRtlLocale(locale) ? 'rtl' : 'ltr'}>
-      <body className={`${inter.className} flex flex-col min-h-screen`}>
-        <NextIntlClientProvider locale={locale} messages={messages}>
-          <Header />
-          <main className="flex-grow">
-            {children}
-          </main>
-          <Footer />
-        </NextIntlClientProvider>
+    <html lang={params.locale} dir={direction} suppressHydrationWarning>
+      <head>
+        <meta charSet="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+      </head>
+      <body suppressHydrationWarning>
+        <div className={`${inter.className} flex flex-col min-h-screen`}>
+          <NextIntlClientProvider locale={params.locale} messages={messages}>
+            <Header />
+            <main className="flex-grow">
+              {children}
+            </main>
+            <Footer />
+          </NextIntlClientProvider>
+        </div>
       </body>
     </html>
-  )
+  );
 }

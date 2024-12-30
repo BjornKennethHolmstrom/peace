@@ -1,6 +1,6 @@
 # peace
 
-A platform dedicated to fostering global peace through understanding and common ground and ending armed conflicts worldwide.
+A platform dedicated to ending armed conflicts worldwide.
 
 ## Project Overview
 
@@ -60,6 +60,7 @@ The project supports multiple languages including:
 - Spanish (es)
 - French (fr)
 - German (de)
+- Hebrew (he)
 
 ### Contributing
 
@@ -79,7 +80,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 You can reach us through:
-- [Discord Community](#) - Join our discussions
+- email: bjorn.kenneth.holmstrom@gmail.com
+- [Discord Community](#) - Join our discussions. Upcoming!
 - GitHub Issues - For technical matters and bug reports
 
 ## Acknowledgments

@@ -1,0 +1,33 @@
+{
+  "Index": {
+    "title": "Frieden",
+    "description": "Beendigung bewaffneter Konflikte weltweit.",
+    "takeAction": "Aktiv Werden",
+    "learnMore": "Mehr Erfahren",
+    "sections": {
+      "commonGround": {
+        "title": "Gemeinsamkeiten Finden",
+        "description": "Erkunden Sie gemeinsame Werte und Prinzipien, die Gräben überbrücken und Verständigung zwischen verschiedenen Gruppen fördern können."
+      },
+      "conflicts": {
+        "title": "Aktuelle Konflikte",
+        "description": "Zugang zu detaillierten Analysen und konkreten Schritten zur Lösung aktiver Konflikte weltweit."
+      },
+      "action": {
+        "title": "Direktes Handeln",
+        "description": "Tragen Sie zu Friedensaufbau und Konfliktlösung bei."
+      }
+    },
+    "joinDiscord": {
+      "title": "Treten Sie dem Friedens-Discord-Server bei",
+      "description": "Bewaffnete Konflikte beenden und dauerhaften Frieden aufbauen",
+      "button": "Discord-Server beitreten"
+    }
+  },
+  "Navigation": {
+    "message": "Es ist Zeit, die bewaffneten Konflikte der Welt zu beenden. Es liegt an uns allen, uns dazu zu verpflichten",
+    "commonGround": "Gemeinsamkeiten",
+    "conflicts": "Konflikte",
+    "takeAction": "Aktiv Werden"
+  }
+}
