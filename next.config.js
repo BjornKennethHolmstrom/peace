@@ -7,7 +7,7 @@ const nextConfig = {
     unoptimized: true
   },
   basePath: process.env.NODE_ENV === 'production' ? '/peace' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/peace/' : ''
+  trailingSlash: true,
 };
 
 module.exports = withNextIntl(nextConfig);
