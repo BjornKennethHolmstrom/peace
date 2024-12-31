@@ -18,15 +18,17 @@ export default function HomePage({ params: { locale } }: { params: { locale: str
             {t('description')}
           </p>
           <div className="flex justify-center gap-4">
-            <Link href="/take-action">
-              <a className="px-6 py-2 border border-black hover:bg-black hover:text-white transition-colors">
-                {t('takeAction')}
-              </a>
+            <Link 
+              href={`/${locale}/take-action`} 
+              className="px-6 py-2 border border-black hover:bg-black hover:text-white transition-colors"
+            >
+              {t('takeAction')}
             </Link>
-            <Link href="/common-ground">
-              <a className="px-6 py-2 border border-gray-300 hover:border-black transition-colors">
-                {t('learnMore')}
-              </a>
+            <Link 
+              href={`/${locale}/common-ground`}
+              className="px-6 py-2 border border-gray-300 hover:border-black transition-colors"
+            >
+              {t('learnMore')}
             </Link>
           </div>
         </div>
@@ -71,10 +73,11 @@ export default function HomePage({ params: { locale } }: { params: { locale: str
           <p className="text-gray-600 mb-8">
             {t('joinDiscord.description')}
           </p>
-          <Link href="/discord">
-            <a className="inline-block px-6 py-2 border border-black hover:bg-black hover:text-white transition-colors">
-              {t('joinDiscord.button')}
-            </a>
+          <Link 
+            href={`/${locale}/discord`}
+            className="inline-block px-6 py-2 border border-black hover:bg-black hover:text-white transition-colors"
+          >
+            {t('joinDiscord.button')}
           </Link>
         </div>
       </section>
