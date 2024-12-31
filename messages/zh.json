@@ -19,9 +19,9 @@
       }
     },
     "joinDiscord": {
-      "title": "加入和平Discord服务器",
-      "description": "终止武装冲突，建立持久和平。",
-      "button": "加入Discord服务器"
+      "title": "加入和平discord服务器",
+      "description": "与他人联系共创和平",
+      "button": "加入Discord"
     }
   },
   "Navigation": {

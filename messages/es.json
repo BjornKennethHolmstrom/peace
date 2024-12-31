@@ -19,9 +19,9 @@
       }
     },
     "joinDiscord": {
-      "title": "Únete al servidor Discord de paz",
-      "description": "Terminar los conflictos armados y construir una paz duradera",
-      "button": "Unirse al servidor Discord"
+      "title": "Únete al servidor discord de paz",
+      "description": "Conéctate con otros por la paz",
+      "button": "Unirse a Discord"
     }
   },
   "Navigation": {
