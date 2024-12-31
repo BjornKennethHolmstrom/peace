@@ -29,5 +29,59 @@
     "commonGround": "共识",
     "conflicts": "冲突",
     "takeAction": "采取行动"
+  },
+  "TakeAction": {
+    "title": "采取行动",
+    "description": "和平需要内在转化和外在行动。选择你的道路或结合两种方式。",
+    "readMore": "了解更多",
+    "sections": {
+      "inner": {
+        "title": "通往和平的内在之路",
+        "description": "发现内在平和与自我理解如何促进全球和平"
+      },
+      "external": {
+        "title": "外在行动",
+        "description": "通过沟通和参与采取具体步骤促进和平"
+      },
+      "join": {
+        "title": "联合力量",
+        "description": "与全球致力于和平的其他人建立联系"
+      }
+    }
+  },
+  "InnerPath": {
+    "title": "通往和平的内在之路",
+    "introduction": "全球和平的道路始于内心。通过理解我们的心智和内心，我们为持久和平奠定基础。",
+    "sections": {
+      "mind": {
+        "title": "理解心智",
+        "description": "我们的心智常常通过持续的执着和依附制造压力和冲突。",
+        "points": {
+          "grasping": "注意心智如何不断试图抓取和保持思维和情绪",
+          "observation": "学习观察这些模式而不被其困住",
+          "beyond": "发现超越心智执着之外的平和"
+        }
+      },
+      "practices": {
+        "title": "简单的日常练习",
+        "observation": {
+          "title": "正念观察",
+          "description": "每天花时间简单地观察你的想法和感受，不加评判"
+        },
+        "presence": {
+          "title": "当下觉知",
+          "description": "在简单的日常活动中练习完全的在场"
+        },
+        "connection": {
+          "title": "普遍联系",
+          "description": "体验超越个人身份的生命联结"
+        }
+      },
+      "deeper": {
+        "title": "更深的理解",
+        "description": "当我们观察自己时，我们开始看到个人和集体和平如何相互联系。",
+        "quote": "当我们认识到与所有生命的本质联系时，真正的和平就会出现"
+      }
+    }
   }
 }

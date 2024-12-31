@@ -79,7 +79,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-You can reach us through:
+You can reach the project creator through:
 - email: bjorn.kenneth.holmstrom@gmail.com
 - [Discord Community](#) - Join our discussions. Upcoming!
 - GitHub Issues - For technical matters and bug reports

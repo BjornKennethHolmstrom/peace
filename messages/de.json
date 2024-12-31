@@ -29,5 +29,59 @@
     "commonGround": "Gemeinsamkeiten",
     "conflicts": "Konflikte",
     "takeAction": "Aktiv Werden"
+  },
+  "TakeAction": {
+    "title": "Aktiv Werden",
+    "description": "Frieden erfordert sowohl innere Transformation als auch äußeres Handeln. Wählen Sie Ihren Weg oder kombinieren Sie beide Ansätze.",
+    "readMore": "Mehr erfahren",
+    "sections": {
+      "inner": {
+        "title": "Innerer Weg zum Frieden",
+        "description": "Entdecken Sie, wie innerer Frieden und Selbstverständnis zum globalen Frieden beitragen"
+      },
+      "external": {
+        "title": "Äußere Aktionen",
+        "description": "Unternehmen Sie konkrete Schritte zur Förderung des Friedens durch Kommunikation und Engagement"
+      },
+      "join": {
+        "title": "Kräfte vereinen",
+        "description": "Verbinden Sie sich mit anderen, die weltweit für den Frieden arbeiten"
+      }
+    }
+  },
+  "InnerPath": {
+    "title": "Innerer Weg zum Frieden",
+    "introduction": "Der Weg zum globalen Frieden beginnt im Inneren. Durch das Verstehen unseres Geistes und Herzens schaffen wir die Grundlage für dauerhaften Frieden.",
+    "sections": {
+      "mind": {
+        "title": "Den Geist verstehen",
+        "description": "Unser Geist erzeugt oft Stress und Konflikt durch ständiges Festhalten und Anhaftung.",
+        "points": {
+          "grasping": "Bemerken Sie, wie der Geist ständig versucht, Gedanken und Emotionen festzuhalten",
+          "observation": "Lernen Sie, diese Muster zu beobachten, ohne sich in ihnen zu verfangen",
+          "beyond": "Entdecken Sie den Frieden, der jenseits des geistigen Festhaltens existiert"
+        }
+      },
+      "practices": {
+        "title": "Einfache tägliche Übungen",
+        "observation": {
+          "title": "Achtsame Beobachtung",
+          "description": "Nehmen Sie sich jeden Tag Zeit, Ihre Gedanken und Gefühle ohne Urteil zu beobachten"
+        },
+        "presence": {
+          "title": "Gegenwartsbewusstsein",
+          "description": "Üben Sie vollständige Präsenz in einfachen täglichen Aktivitäten"
+        },
+        "connection": {
+          "title": "Universelle Verbindung",
+          "description": "Erfahren Sie Ihre Verbindung zum Leben jenseits persönlicher Identität"
+        }
+      },
+      "deeper": {
+        "title": "Tieferes Verständnis",
+        "description": "Wenn wir uns selbst beobachten, beginnen wir zu sehen, wie persönlicher und kollektiver Frieden miteinander verbunden sind.",
+        "quote": "Wahrer Frieden entsteht, wenn wir unsere wesentliche Verbindung zu allem Leben erkennen"
+      }
+    }
   }
 }

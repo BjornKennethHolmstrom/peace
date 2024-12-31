@@ -1,12 +1,11 @@
-'use client'
+// Remove 'use client'
 import Link from 'next/link'
 import { useTranslations } from 'next-intl'
-import { useParams } from 'next/navigation'
+import { unstable_setRequestLocale } from 'next-intl/server'
 
-export default function TakeAction() {
+export default function TakeAction({ params: { locale } }: { params: { locale: string } }) {
+  unstable_setRequestLocale(locale)
   const t = useTranslations('TakeAction')
-  const params = useParams()
-  const locale = params.locale
 
   return (
     <div className="min-h-screen py-12 px-4">

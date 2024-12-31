@@ -29,5 +29,59 @@
     "commonGround": "Terrain d'Entente",
     "conflicts": "Conflits",
     "takeAction": "Agir"
+  },
+  "TakeAction": {
+    "title": "Agir",
+    "description": "La paix nécessite à la fois une transformation intérieure et une action extérieure. Choisissez votre voie ou combinez les deux approches.",
+    "readMore": "En savoir plus",
+    "sections": {
+      "inner": {
+        "title": "Chemin Intérieur vers la Paix",
+        "description": "Découvrez comment la paix intérieure et la compréhension de soi contribuent à la paix mondiale"
+      },
+      "external": {
+        "title": "Actions Externes",
+        "description": "Prenez des mesures concrètes pour promouvoir la paix par la communication et l'engagement"
+      },
+      "join": {
+        "title": "Unir nos Forces",
+        "description": "Connectez-vous avec d'autres personnes œuvrant pour la paix mondiale"
+      }
+    }
+  },
+  "InnerPath": {
+    "title": "Chemin Intérieur vers la Paix",
+    "introduction": "Le chemin vers la paix mondiale commence à l'intérieur. En comprenant notre esprit et notre cœur, nous créons le fondement d'une paix durable.",
+    "sections": {
+      "mind": {
+        "title": "Comprendre l'Esprit",
+        "description": "Notre esprit crée souvent du stress et des conflits par une saisie et un attachement constants.",
+        "points": {
+          "grasping": "Observez comment l'esprit cherche continuellement à saisir et retenir les pensées et les émotions",
+          "observation": "Apprenez à observer ces schémas sans vous y faire prendre",
+          "beyond": "Découvrez la paix qui existe au-delà de la saisie mentale"
+        }
+      },
+      "practices": {
+        "title": "Pratiques Quotidiennes Simples",
+        "observation": {
+          "title": "Observation Consciente",
+          "description": "Prenez chaque jour le temps d'observer simplement vos pensées et sentiments sans jugement"
+        },
+        "presence": {
+          "title": "Conscience du Moment Présent",
+          "description": "Pratiquez la présence totale dans les activités quotidiennes simples"
+        },
+        "connection": {
+          "title": "Connexion Universelle",
+          "description": "Expérimentez votre connexion à la vie au-delà de l'identité personnelle"
+        }
+      },
+      "deeper": {
+        "title": "Compréhension Plus Profonde",
+        "description": "En nous observant, nous commençons à voir comment la paix personnelle et collective sont interconnectées.",
+        "quote": "La véritable paix émerge lorsque nous reconnaissons notre connexion essentielle à toute vie"
+      }
+    }
   }
 }

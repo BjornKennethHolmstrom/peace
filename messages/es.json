@@ -1,8 +1,8 @@
 {
   "Index": {
     "title": "paz",
-    "message": "Es hora de terminar con los conflictos armados del mundo. Depende de todos nosotros comprometernos con esto",
-    "takeAction": "Tomar Acción",
+    "description": "Poner fin a los conflictos armados en todo el mundo.",
+     "takeAction": "Tomar Acción",
     "learnMore": "Saber Más",
     "sections": {
       "commonGround": {
@@ -26,8 +26,63 @@
   },
   "Navigation": {
     "description": "Terminando conflictos armados en todo el mundo.",
+    "message": "Es hora de terminar con los conflictos armados del mundo. Depende de todos nosotros comprometernos con esto",
     "commonGround": "Puntos en Común",
     "conflicts": "Conflictos",
     "takeAction": "Tomar Acción"
+  },
+  "TakeAction": {
+    "title": "Tomar Acción",
+    "description": "La paz requiere tanto transformación interior como acción exterior. Elige tu camino o combina ambos enfoques.",
+    "readMore": "Saber más",
+    "sections": {
+      "inner": {
+        "title": "Camino Interior hacia la Paz",
+        "description": "Descubre cómo la paz interior y el autoconocimiento contribuyen a la paz global"
+      },
+      "external": {
+        "title": "Acciones Externas",
+        "description": "Toma pasos concretos para promover la paz a través de la comunicación y el compromiso"
+      },
+      "join": {
+        "title": "Unir Fuerzas",
+        "description": "Conéctate con otros que trabajan por la paz globalmente"
+      }
+    }
+  },
+  "InnerPath": {
+    "title": "Camino Interior hacia la Paz",
+    "introduction": "El camino hacia la paz global comienza en el interior. Al comprender nuestra mente y corazón, creamos la base para una paz duradera.",
+    "sections": {
+      "mind": {
+        "title": "Comprendiendo la Mente",
+        "description": "Nuestras mentes a menudo crean estrés y conflicto a través del apego y el aferramiento constante.",
+        "points": {
+          "grasping": "Observa cómo la mente busca continuamente aferrarse a pensamientos y emociones",
+          "observation": "Aprende a observar estos patrones sin quedar atrapado en ellos",
+          "beyond": "Descubre la paz que existe más allá del aferramiento mental"
+        }
+      },
+      "practices": {
+        "title": "Prácticas Diarias Simples",
+        "observation": {
+          "title": "Observación Consciente",
+          "description": "Toma tiempo cada día para simplemente observar tus pensamientos y sentimientos sin juzgar"
+        },
+        "presence": {
+          "title": "Conciencia del Momento Presente",
+          "description": "Practica estar completamente presente en actividades diarias simples"
+        },
+        "connection": {
+          "title": "Conexión Universal",
+          "description": "Experimenta tu conexión con la vida más allá de la identidad personal"
+        }
+      },
+      "deeper": {
+        "title": "Comprensión Más Profunda",
+        "description": "Al observarnos a nosotros mismos, comenzamos a ver cómo la paz personal y colectiva están interconectadas.",
+        "quote": "La verdadera paz emerge cuando reconocemos nuestra conexión esencial con toda la vida"
+      }
+    }
   }
 }

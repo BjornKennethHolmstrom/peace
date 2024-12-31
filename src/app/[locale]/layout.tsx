@@ -10,54 +10,34 @@ import '@/styles/globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export function generateStaticParams() {
-  return locales.map((locale) => ({ locale }));
-}
-
-// Generate metadata for the page
-export function generateMetadata({ params }: { params: { locale: string }}) {
-  return {
-    title: 'peace',
-    icons: {
-      icon: [
-        {
-          url: '/blank-favicon.ico',
-          sizes: 'any',
-        },
-      ],
-    },
-  }
+  return locales.map((locale) => ({ locale }))
 }
 
 export default async function LocaleLayout({
   children,
-  params,
+  params: { locale }
 }: {
-  children: React.ReactNode;
-  params: { locale: string };
+  children: React.ReactNode
+  params: { locale: string }
 }) {
-  unstable_setRequestLocale(params.locale);
+  // Enable static rendering
+  unstable_setRequestLocale(locale)
 
-  // Validate that the incoming `locale` parameter is valid
-  if (!isValidLocale(params.locale)) notFound();
+  // Validate the locale
+  if (!isValidLocale(locale)) notFound()
 
-  const messages = await import(`../../../messages/${params.locale}.json`).then(
-    (module) => module.default
-  ).catch(() => {
-    console.error(`Failed to load messages for locale ${params.locale}`);
-    return {};
-  });
-
-  const direction = isRtlLocale(params.locale) ? 'rtl' : 'ltr';
+  let messages
+  try {
+    messages = (await import(`../../../messages/${locale}.json`)).default
+  } catch (error) {
+    notFound()
+  }
 
   return (
-    <html lang={params.locale} dir={direction} suppressHydrationWarning>
-      <head>
-        <meta charSet="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-      </head>
-      <body suppressHydrationWarning>
+    <html lang={locale} dir={isRtlLocale(locale) ? 'rtl' : 'ltr'}>
+      <body>
         <div className={`${inter.className} flex flex-col min-h-screen`}>
-          <NextIntlClientProvider locale={params.locale} messages={messages}>
+          <NextIntlClientProvider locale={locale} messages={messages}>
             <Header />
             <main className="flex-grow">
               {children}
@@ -67,5 +47,5 @@ export default async function LocaleLayout({
         </div>
       </body>
     </html>
-  );
+  )
 }
