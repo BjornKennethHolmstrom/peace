@@ -6,7 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="refresh" content="0;url=/peace/en">
     <script>
-      window.location.href = "/peace/en" + window.location.search + window.location.hash;
+      // Handle both local development and GitHub Pages paths
+      const basePath = window.location.hostname === 'localhost' ? '' : '/peace';
+      window.location.href = basePath + "/en" + window.location.search + window.location.hash;
     </script>
     <style>
       body {
