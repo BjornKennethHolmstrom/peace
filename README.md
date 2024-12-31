@@ -1,10 +1,10 @@
 # peace
 
-A platform dedicated to ending armed conflicts worldwide.
+A platform to end armed conflicts worldwide.
 
 ## Project Overview
 
-This project aims to:
+This project will:
 - Explore peaceful common ground across religious and non-religious perspectives
 - Provide resources and information about specific conflicts
 - Create opportunities for dialogue and understanding
