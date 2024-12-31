@@ -1,87 +1,90 @@
 {
   "Index": {
     "title": "paix",
-    "description": "Mettre fin aux conflits armés dans le monde.",
+    "description": "Mettre fin aux conflits armés dans le monde",
     "takeAction": "Agir",
     "learnMore": "En Savoir Plus",
     "sections": {
       "commonGround": {
-        "title": "Trouver un Terrain d'Entente",
-        "description": "Explorez les valeurs et principes communs qui peuvent combler les divisions et favoriser la compréhension entre différents groupes."
+        "title": "Compréhension Mutuelle",
+        "description": "Trouver des chemins vers la paix par la compréhension mutuelle et les valeurs humaines partagées"
       },
       "conflicts": {
-        "title": "Conflits Actuels",
-        "description": "Accédez à une analyse détaillée et aux étapes concrètes pour résoudre les conflits actifs dans le monde."
+        "title": "Conflits Actifs",
+        "description": "Conflits actuels et étapes concrètes vers leur résolution"
       },
       "action": {
         "title": "Action Directe",
-        "description": "Contribuez aux efforts de construction de la paix et de résolution des conflits."
+        "description": "Rejoignez les efforts pour mettre fin aux conflits armés par des actions concrètes et la collaboration"
       }
     },
     "joinDiscord": {
-      "title": "Rejoignez le serveur discord de paix",
-      "description": "Connectez-vous avec d'autres pour la paix",
+      "title": "Rejoignez le Serveur de la Paix",
+      "description": "Travaillez directement avec d'autres pour mettre fin aux conflits armés",
       "button": "Rejoindre Discord"
     }
   },
   "Navigation": {
-    "message": "Il est temps de mettre fin aux conflits armés dans le monde. C'est à nous tous de nous y engager",
-    "commonGround": "Terrain d'Entente",
+    "message": "Il est temps de mettre fin aux conflits armés dans le monde. C'est à nous tous d'agir",
+    "commonGround": "Compréhension",
     "conflicts": "Conflits",
     "takeAction": "Agir"
   },
   "TakeAction": {
     "title": "Agir",
-    "description": "La paix nécessite à la fois une transformation intérieure et une action extérieure. Choisissez votre voie ou combinez les deux approches.",
+    "description": "Actions directes pour mettre fin aux conflits armés",
     "readMore": "En savoir plus",
     "sections": {
       "inner": {
-        "title": "Chemin Intérieur vers la Paix",
-        "description": "Découvrez comment la paix intérieure et la compréhension de soi contribuent à la paix mondiale"
+        "title": "Compréhension Personnelle",
+        "description": "Comment la clarté de pensée et la compréhension mènent à un travail de paix efficace"
       },
       "external": {
-        "title": "Actions Externes",
-        "description": "Prenez des mesures concrètes pour promouvoir la paix par la communication et l'engagement"
+        "title": "Actions Directes",
+        "description": "Mesures concrètes que vous pouvez prendre pour aider à mettre fin aux conflits armés"
       },
       "join": {
-        "title": "Unir nos Forces",
-        "description": "Connectez-vous avec d'autres personnes œuvrant pour la paix mondiale"
+        "title": "Travailler Ensemble",
+        "description": "Connectez-vous avec d'autres qui travaillent activement à mettre fin aux conflits"
       }
     }
   },
-  "InnerPath": {
-    "title": "Chemin Intérieur vers la Paix",
-    "introduction": "Le chemin vers la paix mondiale commence à l'intérieur. En comprenant notre esprit et notre cœur, nous créons le fondement d'une paix durable.",
-    "sections": {
-      "mind": {
-        "title": "Comprendre l'Esprit",
-        "description": "Notre esprit crée souvent du stress et des conflits par une saisie et un attachement constants.",
-        "points": {
-          "grasping": "Observez comment l'esprit cherche continuellement à saisir et retenir les pensées et les émotions",
-          "observation": "Apprenez à observer ces schémas sans vous y faire prendre",
-          "beyond": "Découvrez la paix qui existe au-delà de la saisie mentale"
-        }
-      },
-      "practices": {
-        "title": "Pratiques Quotidiennes Simples",
-        "observation": {
-          "title": "Observation Consciente",
-          "description": "Prenez chaque jour le temps d'observer simplement vos pensées et sentiments sans jugement"
-        },
-        "presence": {
-          "title": "Conscience du Moment Présent",
-          "description": "Pratiquez la présence totale dans les activités quotidiennes simples"
-        },
-        "connection": {
-          "title": "Connexion Universelle",
-          "description": "Expérimentez votre connexion à la vie au-delà de l'identité personnelle"
-        }
-      },
-      "deeper": {
-        "title": "Compréhension Plus Profonde",
-        "description": "En nous observant, nous commençons à voir comment la paix personnelle et collective sont interconnectées.",
-        "quote": "La véritable paix émerge lorsque nous reconnaissons notre connexion essentielle à toute vie"
+  "DirectActions": {
+    "title": "Actions Directes",
+    "contact": {
+      "title": "Contacter les Décideurs",
+      "description": "Votre voix compte dans la fin des conflits armés. Contactez ceux qui ont le pouvoir de faire changer les choses.",
+      "howTo": "Comment communiquer efficacement :",
+      "steps": {
+        "findReps": "Identifiez vos représentants et les missions diplomatiques concernées",
+        "writeLetter": "Rédigez un message clair et concis axé sur les actions spécifiques nécessaires",
+        "followUp": "Assurez un suivi régulier et partagez les réponses avec d'autres"
       }
+    },
+    "aid": {
+      "title": "Soutenir l'Aide Humanitaire",
+      "description": "Aidez les organisations qui fournissent une assistance directe dans les zones de conflit.",
+      "howTo": "Comment aider efficacement :",
+      "steps": {
+        "research": "Recherchez les organisations travaillant dans la zone de conflit",
+        "verify": "Vérifiez leurs références et leur expérience",
+        "support": "Contribuez et encouragez d'autres à soutenir les organisations vérifiées"
+      }
+    },
+    "info": {
+      "title": "Partager des Informations Vérifiées",
+      "description": "Aidez à diffuser des informations précises sur les conflits et les efforts de paix.",
+      "howTo": "Comment partager de manière responsable :",
+      "steps": {
+        "verify": "Vérifiez toujours les informations auprès de plusieurs sources fiables",
+        "focus": "Concentrez-vous sur les développements constructifs et les solutions",
+        "share": "Partagez via des canaux appropriés avec un contexte clair"
+      }
+    },
+    "discord": {
+      "title": "Travailler Ensemble",
+      "description": "Rejoignez d'autres personnes qui travaillent activement à mettre fin aux conflits armés. Coordonnez les actions et partagez les ressources.",
+      "button": "Rejoindre le Serveur Discord"
     }
   }
 }

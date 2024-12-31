@@ -1,87 +1,90 @@
 {
   "Index": {
     "title": "Frieden",
-    "description": "Beendigung bewaffneter Konflikte weltweit.",
+    "description": "Beendigung bewaffneter Konflikte weltweit",
     "takeAction": "Aktiv Werden",
     "learnMore": "Mehr Erfahren",
     "sections": {
       "commonGround": {
-        "title": "Gemeinsamkeiten Finden",
-        "description": "Erkunden Sie gemeinsame Werte und Prinzipien, die Gräben überbrücken und Verständigung zwischen verschiedenen Gruppen fördern können."
+        "title": "Einander Verstehen",
+        "description": "Wege zum Frieden durch gegenseitiges Verständnis und gemeinsame menschliche Werte finden"
       },
       "conflicts": {
-        "title": "Aktuelle Konflikte",
-        "description": "Zugang zu detaillierten Analysen und konkreten Schritten zur Lösung aktiver Konflikte weltweit."
+        "title": "Aktive Konflikte",
+        "description": "Aktuelle Konflikte und konkrete Schritte zu ihrer Lösung"
       },
       "action": {
         "title": "Direktes Handeln",
-        "description": "Tragen Sie zu Friedensaufbau und Konfliktlösung bei."
+        "description": "Gemeinsam an der Beendigung bewaffneter Konflikte arbeiten"
       }
     },
     "joinDiscord": {
-      "title": "Tritt dem discord-server für frieden bei",
-      "description": "Verbinde dich mit anderen für frieden",
-      "button": "Discord beitreten"
+      "title": "Discord-Server Beitreten",
+      "description": "Direkt mit anderen zusammenarbeiten, um bewaffnete Konflikte zu beenden",
+      "button": "Discord Beitreten"
     }
   },
   "Navigation": {
-    "message": "Es ist Zeit, die bewaffneten Konflikte der Welt zu beenden. Es liegt an uns allen, uns dazu zu verpflichten",
-    "commonGround": "Gemeinsamkeiten",
+    "message": "Es ist Zeit, die bewaffneten Konflikte der Welt zu beenden. Es liegt an uns allen, dies zu verwirklichen",
+    "commonGround": "Verständnis",
     "conflicts": "Konflikte",
     "takeAction": "Aktiv Werden"
   },
   "TakeAction": {
     "title": "Aktiv Werden",
-    "description": "Frieden erfordert sowohl innere Transformation als auch äußeres Handeln. Wählen Sie Ihren Weg oder kombinieren Sie beide Ansätze.",
+    "description": "Direkte Schritte zur Beendigung bewaffneter Konflikte",
     "readMore": "Mehr erfahren",
     "sections": {
       "inner": {
-        "title": "Innerer Weg zum Frieden",
-        "description": "Entdecken Sie, wie innerer Frieden und Selbstverständnis zum globalen Frieden beitragen"
+        "title": "Persönliches Verständnis",
+        "description": "Wie klares Denken und Verstehen zu effektiver Friedensarbeit führen"
       },
       "external": {
-        "title": "Äußere Aktionen",
-        "description": "Unternehmen Sie konkrete Schritte zur Förderung des Friedens durch Kommunikation und Engagement"
+        "title": "Direkte Aktionen",
+        "description": "Konkrete Schritte, die Sie zur Beendigung bewaffneter Konflikte unternehmen können"
       },
       "join": {
-        "title": "Kräfte vereinen",
-        "description": "Verbinden Sie sich mit anderen, die weltweit für den Frieden arbeiten"
+        "title": "Zusammenarbeit",
+        "description": "Mit anderen in Verbindung treten, die aktiv an der Beendigung von Konflikten arbeiten"
       }
     }
   },
-  "InnerPath": {
-    "title": "Innerer Weg zum Frieden",
-    "introduction": "Der Weg zum globalen Frieden beginnt im Inneren. Durch das Verstehen unseres Geistes und Herzens schaffen wir die Grundlage für dauerhaften Frieden.",
-    "sections": {
-      "mind": {
-        "title": "Den Geist verstehen",
-        "description": "Unser Geist erzeugt oft Stress und Konflikt durch ständiges Festhalten und Anhaftung.",
-        "points": {
-          "grasping": "Bemerken Sie, wie der Geist ständig versucht, Gedanken und Emotionen festzuhalten",
-          "observation": "Lernen Sie, diese Muster zu beobachten, ohne sich in ihnen zu verfangen",
-          "beyond": "Entdecken Sie den Frieden, der jenseits des geistigen Festhaltens existiert"
-        }
-      },
-      "practices": {
-        "title": "Einfache tägliche Übungen",
-        "observation": {
-          "title": "Achtsame Beobachtung",
-          "description": "Nehmen Sie sich jeden Tag Zeit, Ihre Gedanken und Gefühle ohne Urteil zu beobachten"
-        },
-        "presence": {
-          "title": "Gegenwartsbewusstsein",
-          "description": "Üben Sie vollständige Präsenz in einfachen täglichen Aktivitäten"
-        },
-        "connection": {
-          "title": "Universelle Verbindung",
-          "description": "Erfahren Sie Ihre Verbindung zum Leben jenseits persönlicher Identität"
-        }
-      },
-      "deeper": {
-        "title": "Tieferes Verständnis",
-        "description": "Wenn wir uns selbst beobachten, beginnen wir zu sehen, wie persönlicher und kollektiver Frieden miteinander verbunden sind.",
-        "quote": "Wahrer Frieden entsteht, wenn wir unsere wesentliche Verbindung zu allem Leben erkennen"
+  "DirectActions": {
+    "title": "Direkte Aktionen",
+    "contact": {
+      "title": "Entscheidungsträger Kontaktieren",
+      "description": "Ihre Stimme ist wichtig bei der Beendigung bewaffneter Konflikte. Kontaktieren Sie diejenigen, die Veränderungen bewirken können.",
+      "howTo": "So kommunizieren Sie effektiv:",
+      "steps": {
+        "findReps": "Identifizieren Sie Ihre Vertreter und relevante diplomatische Missionen",
+        "writeLetter": "Verfassen Sie eine klare, präzise Nachricht mit Fokus auf konkrete notwendige Maßnahmen",
+        "followUp": "Bleiben Sie regelmäßig dran und teilen Sie Antworten mit anderen"
       }
+    },
+    "aid": {
+      "title": "Humanitäre Hilfe Unterstützen",
+      "description": "Helfen Sie Organisationen, die direkte Unterstützung in Konfliktgebieten leisten.",
+      "howTo": "So helfen Sie effektiv:",
+      "steps": {
+        "research": "Recherchieren Sie Organisationen, die im Konfliktgebiet tätig sind",
+        "verify": "Überprüfen Sie deren Qualifikationen und Erfolgsbilanz",
+        "support": "Leisten Sie einen Beitrag und ermutigen Sie andere, verifizierte Organisationen zu unterstützen"
+      }
+    },
+    "info": {
+      "title": "Verifizierte Informationen Teilen",
+      "description": "Helfen Sie dabei, genaue Informationen über Konflikte und Friedensbemühungen zu verbreiten.",
+      "howTo": "So teilen Sie verantwortungsvoll:",
+      "steps": {
+        "verify": "Überprüfen Sie Informationen immer durch mehrere verlässliche Quellen",
+        "focus": "Konzentrieren Sie sich auf konstruktive Entwicklungen und Lösungen",
+        "share": "Teilen Sie über geeignete Kanäle mit klarem Kontext"
+      }
+    },
+    "discord": {
+      "title": "Zusammenarbeiten",
+      "description": "Schließen Sie sich anderen an, die aktiv an der Beendigung bewaffneter Konflikte arbeiten. Koordinieren Sie Aktionen und teilen Sie Ressourcen.",
+      "button": "Discord-Server Beitreten"
     }
   }
 }

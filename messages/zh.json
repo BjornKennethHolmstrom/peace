@@ -1,87 +1,90 @@
 {
   "Index": {
     "title": "和平",
-    "description": "终止全球武装冲突。",
+    "description": "终止全球武装冲突",
     "takeAction": "采取行动",
     "learnMore": "了解更多",
     "sections": {
       "commonGround": {
-        "title": "寻找共识",
-        "description": "探索可以消除分歧、促进不同群体间理解的共同价值观和原则。"
+        "title": "相互理解",
+        "description": "通过相互理解和共同的人类价值观寻找和平之路"
       },
       "conflicts": {
-        "title": "当前冲突",
-        "description": "获取详细分析和解决全球活跃冲突的具体步骤。"
+        "title": "现有冲突",
+        "description": "当前冲突及其解决的具体步骤"
       },
       "action": {
         "title": "直接行动",
-        "description": "为和平建设和冲突解决做出贡献。"
+        "description": "通过具体步骤和合作共同努力终止武装冲突"
       }
     },
     "joinDiscord": {
-      "title": "加入和平discord服务器",
-      "description": "与他人联系共创和平",
+      "title": "加入和平服务器",
+      "description": "与他人直接合作终止武装冲突",
       "button": "加入Discord"
     }
   },
   "Navigation": {
-    "message": "是时候结束世界上的武装冲突了。这需要我们所有人的共同承诺",
-    "commonGround": "共识",
+    "message": "是时候结束世界上的武装冲突了。这需要我们所有人的共同努力",
+    "commonGround": "理解",
     "conflicts": "冲突",
-    "takeAction": "采取行动"
+    "takeAction": "行动"
   },
   "TakeAction": {
     "title": "采取行动",
-    "description": "和平需要内在转化和外在行动。选择你的道路或结合两种方式。",
+    "description": "终止武装冲突的直接步骤",
     "readMore": "了解更多",
     "sections": {
       "inner": {
-        "title": "通往和平的内在之路",
-        "description": "发现内在平和与自我理解如何促进全球和平"
+        "title": "个人理解",
+        "description": "清晰的思维和理解如何带来有效的和平工作"
       },
       "external": {
-        "title": "外在行动",
-        "description": "通过沟通和参与采取具体步骤促进和平"
+        "title": "直接行动",
+        "description": "你可以采取的帮助终止武装冲突的具体步骤"
       },
       "join": {
-        "title": "联合力量",
-        "description": "与全球致力于和平的其他人建立联系"
+        "title": "共同努力",
+        "description": "与积极致力于终止冲突的其他人联系"
       }
     }
   },
-  "InnerPath": {
-    "title": "通往和平的内在之路",
-    "introduction": "全球和平的道路始于内心。通过理解我们的心智和内心，我们为持久和平奠定基础。",
-    "sections": {
-      "mind": {
-        "title": "理解心智",
-        "description": "我们的心智常常通过持续的执着和依附制造压力和冲突。",
-        "points": {
-          "grasping": "注意心智如何不断试图抓取和保持思维和情绪",
-          "observation": "学习观察这些模式而不被其困住",
-          "beyond": "发现超越心智执着之外的平和"
-        }
-      },
-      "practices": {
-        "title": "简单的日常练习",
-        "observation": {
-          "title": "正念观察",
-          "description": "每天花时间简单地观察你的想法和感受，不加评判"
-        },
-        "presence": {
-          "title": "当下觉知",
-          "description": "在简单的日常活动中练习完全的在场"
-        },
-        "connection": {
-          "title": "普遍联系",
-          "description": "体验超越个人身份的生命联结"
-        }
-      },
-      "deeper": {
-        "title": "更深的理解",
-        "description": "当我们观察自己时，我们开始看到个人和集体和平如何相互联系。",
-        "quote": "当我们认识到与所有生命的本质联系时，真正的和平就会出现"
+  "DirectActions": {
+    "title": "直接行动",
+    "contact": {
+      "title": "联系决策者",
+      "description": "您的声音对于终止武装冲突很重要。联系那些有能力带来改变的人。",
+      "howTo": "如何有效沟通：",
+      "steps": {
+        "findReps": "确定您的代表和相关外交使团",
+        "writeLetter": "写一封清晰简洁的信息，重点关注所需的具体行动",
+        "followUp": "定期跟进并与他人分享回应"
       }
+    },
+    "aid": {
+      "title": "支持人道主义援助",
+      "description": "帮助在冲突地区提供直接援助的组织。",
+      "howTo": "如何有效帮助：",
+      "steps": {
+        "research": "研究在冲突地区工作的组织",
+        "verify": "验证他们的资质和工作记录",
+        "support": "作出贡献并鼓励他人支持经验证的组织"
+      }
+    },
+    "info": {
+      "title": "分享已验证信息",
+      "description": "帮助传播关于冲突和和平努力的准确信息。",
+      "howTo": "如何负责任地分享：",
+      "steps": {
+        "verify": "始终通过多个可靠来源验证信息",
+        "focus": "关注建设性发展和解决方案",
+        "share": "通过适当渠道分享，并提供清晰背景"
+      }
+    },
+    "discord": {
+      "title": "共同努力",
+      "description": "加入积极致力于终止武装冲突的其他人。协调行动并分享资源。",
+      "button": "加入Discord服务器"
     }
   }
 }

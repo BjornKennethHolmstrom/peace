@@ -6,83 +6,85 @@
     "learnMore": "Learn More",
     "sections": {
       "commonGround": {
-        "title": "Finding Common Ground",
-        "description": "Explore shared values and principles that can bridge divides and foster understanding between different groups."
+        "title": "Understanding Each Other",
+        "description": "Find paths to peace through mutual understanding and shared human values."
       },
       "conflicts": {
-        "title": "Current Conflicts",
-        "description": "Access detailed analysis and concrete steps to resolve active conflicts around the world."
+        "title": "Active Conflicts",
+        "description": "Current conflicts and concrete steps toward their resolution."
       },
       "action": {
         "title": "Direct Action",
-        "description": "Contribute to peace-building efforts and conflict resolution."
+        "description": "Join efforts to end armed conflicts through concrete steps and collaboration."
       }
     },
     "joinDiscord": {
-      "title": "Join the Discord server for peace",
-      "description": "End armed conflicts and build lasting peace.",
-      "button": "Join the Discord server"
+      "title": "Join the Peace Discord Server",
+      "description": "Work directly with others to end armed conflicts.",
+      "button": "Join Discord"
     }
   },
   "Navigation": {
     "message": "It is time to end the world's armed conflicts. It is up to all of us to commit to this",
-    "commonGround": "Common Ground",
+    "commonGround": "Understanding",
     "conflicts": "Conflicts",
     "takeAction": "Take Action"
   },
   "TakeAction": {
     "title": "Take Action",
-    "description": "Peace requires both inner transformation and outer action. Choose your path or combine both approaches.",
+    "description": "Direct steps toward ending armed conflicts.",
     "readMore": "Learn more",
     "sections": {
       "inner": {
-        "title": "Inner Path to Peace",
-        "description": "Discover how inner peace and self-understanding contribute to global peace"
+        "title": "Personal Understanding",
+        "description": "How clear thinking and understanding lead to effective peace work"
       },
       "external": {
-        "title": "External Actions",
-        "description": "Take concrete steps to promote peace through communication and engagement"
+        "title": "Direct Actions",
+        "description": "Concrete steps you can take to help end armed conflicts"
       },
       "join": {
-        "title": "Join Forces",
-        "description": "Connect with others working toward peace globally"
+        "title": "Work Together",
+        "description": "Connect with others actively working to end conflicts"
       }
     }
   },
-  "InnerPath": {
-    "title": "Inner Path to Peace",
-    "introduction": "The path to global peace begins within. By understanding our own minds and hearts, we create the foundation for lasting peace.",
-    "sections": {
-      "mind": {
-        "title": "Understanding the Mind",
-        "description": "Our minds often create stress and conflict through constant grasping and attachment.",
-        "points": {
-          "grasping": "Notice how the mind continuously seeks to grasp and hold onto thoughts and emotions",
-          "observation": "Learn to observe these patterns without getting caught in them",
-          "beyond": "Discover the peace that exists beyond mental grasping"
-        }
-      },
-      "practices": {
-        "title": "Simple Daily Practices",
-        "observation": {
-          "title": "Mindful Observation",
-          "description": "Take time each day to simply observe your thoughts and feelings without judgment"
-        },
-        "presence": {
-          "title": "Present Moment Awareness",
-          "description": "Practice being fully present in simple daily activities"
-        },
-        "connection": {
-          "title": "Universal Connection",
-          "description": "Experience your connection to life beyond personal identity"
-        }
-      },
-      "deeper": {
-        "title": "Deeper Understanding",
-        "description": "As we observe ourselves, we begin to see how personal and collective peace are interconnected.",
-        "quote": "True peace emerges when we recognize our essential connection to all life"
+  "DirectActions": {
+    "title": "Direct Actions",
+    "contact": {
+      "title": "Contact Decision Makers",
+      "description": "Your voice matters in ending armed conflicts. Reach out to those with the power to make change.",
+      "howTo": "How to contact effectively:",
+      "steps": {
+        "findReps": "Identify your representatives and relevant diplomatic missions",
+        "writeLetter": "Write a clear, concise message focusing on specific actions needed",
+        "followUp": "Follow up regularly and share responses with others"
       }
+    },
+    "aid": {
+      "title": "Support Humanitarian Aid",
+      "description": "Help organizations providing direct assistance in conflict zones.",
+      "howTo": "How to help effectively:",
+      "steps": {
+        "research": "Research organizations working in the conflict area",
+        "verify": "Verify their credentials and track record",
+        "support": "Contribute and encourage others to support verified organizations"
+      }
+    },
+    "info": {
+      "title": "Share Verified Information",
+      "description": "Help spread accurate information about conflicts and peace efforts.",
+      "howTo": "How to share responsibly:",
+      "steps": {
+        "verify": "Always verify information through multiple reliable sources",
+        "focus": "Focus on constructive developments and solutions",
+        "share": "Share through appropriate channels with clear context"
+      }
+    },
+    "discord": {
+      "title": "Work Together",
+      "description": "Join others actively working to end armed conflicts. Coordinate actions and share resources.",
+      "button": "Join Discord Server"
     }
   }
 }
-
