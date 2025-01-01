@@ -1,34 +1,29 @@
 {
   "Index": {
     "title": "paix",
-    "description": "Mettre fin aux conflits armés dans le monde",
-    "takeAction": "Agir",
-    "learnMore": "En Savoir Plus",
-    "sections": {
-      "commonGround": {
-        "title": "Compréhension Mutuelle",
-        "description": "Trouver des chemins vers la paix par la compréhension mutuelle et les valeurs humaines partagées"
+    "cards": {
+      "understanding": {
+        "title": "Comprendre",
+        "description": "Découvrez la dynamique des conflits et les chemins vers la paix",
+        "button": "Comprendre"
       },
-      "conflicts": {
-        "title": "Conflits Actifs",
-        "description": "Conflits actuels et étapes concrètes vers leur résolution"
+      "discord": {
+        "title": "Travailler Ensemble",
+        "description": "Rejoignez d'autres personnes qui travaillent activement à mettre fin aux conflits armés",
+        "button": "Rejoindre Discord"
       },
       "action": {
-        "title": "Action Directe",
-        "description": "Rejoignez les efforts pour mettre fin aux conflits armés par des actions concrètes et la collaboration"
+        "title": "Agir",
+        "description": "Actions directes que vous pouvez entreprendre pour aider à mettre fin aux conflits",
+        "button": "Agir Maintenant"
       }
-    },
-    "joinDiscord": {
-      "title": "Rejoignez le Serveur de la Paix",
-      "description": "Travaillez directement avec d'autres pour mettre fin aux conflits armés",
-      "button": "Rejoindre Discord"
     }
   },
   "Navigation": {
-    "message": "Il est temps de mettre fin aux conflits armés dans le monde. C'est à nous tous d'agir",
-    "commonGround": "Compréhension",
-    "conflicts": "Conflits",
-    "takeAction": "Agir"
+    "message": "Il est temps de mettre fin aux conflits armés dans le monde. C'est à nous tous de nous y engager",
+    "understanding": "Comprendre",
+    "takeAction": "Agir",
+    "discord": "Rejoindre Discord"
   },
   "TakeAction": {
     "title": "Agir",
@@ -85,6 +80,66 @@
       "title": "Travailler Ensemble",
       "description": "Rejoignez d'autres personnes qui travaillent activement à mettre fin aux conflits armés. Coordonnez les actions et partagez les ressources.",
       "button": "Rejoindre le Serveur Discord"
+    }
+  },
+  "Understanding": {
+    "title": "Comprendre les Conflits et la Paix",
+    "description": "Une compréhension claire mène à une action efficace. Découvrez pourquoi nous avons besoin de la paix, la dynamique des conflits et les chemins vers la paix.",
+    "why": {
+      "title": "Pourquoi la Paix est Importante",
+      "human": {
+        "title": "Coût Humain",
+        "description": "Les conflits armés causent d'immenses souffrances humaines et détruisent les communautés. Chacun mérite de vivre sans peur de la violence."
+      },
+      "resources": {
+        "title": "Meilleure Utilisation des Ressources",
+        "description": "Les ressources actuellement utilisées pour les conflits pourraient soutenir l'éducation, la santé, la recherche scientifique et la résolution des défis mondiaux."
+      },
+      "collaboration": {
+        "title": "Travailler Ensemble",
+        "description": "L'humanité fait face à des défis qui nécessitent une coopération mondiale. Du changement climatique à l'exploration spatiale, notre avenir dépend de notre collaboration."
+      }
+    },
+    "concepts": {
+      "title": "Concepts Clés",
+      "mutual": {
+        "title": "Compréhension Mutuelle",
+        "description": "Les conflits persistent souvent en raison d'incompréhensions et d'un manque de communication. Reconnaître les besoins et aspirations humains communs ouvre des voies vers la résolution."
+      },
+      "needs": {
+        "title": "Besoins Humains Fondamentaux",
+        "description": "Tous les êtres humains ont besoin de sécurité, de dignité et d'opportunités. Comprendre ces besoins communs aide à identifier des solutions bénéfiques pour tous."
+      },
+      "cooperation": {
+        "title": "Coopération Plutôt que Compétition",
+        "description": "La paix émerge lorsque nous passons de la compétition pour les ressources à la coopération dans la résolution des défis communs."
+      }
+    },
+    "practical": {
+      "title": "Compréhension Pratique",
+      "research": {
+        "title": "Recherche et Information",
+        "description": "Comprendre les conflits nécessite une recherche et une analyse minutieuses.",
+        "points": {
+          "sources": "Utiliser des sources fiables et des organisations de vérification des faits",
+          "context": "Étudier le contexte historique et culturel",
+          "perspectives": "Considérer différents points de vue et expériences"
+        }
+      },
+      "analysis": {
+        "title": "Analyse et Perspicacité",
+        "description": "Décomposer des situations complexes en parties gérables.",
+        "points": {
+          "factors": "Identifier les facteurs clés qui alimentent le conflit",
+          "interests": "Comprendre les intérêts fondamentaux des différentes parties",
+          "solutions": "Rechercher des exemples réussis de résolution de conflits"
+        }
+      }
+    },
+    "action": {
+      "title": "Passer à l'Action",
+      "description": "La compréhension est essentielle mais doit mener à l'action. Utilisez vos connaissances pour soutenir des initiatives de paix efficaces et la résolution des conflits.",
+      "conclusion": "Rejoignez d'autres personnes pour travailler vers des solutions concrètes basées sur une compréhension partagée."
     }
   }
 }

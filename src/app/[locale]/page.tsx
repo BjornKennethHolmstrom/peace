@@ -1,3 +1,5 @@
+// src/app/[locale]/page.tsx
+
 import Link from 'next/link';
 import { useTranslations } from 'next-intl'
 import { unstable_setRequestLocale } from 'next-intl/server'
@@ -8,77 +10,65 @@ export default function HomePage({ params: { locale } }: { params: { locale: str
 
   return (
     <div className="min-h-screen">
-      {/* Hero Section */}
+      {/* Simple Title */}
       <section className="py-16 px-4">
         <div className="max-w-3xl mx-auto text-center">
-          <h1 className="text-4xl font-normal mb-6">
+          <h1 className="text-4xl font-normal">
             {t('title')}
           </h1>
-          <p className="text-xl text-gray-600 mb-8">
-            {t('description')}
-          </p>
-          <div className="flex justify-center gap-4">
-            <Link 
-              href={`/${locale}/take-action`} 
-              className="px-6 py-2 border border-black hover:bg-black hover:text-white transition-colors"
-            >
-              {t('takeAction')}
-            </Link>
-            <Link 
-              href={`/${locale}/common-ground`}
-              className="px-6 py-2 border border-gray-300 hover:border-black transition-colors"
-            >
-              {t('learnMore')}
-            </Link>
-          </div>
         </div>
       </section>
 
-      {/* Main Content Sections */}
-      <section className="py-12 px-4 bg-gray-50">
-        <div className="max-w-5xl mx-auto grid md:grid-cols-3 gap-8">
-          <div className="p-6 bg-white">
-            <h2 className="text-xl mb-4 font-normal">
-              {t('sections.commonGround.title')}
+      {/* Three Cards Section */}
+      <section className="py-8 px-4">
+        <div className="max-w-6xl mx-auto grid md:grid-cols-3 gap-8">
+          {/* Understanding Card */}
+          <div className="p-8 bg-white border rounded hover:border-black transition-colors text-center">
+            <h2 className="text-2xl mb-4 font-normal">
+              {t('cards.understanding.title')}
             </h2>
-            <p className="text-gray-600">
-              {t('sections.commonGround.description')}
+            <p className="text-gray-600 mb-6 min-h-[4rem]">
+              {t('cards.understanding.description')}
             </p>
+            <Link 
+              href={`/${locale}/understanding`}
+              className="inline-block px-6 py-2 border border-black hover:bg-black hover:text-white transition-colors"
+            >
+              {t('cards.understanding.button')}
+            </Link>
           </div>
-          <div className="p-6 bg-white">
-            <h2 className="text-xl mb-4 font-normal">
-              {t('sections.conflicts.title')}
-            </h2>
-            <p className="text-gray-600">
-              {t('sections.conflicts.description')}
-            </p>
-          </div>
-          <div className="p-6 bg-white">
-            <h2 className="text-xl mb-4 font-normal">
-              {t('sections.action.title')}
-            </h2>
-            <p className="text-gray-600">
-              {t('sections.action.description')}
-            </p>
-          </div>
-        </div>
-      </section>
 
-      {/* Discord Call to Action */}
-      <section className="py-16 px-4">
-        <div className="max-w-3xl mx-auto text-center">
-          <h2 className="text-2xl mb-6 font-normal">
-            {t('joinDiscord.title')}
-          </h2>
-          <p className="text-gray-600 mb-8">
-            {t('joinDiscord.description')}
-          </p>
-          <Link 
-            href={`/${locale}/discord`}
-            className="inline-block px-6 py-2 border border-black hover:bg-black hover:text-white transition-colors"
-          >
-            {t('joinDiscord.button')}
-          </Link>
+          {/* Discord Card */}
+          <div className="p-8 bg-white border rounded hover:border-black transition-colors text-center">
+            <h2 className="text-2xl mb-4 font-normal">
+              {t('cards.discord.title')}
+            </h2>
+            <p className="text-gray-600 mb-6 min-h-[4rem]">
+              {t('cards.discord.description')}
+            </p>
+            <Link 
+              href={`/${locale}/discord`}
+              className="inline-block px-6 py-2 border border-black hover:bg-black hover:text-white transition-colors"
+            >
+              {t('cards.discord.button')}
+            </Link>
+          </div>
+
+          {/* Take Action Card */}
+          <div className="p-8 bg-white border rounded hover:border-black transition-colors text-center">
+            <h2 className="text-2xl mb-4 font-normal">
+              {t('cards.action.title')}
+            </h2>
+            <p className="text-gray-600 mb-6 min-h-[4rem]">
+              {t('cards.action.description')}
+            </p>
+            <Link 
+              href={`/${locale}/take-action`}
+              className="inline-block px-6 py-2 border border-black hover:bg-black hover:text-white transition-colors"
+            >
+              {t('cards.action.button')}
+            </Link>
+          </div>
         </div>
       </section>
     </div>

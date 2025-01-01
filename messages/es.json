@@ -1,34 +1,29 @@
 {
   "Index": {
     "title": "paz",
-    "description": "Poner fin a los conflictos armados en todo el mundo",
-    "takeAction": "Tomar Acción",
-    "learnMore": "Saber Más",
-    "sections": {
-      "commonGround": {
-        "title": "Entendernos",
-        "description": "Encontrar caminos hacia la paz a través del entendimiento mutuo y valores humanos compartidos"
+    "cards": {
+      "understanding": {
+        "title": "Entender",
+        "description": "Aprende sobre la dinámica de los conflictos y los caminos hacia la paz",
+        "button": "Entender"
       },
-      "conflicts": {
-        "title": "Conflictos Activos",
-        "description": "Conflictos actuales y pasos concretos hacia su resolución"
+      "discord": {
+        "title": "Trabajar Juntos",
+        "description": "Únete a otros que trabajan activamente para terminar los conflictos armados",
+        "button": "Unirse a Discord"
       },
       "action": {
-        "title": "Acción Directa",
-        "description": "Únete a los esfuerzos para terminar los conflictos armados mediante pasos concretos y colaboración"
+        "title": "Tomar Acción",
+        "description": "Pasos directos que puedes tomar para ayudar a terminar los conflictos",
+        "button": "Actuar Ahora"
       }
-    },
-    "joinDiscord": {
-      "title": "Únete al Servidor de Paz",
-      "description": "Trabaja directamente con otros para terminar los conflictos armados",
-      "button": "Unirse a Discord"
     }
   },
   "Navigation": {
-    "message": "Es hora de terminar con los conflictos armados del mundo. Depende de todos nosotros",
-    "commonGround": "Entendimiento",
-    "conflicts": "Conflictos",
-    "takeAction": "Tomar Acción"
+    "message": "Es hora de terminar con los conflictos armados del mundo. Depende de todos nosotros comprometernos con esto",
+    "understanding": "Entender",
+    "takeAction": "Tomar Acción",
+    "discord": "Unirse a Discord"
   },
   "TakeAction": {
     "title": "Tomar Acción",
@@ -85,6 +80,66 @@
       "title": "Trabajar Juntos",
       "description": "Únete a otros que trabajan activamente para terminar los conflictos armados. Coordina acciones y comparte recursos.",
       "button": "Unirse al Servidor de Discord"
+    }
+  },
+  "Understanding": {
+    "title": "Entendiendo los Conflictos y la Paz",
+    "description": "El entendimiento claro lleva a la acción efectiva. Aprende sobre por qué necesitamos la paz, la dinámica de los conflictos y los caminos hacia la paz.",
+    "why": {
+      "title": "Por Qué Importa la Paz",
+      "human": {
+        "title": "Costo Humano",
+        "description": "Los conflictos armados causan un inmenso sufrimiento humano y destruyen comunidades. Cada persona merece vivir sin miedo a la violencia."
+      },
+      "resources": {
+        "title": "Mejor Uso de Recursos",
+        "description": "Los recursos actualmente utilizados en conflictos podrían apoyar la educación, la salud, la investigación científica y la resolución de desafíos globales."
+      },
+      "collaboration": {
+        "title": "Trabajar Juntos",
+        "description": "La humanidad enfrenta desafíos que requieren cooperación global. Desde el cambio climático hasta la exploración espacial, nuestro futuro depende de trabajar juntos."
+      }
+    },
+    "concepts": {
+      "title": "Conceptos Clave",
+      "mutual": {
+        "title": "Entendimiento Mutuo",
+        "description": "Los conflictos a menudo persisten debido a malentendidos y falta de comunicación. Reconocer las necesidades y aspiraciones humanas compartidas abre caminos hacia la resolución."
+      },
+      "needs": {
+        "title": "Necesidades Humanas Básicas",
+        "description": "Todas las personas requieren seguridad, dignidad y oportunidades. Entender estas necesidades comunes ayuda a identificar soluciones que beneficien a todos."
+      },
+      "cooperation": {
+        "title": "Cooperación Sobre Competencia",
+        "description": "La paz surge cuando pasamos de la competencia por recursos a la cooperación en la resolución de desafíos compartidos."
+      }
+    },
+    "practical": {
+      "title": "Entendimiento Práctico",
+      "research": {
+        "title": "Investigación e Información",
+        "description": "Entender los conflictos requiere investigación y análisis cuidadoso.",
+        "points": {
+          "sources": "Utiliza fuentes confiables y organizaciones de verificación de hechos",
+          "context": "Estudia el contexto histórico y cultural",
+          "perspectives": "Considera diferentes puntos de vista y experiencias"
+        }
+      },
+      "analysis": {
+        "title": "Análisis y Perspectiva",
+        "description": "Desglosar situaciones complejas en partes manejables.",
+        "points": {
+          "factors": "Identifica los factores clave que impulsan el conflicto",
+          "interests": "Comprende los intereses fundamentales de las distintas partes",
+          "solutions": "Busca ejemplos exitosos de resolución de conflictos"
+        }
+      }
+    },
+    "action": {
+      "title": "Pasar a la Acción",
+      "description": "El entendimiento es esencial pero debe llevar a la acción. Usa tu conocimiento para apoyar iniciativas de paz efectivas y resolución de conflictos.",
+      "conclusion": "Únete a otros en el trabajo hacia soluciones concretas basadas en el entendimiento compartido."
     }
   }
 }

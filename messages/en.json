@@ -1,34 +1,29 @@
 {
   "Index": {
     "title": "peace",
-    "description": "Ending armed conflicts worldwide.",
-    "takeAction": "Take Action",
-    "learnMore": "Learn More",
-    "sections": {
-      "commonGround": {
-        "title": "Understanding Each Other",
-        "description": "Find paths to peace through mutual understanding and shared human values."
+    "cards": {
+      "understanding": {
+        "title": "Understanding",
+        "description": "Learn about conflict dynamics and paths to peace",
+        "button": "Understand"
       },
-      "conflicts": {
-        "title": "Active Conflicts",
-        "description": "Current conflicts and concrete steps toward their resolution."
+      "discord": {
+        "title": "Work Together",
+        "description": "Join others actively working to end armed conflicts",
+        "button": "Join Discord"
       },
       "action": {
-        "title": "Direct Action",
-        "description": "Join efforts to end armed conflicts through concrete steps and collaboration."
+        "title": "Take Action",
+        "description": "Direct steps you can take to help end conflicts",
+        "button": "Act Now"
       }
-    },
-    "joinDiscord": {
-      "title": "Join the Peace Discord Server",
-      "description": "Work directly with others to end armed conflicts.",
-      "button": "Join Discord"
     }
   },
   "Navigation": {
     "message": "It is time to end the world's armed conflicts. It is up to all of us to commit to this",
-    "commonGround": "Understanding",
-    "conflicts": "Conflicts",
-    "takeAction": "Take Action"
+    "understanding": "Understanding",
+    "takeAction": "Take Action",
+    "discord": "Join Discord"
   },
   "TakeAction": {
     "title": "Take Action",
@@ -85,6 +80,68 @@
       "title": "Work Together",
       "description": "Join others actively working to end armed conflicts. Coordinate actions and share resources.",
       "button": "Join Discord Server"
+    }
+  },
+  "Understanding": {
+    "title": "Understanding Conflicts and Peace",
+    "description": "Clear understanding leads to effective action. Learn about why we need peace, the dynamics of conflicts and paths to peace.",
+	"why": {
+	  "title": "Why Peace Matters",
+	  "human": {
+		"title": "Human Cost",
+		"description": "Armed conflicts cause immense human suffering and destroy communities. Every person deserves to live without fear of violence."
+	  },
+	  "resources": {
+		"title": "Better Use of Resources",
+		"description": "Resources currently used for conflict could instead support education, healthcare, scientific research, and solving global challenges."
+	  },
+	  "collaboration": {
+		"title": "Working Together",
+		"description": "Humanity faces challenges that require global cooperation. From climate change to space exploration, our future depends on working together."
+	  }
+	},
+    "concepts": {
+      "title": "Key Concepts",
+      "mutual": {
+        "title": "Mutual Understanding",
+        "description": "Conflicts often persist due to misunderstandings and lack of communication. Recognizing shared human needs and aspirations opens paths to resolution."
+      },
+      "needs": {
+        "title": "Basic Human Needs",
+        "description": "All people require security, dignity, and opportunity. Understanding these common needs helps identify solutions that benefit everyone."
+      },
+      "cooperation": {
+        "title": "Cooperation Over Competition",
+        "description": "Peace emerges when we shift from competition over resources to cooperation in solving shared challenges."
+      }
+    },
+
+    "practical": {
+      "title": "Practical Understanding",
+      "research": {
+        "title": "Research and Information",
+        "description": "Understanding conflicts requires careful research and analysis.",
+        "points": {
+          "sources": "Use reliable sources and fact-checking organizations",
+          "context": "Study historical and cultural context",
+          "perspectives": "Consider different viewpoints and experiences"
+        }
+      },
+      "analysis": {
+        "title": "Analysis and Insight",
+        "description": "Breaking down complex situations into manageable parts.",
+        "points": {
+          "factors": "Identify key factors driving the conflict",
+          "interests": "Understand various parties' core interests",
+          "solutions": "Look for successful examples of conflict resolution"
+        }
+      }
+    },
+
+    "action": {
+      "title": "Moving to Action",
+      "description": "Understanding is essential but must lead to action. Use your knowledge to support effective peace initiatives and conflict resolution.",
+      "conclusion": "Join others in working toward concrete solutions based on shared understanding."
     }
   }
 }

@@ -1,34 +1,29 @@
 {
   "Index": {
     "title": "和平",
-    "description": "终止全球武装冲突",
-    "takeAction": "采取行动",
-    "learnMore": "了解更多",
-    "sections": {
-      "commonGround": {
-        "title": "相互理解",
-        "description": "通过相互理解和共同的人类价值观寻找和平之路"
+    "cards": {
+      "understanding": {
+        "title": "理解",
+        "description": "了解冲突动态和通往和平的路径",
+        "button": "了解"
       },
-      "conflicts": {
-        "title": "现有冲突",
-        "description": "当前冲突及其解决的具体步骤"
+      "discord": {
+        "title": "共同努力",
+        "description": "加入积极致力于终止武装冲突的其他人",
+        "button": "加入Discord"
       },
       "action": {
-        "title": "直接行动",
-        "description": "通过具体步骤和合作共同努力终止武装冲突"
+        "title": "采取行动",
+        "description": "你可以采取的帮助终止冲突的直接步骤",
+        "button": "立即行动"
       }
-    },
-    "joinDiscord": {
-      "title": "加入和平服务器",
-      "description": "与他人直接合作终止武装冲突",
-      "button": "加入Discord"
     }
   },
   "Navigation": {
-    "message": "是时候结束世界上的武装冲突了。这需要我们所有人的共同努力",
-    "commonGround": "理解",
-    "conflicts": "冲突",
-    "takeAction": "行动"
+    "message": "是时候结束世界上的武装冲突了。这需要我们所有人的共同承诺",
+    "understanding": "理解",
+    "takeAction": "采取行动",
+    "discord": "加入Discord"
   },
   "TakeAction": {
     "title": "采取行动",
@@ -85,6 +80,66 @@
       "title": "共同努力",
       "description": "加入积极致力于终止武装冲突的其他人。协调行动并分享资源。",
       "button": "加入Discord服务器"
+    }
+  },
+  "Understanding": {
+    "title": "理解冲突与和平",
+    "description": "清晰的理解引导有效行动。了解为什么我们需要和平，冲突的动态以及通向和平的道路。",
+    "why": {
+      "title": "为什么和平重要",
+      "human": {
+        "title": "人类代价",
+        "description": "武装冲突造成巨大的人类苦难并摧毁社区。每个人都应该生活在没有暴力恐惧的环境中。"
+      },
+      "resources": {
+        "title": "更好地利用资源",
+        "description": "目前用于冲突的资源本可以用于支持教育、医疗、科学研究和解决全球性挑战。"
+      },
+      "collaboration": {
+        "title": "共同努力",
+        "description": "人类面临需要全球合作的挑战。从气候变化到太空探索，我们的未来取决于共同努力。"
+      }
+    },
+    "concepts": {
+      "title": "关键概念",
+      "mutual": {
+        "title": "相互理解",
+        "description": "冲突往往因误解和缺乏沟通而持续。认识到共同的人类需求和愿望能够开辟解决之路。"
+      },
+      "needs": {
+        "title": "基本人类需求",
+        "description": "所有人都需要安全、尊严和机会。理解这些共同需求有助于找到对所有人都有利的解决方案。"
+      },
+      "cooperation": {
+        "title": "合作优于竞争",
+        "description": "当我们从资源竞争转向合作解决共同挑战时，和平就会出现。"
+      }
+    },
+    "practical": {
+      "title": "实践理解",
+      "research": {
+        "title": "研究与信息",
+        "description": "理解冲突需要仔细研究和分析。",
+        "points": {
+          "sources": "使用可靠来源和事实核查组织",
+          "context": "研究历史和文化背景",
+          "perspectives": "考虑不同的观点和经验"
+        }
+      },
+      "analysis": {
+        "title": "分析与洞察",
+        "description": "将复杂情况分解为可管理的部分。",
+        "points": {
+          "factors": "识别驱动冲突的关键因素",
+          "interests": "理解各方的核心利益",
+          "solutions": "寻找成功的冲突解决案例"
+        }
+      }
+    },
+    "action": {
+      "title": "付诸行动",
+      "description": "理解很重要，但必须导向行动。运用你的知识支持有效的和平倡议和冲突解决。",
+      "conclusion": "加入他人，基于共同理解共同努力实现具体解决方案。"
     }
   }
 }

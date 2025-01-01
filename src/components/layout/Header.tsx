@@ -1,3 +1,5 @@
+// src/components/layout/Header.tsx
+
 'use client'
 import Link from 'next/link'
 import { useTranslations } from 'next-intl';
@@ -23,14 +25,17 @@ export default function Header() {
               </p>
             </div>
             <div className="flex items-center space-x-6">
-              <Link href={`/${locale}/common-ground`} className="hover:text-gray-600">
-                {t('commonGround')}
-              </Link>
-              <Link href={`/${locale}/conflicts`} className="hover:text-gray-600">
-                {t('conflicts')}
+              <Link href={`/${locale}/understanding`} className="hover:text-gray-600">
+                {t('understanding')}
               </Link>
               <Link href={`/${locale}/take-action`} className="hover:text-gray-600">
                 {t('takeAction')}
+              </Link>
+              <Link 
+                href={`/${locale}/discord`}
+                className="px-4 py-1 border border-black hover:bg-black hover:text-white transition-colors"
+              >
+                {t('discord')}
               </Link>
               <LanguageSwitcher />
             </div>

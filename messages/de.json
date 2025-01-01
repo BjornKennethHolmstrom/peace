@@ -1,34 +1,29 @@
 {
   "Index": {
     "title": "Frieden",
-    "description": "Beendigung bewaffneter Konflikte weltweit",
-    "takeAction": "Aktiv Werden",
-    "learnMore": "Mehr Erfahren",
-    "sections": {
-      "commonGround": {
-        "title": "Einander Verstehen",
-        "description": "Wege zum Frieden durch gegenseitiges Verständnis und gemeinsame menschliche Werte finden"
+    "cards": {
+      "understanding": {
+        "title": "Verstehen",
+        "description": "Lernen Sie über Konfliktdynamiken und Wege zum Frieden",
+        "button": "Verstehen"
       },
-      "conflicts": {
-        "title": "Aktive Konflikte",
-        "description": "Aktuelle Konflikte und konkrete Schritte zu ihrer Lösung"
+      "discord": {
+        "title": "Zusammenarbeiten",
+        "description": "Schließen Sie sich anderen an, die aktiv an der Beendigung bewaffneter Konflikte arbeiten",
+        "button": "Discord Beitreten"
       },
       "action": {
-        "title": "Direktes Handeln",
-        "description": "Gemeinsam an der Beendigung bewaffneter Konflikte arbeiten"
+        "title": "Aktiv Werden",
+        "description": "Direkte Schritte, die Sie zur Beendigung von Konflikten unternehmen können",
+        "button": "Jetzt Handeln"
       }
-    },
-    "joinDiscord": {
-      "title": "Discord-Server Beitreten",
-      "description": "Direkt mit anderen zusammenarbeiten, um bewaffnete Konflikte zu beenden",
-      "button": "Discord Beitreten"
     }
   },
   "Navigation": {
-    "message": "Es ist Zeit, die bewaffneten Konflikte der Welt zu beenden. Es liegt an uns allen, dies zu verwirklichen",
-    "commonGround": "Verständnis",
-    "conflicts": "Konflikte",
-    "takeAction": "Aktiv Werden"
+    "message": "Es ist Zeit, die bewaffneten Konflikte der Welt zu beenden. Es liegt an uns allen, uns dazu zu verpflichten",
+    "understanding": "Verstehen",
+    "takeAction": "Aktiv Werden",
+    "discord": "Discord Beitreten"
   },
   "TakeAction": {
     "title": "Aktiv Werden",
@@ -85,6 +80,66 @@
       "title": "Zusammenarbeiten",
       "description": "Schließen Sie sich anderen an, die aktiv an der Beendigung bewaffneter Konflikte arbeiten. Koordinieren Sie Aktionen und teilen Sie Ressourcen.",
       "button": "Discord-Server Beitreten"
+    }
+  },
+  "Understanding": {
+    "title": "Konflikte und Frieden Verstehen",
+    "description": "Klares Verständnis führt zu effektivem Handeln. Erfahren Sie, warum wir Frieden brauchen, die Dynamik von Konflikten und Wege zum Frieden.",
+    "why": {
+      "title": "Warum Frieden Wichtig Ist",
+      "human": {
+        "title": "Menschliche Kosten",
+        "description": "Bewaffnete Konflikte verursachen immenses menschliches Leid und zerstören Gemeinschaften. Jeder Mensch verdient es, ohne Angst vor Gewalt zu leben."
+      },
+      "resources": {
+        "title": "Bessere Nutzung der Ressourcen",
+        "description": "Ressourcen, die derzeit für Konflikte verwendet werden, könnten stattdessen Bildung, Gesundheit, wissenschaftliche Forschung und die Lösung globaler Herausforderungen unterstützen."
+      },
+      "collaboration": {
+        "title": "Zusammenarbeit",
+        "description": "Die Menschheit steht vor Herausforderungen, die globale Zusammenarbeit erfordern. Vom Klimawandel bis zur Weltraumforschung - unsere Zukunft hängt von der gemeinsamen Arbeit ab."
+      }
+    },
+    "concepts": {
+      "title": "Schlüsselkonzepte",
+      "mutual": {
+        "title": "Gegenseitiges Verständnis",
+        "description": "Konflikte bestehen oft aufgrund von Missverständnissen und mangelnder Kommunikation. Die Erkennung gemeinsamer menschlicher Bedürfnisse und Bestrebungen eröffnet Wege zur Lösung."
+      },
+      "needs": {
+        "title": "Grundlegende Menschliche Bedürfnisse",
+        "description": "Alle Menschen benötigen Sicherheit, Würde und Chancen. Das Verständnis dieser gemeinsamen Bedürfnisse hilft, Lösungen zu finden, die allen zugute kommen."
+      },
+      "cooperation": {
+        "title": "Kooperation Statt Wettbewerb",
+        "description": "Frieden entsteht, wenn wir vom Wettbewerb um Ressourcen zur Zusammenarbeit bei der Lösung gemeinsamer Herausforderungen übergehen."
+      }
+    },
+    "practical": {
+      "title": "Praktisches Verständnis",
+      "research": {
+        "title": "Forschung und Information",
+        "description": "Das Verstehen von Konflikten erfordert sorgfältige Recherche und Analyse.",
+        "points": {
+          "sources": "Nutzen Sie verlässliche Quellen und Faktenprüfungsorganisationen",
+          "context": "Untersuchen Sie den historischen und kulturellen Kontext",
+          "perspectives": "Berücksichtigen Sie verschiedene Sichtweisen und Erfahrungen"
+        }
+      },
+      "analysis": {
+        "title": "Analyse und Einblick",
+        "description": "Komplexe Situationen in handhabbare Teile zerlegen.",
+        "points": {
+          "factors": "Identifizieren Sie Schlüsselfaktoren, die den Konflikt antreiben",
+          "interests": "Verstehen Sie die Kerninteressen der verschiedenen Parteien",
+          "solutions": "Suchen Sie nach erfolgreichen Beispielen der Konfliktlösung"
+        }
+      }
+    },
+    "action": {
+      "title": "Zum Handeln Übergehen",
+      "description": "Verständnis ist wichtig, muss aber zu Handeln führen. Nutzen Sie Ihr Wissen, um effektive Friedensinitiativen und Konfliktlösung zu unterstützen.",
+      "conclusion": "Schließen Sie sich anderen an, um auf der Grundlage gemeinsamen Verständnisses konkrete Lösungen zu erarbeiten."
     }
   }
 }
