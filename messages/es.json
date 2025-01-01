@@ -1,88 +1,145 @@
 {
   "Index": {
     "title": "paz",
-    "description": "Poner fin a los conflictos armados en todo el mundo.",
-     "takeAction": "Tomar Acción",
-    "learnMore": "Saber Más",
-    "sections": {
-      "commonGround": {
-        "title": "Encontrar Puntos en Común",
-        "description": "Explora valores y principios compartidos que pueden cerrar brechas y fomentar el entendimiento entre diferentes grupos."
+    "cards": {
+      "understanding": {
+        "title": "Entender",
+        "description": "Aprende sobre la dinámica de los conflictos y los caminos hacia la paz",
+        "button": "Entender"
       },
-      "conflicts": {
-        "title": "Conflictos Actuales",
-        "description": "Accede a análisis detallados y pasos concretos para resolver conflictos activos en todo el mundo."
+      "discord": {
+        "title": "Trabajar Juntos",
+        "description": "Únete a otros que trabajan activamente para terminar los conflictos armados",
+        "button": "Unirse a Discord"
       },
       "action": {
-        "title": "Acción Directa",
-        "description": "Contribuye a los esfuerzos de construcción de paz y resolución de conflictos."
+        "title": "Tomar Acción",
+        "description": "Pasos directos que puedes tomar para ayudar a terminar los conflictos",
+        "button": "Actuar Ahora"
       }
-    },
-    "joinDiscord": {
-      "title": "Únete al servidor discord de paz",
-      "description": "Conéctate con otros por la paz",
-      "button": "Unirse a Discord"
     }
   },
   "Navigation": {
-    "description": "Terminando conflictos armados en todo el mundo.",
     "message": "Es hora de terminar con los conflictos armados del mundo. Depende de todos nosotros comprometernos con esto",
-    "commonGround": "Puntos en Común",
-    "conflicts": "Conflictos",
-    "takeAction": "Tomar Acción"
+    "understanding": "Entender",
+    "takeAction": "Tomar Acción",
+    "discord": "Unirse a Discord"
   },
   "TakeAction": {
     "title": "Tomar Acción",
-    "description": "La paz requiere tanto transformación interior como acción exterior. Elige tu camino o combina ambos enfoques.",
+    "description": "Pasos directos hacia el fin de los conflictos armados",
     "readMore": "Saber más",
     "sections": {
       "inner": {
-        "title": "Camino Interior hacia la Paz",
-        "description": "Descubre cómo la paz interior y el autoconocimiento contribuyen a la paz global"
+        "title": "Entendimiento Personal",
+        "description": "Cómo el pensamiento claro y la comprensión conducen a un trabajo de paz efectivo"
       },
       "external": {
-        "title": "Acciones Externas",
-        "description": "Toma pasos concretos para promover la paz a través de la comunicación y el compromiso"
+        "title": "Acciones Directas",
+        "description": "Pasos concretos que puedes tomar para ayudar a terminar los conflictos armados"
       },
       "join": {
-        "title": "Unir Fuerzas",
-        "description": "Conéctate con otros que trabajan por la paz globalmente"
+        "title": "Trabajar Juntos",
+        "description": "Conéctate con otros que trabajan activamente para terminar los conflictos"
       }
     }
   },
-  "InnerPath": {
-    "title": "Camino Interior hacia la Paz",
-    "introduction": "El camino hacia la paz global comienza en el interior. Al comprender nuestra mente y corazón, creamos la base para una paz duradera.",
-    "sections": {
-      "mind": {
-        "title": "Comprendiendo la Mente",
-        "description": "Nuestras mentes a menudo crean estrés y conflicto a través del apego y el aferramiento constante.",
-        "points": {
-          "grasping": "Observa cómo la mente busca continuamente aferrarse a pensamientos y emociones",
-          "observation": "Aprende a observar estos patrones sin quedar atrapado en ellos",
-          "beyond": "Descubre la paz que existe más allá del aferramiento mental"
-        }
-      },
-      "practices": {
-        "title": "Prácticas Diarias Simples",
-        "observation": {
-          "title": "Observación Consciente",
-          "description": "Toma tiempo cada día para simplemente observar tus pensamientos y sentimientos sin juzgar"
-        },
-        "presence": {
-          "title": "Conciencia del Momento Presente",
-          "description": "Practica estar completamente presente en actividades diarias simples"
-        },
-        "connection": {
-          "title": "Conexión Universal",
-          "description": "Experimenta tu conexión con la vida más allá de la identidad personal"
-        }
-      },
-      "deeper": {
-        "title": "Comprensión Más Profunda",
-        "description": "Al observarnos a nosotros mismos, comenzamos a ver cómo la paz personal y colectiva están interconectadas.",
-        "quote": "La verdadera paz emerge cuando reconocemos nuestra conexión esencial con toda la vida"
+  "DirectActions": {
+    "title": "Acciones Directas",
+    "contact": {
+      "title": "Contactar a los Tomadores de Decisiones",
+      "description": "Tu voz es importante para terminar los conflictos armados. Contacta a quienes tienen el poder de generar cambios.",
+      "howTo": "Cómo comunicarse efectivamente:",
+      "steps": {
+        "findReps": "Identifica a tus representantes y misiones diplomáticas relevantes",
+        "writeLetter": "Escribe un mensaje claro y conciso enfocado en acciones específicas necesarias",
+        "followUp": "Da seguimiento regularmente y comparte las respuestas con otros"
       }
+    },
+    "aid": {
+      "title": "Apoyar la Ayuda Humanitaria",
+      "description": "Ayuda a organizaciones que proporcionan asistencia directa en zonas de conflicto.",
+      "howTo": "Cómo ayudar efectivamente:",
+      "steps": {
+        "research": "Investiga organizaciones que trabajan en el área de conflicto",
+        "verify": "Verifica sus credenciales y trayectoria",
+        "support": "Contribuye y anima a otros a apoyar organizaciones verificadas"
+      }
+    },
+    "info": {
+      "title": "Compartir Información Verificada",
+      "description": "Ayuda a difundir información precisa sobre conflictos y esfuerzos de paz.",
+      "howTo": "Cómo compartir responsablemente:",
+      "steps": {
+        "verify": "Siempre verifica la información a través de múltiples fuentes confiables",
+        "focus": "Concéntrate en desarrollos constructivos y soluciones",
+        "share": "Comparte a través de canales apropiados con contexto claro"
+      }
+    },
+    "discord": {
+      "title": "Trabajar Juntos",
+      "description": "Únete a otros que trabajan activamente para terminar los conflictos armados. Coordina acciones y comparte recursos.",
+      "button": "Unirse al Servidor de Discord"
+    }
+  },
+  "Understanding": {
+    "title": "Entendiendo los Conflictos y la Paz",
+    "description": "El entendimiento claro lleva a la acción efectiva. Aprende sobre por qué necesitamos la paz, la dinámica de los conflictos y los caminos hacia la paz.",
+    "why": {
+      "title": "Por Qué Importa la Paz",
+      "human": {
+        "title": "Costo Humano",
+        "description": "Los conflictos armados causan un inmenso sufrimiento humano y destruyen comunidades. Cada persona merece vivir sin miedo a la violencia."
+      },
+      "resources": {
+        "title": "Mejor Uso de Recursos",
+        "description": "Los recursos actualmente utilizados en conflictos podrían apoyar la educación, la salud, la investigación científica y la resolución de desafíos globales."
+      },
+      "collaboration": {
+        "title": "Trabajar Juntos",
+        "description": "La humanidad enfrenta desafíos que requieren cooperación global. Desde el cambio climático hasta la exploración espacial, nuestro futuro depende de trabajar juntos."
+      }
+    },
+    "concepts": {
+      "title": "Conceptos Clave",
+      "mutual": {
+        "title": "Entendimiento Mutuo",
+        "description": "Los conflictos a menudo persisten debido a malentendidos y falta de comunicación. Reconocer las necesidades y aspiraciones humanas compartidas abre caminos hacia la resolución."
+      },
+      "needs": {
+        "title": "Necesidades Humanas Básicas",
+        "description": "Todas las personas requieren seguridad, dignidad y oportunidades. Entender estas necesidades comunes ayuda a identificar soluciones que beneficien a todos."
+      },
+      "cooperation": {
+        "title": "Cooperación Sobre Competencia",
+        "description": "La paz surge cuando pasamos de la competencia por recursos a la cooperación en la resolución de desafíos compartidos."
+      }
+    },
+    "practical": {
+      "title": "Entendimiento Práctico",
+      "research": {
+        "title": "Investigación e Información",
+        "description": "Entender los conflictos requiere investigación y análisis cuidadoso.",
+        "points": {
+          "sources": "Utiliza fuentes confiables y organizaciones de verificación de hechos",
+          "context": "Estudia el contexto histórico y cultural",
+          "perspectives": "Considera diferentes puntos de vista y experiencias"
+        }
+      },
+      "analysis": {
+        "title": "Análisis y Perspectiva",
+        "description": "Desglosar situaciones complejas en partes manejables.",
+        "points": {
+          "factors": "Identifica los factores clave que impulsan el conflicto",
+          "interests": "Comprende los intereses fundamentales de las distintas partes",
+          "solutions": "Busca ejemplos exitosos de resolución de conflictos"
+        }
+      }
+    },
+    "action": {
+      "title": "Pasar a la Acción",
+      "description": "El entendimiento es esencial pero debe llevar a la acción. Usa tu conocimiento para apoyar iniciativas de paz efectivas y resolución de conflictos.",
+      "conclusion": "Únete a otros en el trabajo hacia soluciones concretas basadas en el entendimiento compartido."
     }
   }
 }

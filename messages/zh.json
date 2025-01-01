@@ -1,87 +1,145 @@
 {
   "Index": {
     "title": "和平",
-    "description": "终止全球武装冲突。",
-    "takeAction": "采取行动",
-    "learnMore": "了解更多",
-    "sections": {
-      "commonGround": {
-        "title": "寻找共识",
-        "description": "探索可以消除分歧、促进不同群体间理解的共同价值观和原则。"
+    "cards": {
+      "understanding": {
+        "title": "理解",
+        "description": "了解冲突动态和通往和平的路径",
+        "button": "了解"
       },
-      "conflicts": {
-        "title": "当前冲突",
-        "description": "获取详细分析和解决全球活跃冲突的具体步骤。"
+      "discord": {
+        "title": "共同努力",
+        "description": "加入积极致力于终止武装冲突的其他人",
+        "button": "加入Discord"
       },
       "action": {
-        "title": "直接行动",
-        "description": "为和平建设和冲突解决做出贡献。"
+        "title": "采取行动",
+        "description": "你可以采取的帮助终止冲突的直接步骤",
+        "button": "立即行动"
       }
-    },
-    "joinDiscord": {
-      "title": "加入和平discord服务器",
-      "description": "与他人联系共创和平",
-      "button": "加入Discord"
     }
   },
   "Navigation": {
     "message": "是时候结束世界上的武装冲突了。这需要我们所有人的共同承诺",
-    "commonGround": "共识",
-    "conflicts": "冲突",
-    "takeAction": "采取行动"
+    "understanding": "理解",
+    "takeAction": "采取行动",
+    "discord": "加入Discord"
   },
   "TakeAction": {
     "title": "采取行动",
-    "description": "和平需要内在转化和外在行动。选择你的道路或结合两种方式。",
+    "description": "终止武装冲突的直接步骤",
     "readMore": "了解更多",
     "sections": {
       "inner": {
-        "title": "通往和平的内在之路",
-        "description": "发现内在平和与自我理解如何促进全球和平"
+        "title": "个人理解",
+        "description": "清晰的思维和理解如何带来有效的和平工作"
       },
       "external": {
-        "title": "外在行动",
-        "description": "通过沟通和参与采取具体步骤促进和平"
+        "title": "直接行动",
+        "description": "你可以采取的帮助终止武装冲突的具体步骤"
       },
       "join": {
-        "title": "联合力量",
-        "description": "与全球致力于和平的其他人建立联系"
+        "title": "共同努力",
+        "description": "与积极致力于终止冲突的其他人联系"
       }
     }
   },
-  "InnerPath": {
-    "title": "通往和平的内在之路",
-    "introduction": "全球和平的道路始于内心。通过理解我们的心智和内心，我们为持久和平奠定基础。",
-    "sections": {
-      "mind": {
-        "title": "理解心智",
-        "description": "我们的心智常常通过持续的执着和依附制造压力和冲突。",
-        "points": {
-          "grasping": "注意心智如何不断试图抓取和保持思维和情绪",
-          "observation": "学习观察这些模式而不被其困住",
-          "beyond": "发现超越心智执着之外的平和"
-        }
-      },
-      "practices": {
-        "title": "简单的日常练习",
-        "observation": {
-          "title": "正念观察",
-          "description": "每天花时间简单地观察你的想法和感受，不加评判"
-        },
-        "presence": {
-          "title": "当下觉知",
-          "description": "在简单的日常活动中练习完全的在场"
-        },
-        "connection": {
-          "title": "普遍联系",
-          "description": "体验超越个人身份的生命联结"
-        }
-      },
-      "deeper": {
-        "title": "更深的理解",
-        "description": "当我们观察自己时，我们开始看到个人和集体和平如何相互联系。",
-        "quote": "当我们认识到与所有生命的本质联系时，真正的和平就会出现"
+  "DirectActions": {
+    "title": "直接行动",
+    "contact": {
+      "title": "联系决策者",
+      "description": "您的声音对于终止武装冲突很重要。联系那些有能力带来改变的人。",
+      "howTo": "如何有效沟通：",
+      "steps": {
+        "findReps": "确定您的代表和相关外交使团",
+        "writeLetter": "写一封清晰简洁的信息，重点关注所需的具体行动",
+        "followUp": "定期跟进并与他人分享回应"
       }
+    },
+    "aid": {
+      "title": "支持人道主义援助",
+      "description": "帮助在冲突地区提供直接援助的组织。",
+      "howTo": "如何有效帮助：",
+      "steps": {
+        "research": "研究在冲突地区工作的组织",
+        "verify": "验证他们的资质和工作记录",
+        "support": "作出贡献并鼓励他人支持经验证的组织"
+      }
+    },
+    "info": {
+      "title": "分享已验证信息",
+      "description": "帮助传播关于冲突和和平努力的准确信息。",
+      "howTo": "如何负责任地分享：",
+      "steps": {
+        "verify": "始终通过多个可靠来源验证信息",
+        "focus": "关注建设性发展和解决方案",
+        "share": "通过适当渠道分享，并提供清晰背景"
+      }
+    },
+    "discord": {
+      "title": "共同努力",
+      "description": "加入积极致力于终止武装冲突的其他人。协调行动并分享资源。",
+      "button": "加入Discord服务器"
+    }
+  },
+  "Understanding": {
+    "title": "理解冲突与和平",
+    "description": "清晰的理解引导有效行动。了解为什么我们需要和平，冲突的动态以及通向和平的道路。",
+    "why": {
+      "title": "为什么和平重要",
+      "human": {
+        "title": "人类代价",
+        "description": "武装冲突造成巨大的人类苦难并摧毁社区。每个人都应该生活在没有暴力恐惧的环境中。"
+      },
+      "resources": {
+        "title": "更好地利用资源",
+        "description": "目前用于冲突的资源本可以用于支持教育、医疗、科学研究和解决全球性挑战。"
+      },
+      "collaboration": {
+        "title": "共同努力",
+        "description": "人类面临需要全球合作的挑战。从气候变化到太空探索，我们的未来取决于共同努力。"
+      }
+    },
+    "concepts": {
+      "title": "关键概念",
+      "mutual": {
+        "title": "相互理解",
+        "description": "冲突往往因误解和缺乏沟通而持续。认识到共同的人类需求和愿望能够开辟解决之路。"
+      },
+      "needs": {
+        "title": "基本人类需求",
+        "description": "所有人都需要安全、尊严和机会。理解这些共同需求有助于找到对所有人都有利的解决方案。"
+      },
+      "cooperation": {
+        "title": "合作优于竞争",
+        "description": "当我们从资源竞争转向合作解决共同挑战时，和平就会出现。"
+      }
+    },
+    "practical": {
+      "title": "实践理解",
+      "research": {
+        "title": "研究与信息",
+        "description": "理解冲突需要仔细研究和分析。",
+        "points": {
+          "sources": "使用可靠来源和事实核查组织",
+          "context": "研究历史和文化背景",
+          "perspectives": "考虑不同的观点和经验"
+        }
+      },
+      "analysis": {
+        "title": "分析与洞察",
+        "description": "将复杂情况分解为可管理的部分。",
+        "points": {
+          "factors": "识别驱动冲突的关键因素",
+          "interests": "理解各方的核心利益",
+          "solutions": "寻找成功的冲突解决案例"
+        }
+      }
+    },
+    "action": {
+      "title": "付诸行动",
+      "description": "理解很重要，但必须导向行动。运用你的知识支持有效的和平倡议和冲突解决。",
+      "conclusion": "加入他人，基于共同理解共同努力实现具体解决方案。"
     }
   }
 }

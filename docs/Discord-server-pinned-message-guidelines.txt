@@ -1,0 +1,40 @@
+Claude:
+Yes, pinned messages would be valuable in several channels to maintain focus and provide guidance. Here's what I'd recommend:
+
+### INFORMATION
+**welcome**
+- Keep current welcome message pinned
+- Sets purpose and tone
+
+**rules**
+- Current rules list pinned
+- Core for reference
+
+**announcements**
+- Pin major ongoing initiatives
+- Key contact information
+
+### DIALOGUE
+**general-discussion**
+- Brief reminder of purpose: "This channel is for coordinating peace efforts and constructive dialogue. Stay focused on concrete steps toward ending armed conflicts."
+
+**diplomatic-initiatives**
+- Pin guidelines for discussing diplomatic efforts
+- List of current formal peace processes
+- Key diplomatic contacts/organizations working on peace
+
+**grassroots-actions**
+- Pin examples of effective grassroots peace initiatives
+- Guidelines for proposing new actions
+- Safety/security reminders for those in conflict zones
+
+**resource-sharing**
+- Pin categorized list of verified resources
+- Guidelines for sharing new resources
+- Warning about verifying sources
+
+### CONFLICTS
+**ukraine-crisis** & **regional-dialogues**
+- Pin current situation overview
+- Links to verified information sources
+- Safety guidelines for discussing active conflicts
