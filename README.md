@@ -5,7 +5,7 @@ A platform to end armed conflicts worldwide.
 ## Project Overview
 
 This project will:
-- Explore peaceful common ground across religious and non-religious perspectives
+- Explore peaceful common ground
 - Provide resources and information about specific conflicts
 - Create opportunities for dialogue and understanding
 - Support concrete actions toward peace
@@ -81,7 +81,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 You can reach the project creator through:
 - Email: bjorn.kenneth.holmstrom@gmail.com
-- [Discord Community](#) - Join our discussions. Upcoming!
+- [Discord Community](https://discord.gg/yQ76qBguMF) - Join our discussions.
 - GitHub Issues - For technical matters and bug reports
 
 ## Acknowledgments

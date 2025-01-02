@@ -141,5 +141,69 @@
       "description": "La compréhension est essentielle mais doit mener à l'action. Utilisez vos connaissances pour soutenir des initiatives de paix efficaces et la résolution des conflits.",
       "conclusion": "Rejoignez d'autres personnes pour travailler vers des solutions concrètes basées sur une compréhension partagée."
     }
+  },
+  "Discord": {
+    "hero": {
+      "title": "Rejoignez notre communauté Discord",
+      "description": "Connectez-vous avec d'autres personnes qui travaillent activement pour comprendre et mettre fin aux conflits armés dans le monde",
+      "button": "Rejoindre le serveur Discord"
+    },
+    "language": {
+      "title": "Politique linguistique",
+      "description": "Notre serveur accueille des participants du monde entier. Pour faciliter une communication claire :",
+      "primary": "Langue principale : anglais",
+      "secondary": "Langues supplémentaires prises en charge : arabe, hébreu, birman, chinois, espagnol, français, russe, ukrainien et allemand",
+      "translation": "Nous accueillons les traducteurs bénévoles pour aider à élargir notre support linguistique. Contactez les modérateurs si vous pouvez aider."
+    },
+    "about": {
+      "title": "À propos de notre serveur",
+      "description1": "Notre serveur Discord est un espace de dialogue constructif et de collaboration pour la paix. Que vous soyez ici pour mieux comprendre les conflits ou pour travailler activement sur des initiatives de paix, vous êtes invité à participer de la manière qui vous convient.",
+      "description2": "Nous maintenons un environnement respectueux et constructif axé sur la compréhension et l'action."
+    },
+    "structure": {
+      "title": "Structure du serveur",
+      "information": {
+        "title": "Information",
+        "welcome": "Bienvenue et informations sur le serveur",
+        "present": "Présentez-vous à la communauté",
+        "questions": "Posez des questions et obtenez de l'aide"
+      },
+      "dialogue": {
+        "title": "Dialogue",
+        "general": "Discussion générale sur la paix et les conflits",
+        "diplomatic": "Initiatives diplomatiques et processus de paix",
+        "grassroots": "Actions communautaires et initiatives locales",
+        "resources": "Partage de ressources pour la consolidation de la paix"
+      },
+      "conflicts": {
+        "title": "Conflits actifs",
+        "channels": {
+          "title": "Canaux dédiés",
+          "ukraine": "Crise ukrainienne",
+          "israelPalestine": "Conflit israélo-palestinien",
+          "myanmar": "Conflit civil au Myanmar",
+          "sudan": "Conflit au Soudan",
+          "regional": "Autres conflits régionaux"
+        },
+        "features": {
+          "title": "Caractéristiques des canaux",
+          "background": "Contexte historique et informations de base",
+          "updates": "Développements actuels et mises à jour vérifiées",
+          "resources": "Ressources d'aide humanitaire et de soutien",
+          "solutions": "Discussion des solutions pacifiques"
+        }
+      }
+    },
+    "guidelines": {
+      "title": "Lignes directrices de la communauté",
+      "intro": "Notre communauté est fondée sur :",
+      "points": {
+        "dialogue": "Dialogue respectueux et constructif",
+        "focus": "Accent sur la compréhension et les solutions",
+        "information": "Partage d'informations vérifiées",
+        "sensitivity": "Sensibilité à l'impact humain des conflits",
+        "nonviolence": "Engagement envers des approches non-violentes"
+      }
+    }
   }
 }

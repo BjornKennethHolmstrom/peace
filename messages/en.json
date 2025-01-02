@@ -143,5 +143,69 @@
       "description": "Understanding is essential but must lead to action. Use your knowledge to support effective peace initiatives and conflict resolution.",
       "conclusion": "Join others in working toward concrete solutions based on shared understanding."
     }
+  },
+  "Discord": {
+    "hero": {
+      "title": "Join Our Discord Community",
+      "description": "Connect with others actively working to understand and end armed conflicts worldwide",
+      "button": "Join Discord Server"
+    },
+    "language": {
+      "title": "Language Policy",
+      "description": "Our server welcomes participants from around the world. To facilitate clear communication:",
+      "primary": "Primary language: English",
+      "secondary": "Additional supported languages: Arabic, Hebrew, Burmese, Chinese, Spanish, French, Russian, Ukrainian and German",
+      "translation": "We welcome volunteer translators to help expand our language support. Contact moderators if you can help."
+    },
+    "about": {
+      "title": "About Our Server",
+      "description1": "Our Discord server is a space for meaningful dialogue and collaboration toward peace. Whether you're here to understand conflicts better or actively work on peace initiatives, you're welcome to participate in ways that feel right for you.",
+      "description2": "We maintain a respectful, constructive environment focused on understanding and action."
+    },
+    "structure": {
+      "title": "Server Structure",
+      "information": {
+        "title": "Information",
+        "welcome": "Welcome and server information",
+        "present": "Present yourself to the community",
+        "questions": "Ask questions and get help"
+      },
+      "dialogue": {
+        "title": "Dialogue",
+        "general": "General discussion about peace and conflict",
+        "diplomatic": "Diplomatic initiatives and peace processes",
+        "grassroots": "Grassroots actions and community initiatives",
+        "resources": "Resource sharing for peace-building"
+      },
+      "conflicts": {
+        "title": "Active Conflicts",
+        "channels": {
+          "title": "Dedicated Channels",
+          "ukraine": "Ukraine Crisis",
+          "israelPalestine": "Israel-Palestine Conflict",
+          "myanmar": "Myanmar Civil Conflict",
+          "sudan": "Sudan Conflict",
+          "regional": "Other Regional Conflicts"
+        },
+        "features": {
+          "title": "Channel Features",
+          "background": "Historical context and background information",
+          "updates": "Current developments and verified updates",
+          "resources": "Humanitarian aid and support resources",
+          "solutions": "Discussion of peaceful solutions"
+        }
+      }
+    },
+    "guidelines": {
+      "title": "Community Guidelines",
+      "intro": "Our community is built on:",
+      "points": {
+        "dialogue": "Respectful and constructive dialogue",
+        "focus": "Focus on understanding and solutions",
+        "information": "Sharing verified information",
+        "sensitivity": "Sensitivity to the human impact of conflicts",
+        "nonviolence": "Commitment to non-violent approaches"
+      }
+    }
   }
 }

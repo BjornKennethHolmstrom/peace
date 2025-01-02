@@ -141,5 +141,69 @@
       "description": "Verständnis ist wichtig, muss aber zu Handeln führen. Nutzen Sie Ihr Wissen, um effektive Friedensinitiativen und Konfliktlösung zu unterstützen.",
       "conclusion": "Schließen Sie sich anderen an, um auf der Grundlage gemeinsamen Verständnisses konkrete Lösungen zu erarbeiten."
     }
+  },
+  "Discord": {
+    "hero": {
+      "title": "Tritt unserer Discord-Community bei",
+      "description": "Verbinde dich mit anderen, die aktiv daran arbeiten, bewaffnete Konflikte weltweit zu verstehen und zu beenden",
+      "button": "Discord-Server beitreten"
+    },
+    "language": {
+      "title": "Sprachrichtlinien",
+      "description": "Unser Server heißt Teilnehmer aus der ganzen Welt willkommen. Für eine klare Kommunikation:",
+      "primary": "Hauptsprache: Englisch",
+      "secondary": "Zusätzlich unterstützte Sprachen: Arabisch, Hebräisch, Birmanisch, Chinesisch, Spanisch, Französisch, Russisch, Ukrainisch und Deutsch",
+      "translation": "Wir freuen uns über freiwillige Übersetzer, die uns bei der Erweiterung unserer Sprachunterstützung helfen. Kontaktieren Sie die Moderatoren, wenn Sie helfen können."
+    },
+    "about": {
+      "title": "Über unseren Server",
+      "description1": "Unser Discord-Server ist ein Raum für bedeutungsvollen Dialog und Zusammenarbeit für den Frieden. Ob Sie hier sind, um Konflikte besser zu verstehen oder aktiv an Friedensinitiativen mitzuwirken - Sie sind eingeladen, sich auf die für Sie passende Weise zu beteiligen.",
+      "description2": "Wir pflegen eine respektvolle und konstruktive Umgebung, die sich auf Verständnis und Handeln konzentriert."
+    },
+    "structure": {
+      "title": "Server-Struktur",
+      "information": {
+        "title": "Information",
+        "welcome": "Willkommen und Server-Informationen",
+        "present": "Stellen Sie sich der Community vor",
+        "questions": "Stellen Sie Fragen und erhalten Sie Hilfe"
+      },
+      "dialogue": {
+        "title": "Dialog",
+        "general": "Allgemeine Diskussion über Frieden und Konflikte",
+        "diplomatic": "Diplomatische Initiativen und Friedensprozesse",
+        "grassroots": "Basisaktionen und gemeinschaftliche Initiativen",
+        "resources": "Ressourcenaustausch für Friedensaufbau"
+      },
+      "conflicts": {
+        "title": "Aktive Konflikte",
+        "channels": {
+          "title": "Spezielle Kanäle",
+          "ukraine": "Ukraine-Krise",
+          "israelPalestine": "Israelisch-Palästinensischer Konflikt",
+          "myanmar": "Bürgerkonflikt in Myanmar",
+          "sudan": "Konflikt im Sudan",
+          "regional": "Andere regionale Konflikte"
+        },
+        "features": {
+          "title": "Kanal-Funktionen",
+          "background": "Historischer Kontext und Hintergrundinformationen",
+          "updates": "Aktuelle Entwicklungen und verifizierte Updates",
+          "resources": "Humanitäre Hilfe und Unterstützungsressourcen",
+          "solutions": "Diskussion friedlicher Lösungen"
+        }
+      }
+    },
+    "guidelines": {
+      "title": "Community-Richtlinien",
+      "intro": "Unsere Gemeinschaft basiert auf:",
+      "points": {
+        "dialogue": "Respektvollem und konstruktivem Dialog",
+        "focus": "Fokus auf Verständnis und Lösungen",
+        "information": "Austausch verifizierter Informationen",
+        "sensitivity": "Sensibilität für die menschlichen Auswirkungen von Konflikten",
+        "nonviolence": "Engagement für gewaltfreie Ansätze"
+      }
+    }
   }
 }

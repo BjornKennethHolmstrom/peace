@@ -141,5 +141,69 @@
       "description": "理解很重要，但必须导向行动。运用你的知识支持有效的和平倡议和冲突解决。",
       "conclusion": "加入他人，基于共同理解共同努力实现具体解决方案。"
     }
+  },
+  "Discord": {
+    "hero": {
+      "title": "加入我们的Discord社区",
+      "description": "与积极致力于理解和结束全球武装冲突的其他人联系",
+      "button": "加入Discord服务器"
+    },
+    "language": {
+      "title": "语言政策",
+      "description": "我们的服务器欢迎来自世界各地的参与者。为了促进清晰的沟通：",
+      "primary": "主要语言：英语",
+      "secondary": "其他支持的语言：阿拉伯语、希伯来语、缅甸语、中文、西班牙语、法语、俄语、乌克兰语和德语",
+      "translation": "我们欢迎志愿翻译者帮助扩展我们的语言支持。如果您可以提供帮助，请联系管理员。"
+    },
+    "about": {
+      "title": "关于我们的服务器",
+      "description1": "我们的Discord服务器是一个进行有意义对话和为和平协作的空间。无论您是为了更好地理解冲突还是积极参与和平倡议，我们都欢迎您以适合您的方式参与。",
+      "description2": "我们保持一个专注于理解和行动的尊重和建设性环境。"
+    },
+    "structure": {
+      "title": "服务器结构",
+      "information": {
+        "title": "信息",
+        "welcome": "欢迎和服务器信息",
+        "present": "向社区介绍自己",
+        "questions": "提问和获取帮助"
+      },
+      "dialogue": {
+        "title": "对话",
+        "general": "关于和平与冲突的一般讨论",
+        "diplomatic": "外交倡议和和平进程",
+        "grassroots": "基层行动和社区倡议",
+        "resources": "和平建设资源共享"
+      },
+      "conflicts": {
+        "title": "活跃冲突",
+        "channels": {
+          "title": "专用频道",
+          "ukraine": "乌克兰危机",
+          "israelPalestine": "以色列-巴勒斯坦冲突",
+          "myanmar": "缅甸内战",
+          "sudan": "苏丹冲突",
+          "regional": "其他地区冲突"
+        },
+        "features": {
+          "title": "频道特点",
+          "background": "历史背景和基本信息",
+          "updates": "当前发展和经验证的更新",
+          "resources": "人道主义援助和支持资源",
+          "solutions": "和平解决方案讨论"
+        }
+      }
+    },
+    "guidelines": {
+      "title": "社区准则",
+      "intro": "我们的社区建立在：",
+      "points": {
+        "dialogue": "尊重和建设性对话",
+        "focus": "专注于理解和解决方案",
+        "information": "分享经验证的信息",
+        "sensitivity": "对冲突的人道影响保持敏感",
+        "nonviolence": "致力于非暴力方式"
+      }
+    }
   }
 }
