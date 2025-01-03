@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Black circular background -->
+  <circle cx="50" cy="50" r="48" fill="black"/>
+  
+  <!-- White heart -->
+  <path d="M50 75
+           C50 75 25 55 25 40
+           C25 32 31 25 40 25
+           C45 25 48 28 50 32
+           C52 28 55 25 60 25
+           C69 25 75 32 75 40
+           C75 55 50 75 50 75Z" 
+        fill="white"/>
+</svg>

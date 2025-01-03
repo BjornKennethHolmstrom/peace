@@ -13,6 +13,18 @@ export function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
 }
 
+export function generateMetadata({ params: { locale } }: { params: { locale: string } }) {
+  return {
+    title: 'peace',
+    description: 'Global peace for humanity',
+    icons: {
+      icon: [
+        { url: '/peace-heart.svg', type: 'image/svg+xml' },
+      ],
+    },
+  }
+}
+
 export default async function LocaleLayout({
   children,
   params: { locale }
