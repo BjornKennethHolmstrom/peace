@@ -20,8 +20,9 @@
     }
   },
   "Navigation": {
-    "message": "Es ist Zeit, die bewaffneten Konflikte der Welt zu beenden. Es liegt an uns allen, uns dazu zu verpflichten",
+    "message": "Gemeinsam können wir die bewaffneten Konflikte der Welt beenden",
     "understanding": "Verstehen",
+    "analysis": "Analyse",
     "takeAction": "Aktiv Werden",
     "discord": "Discord Beitreten"
   },
@@ -45,41 +46,54 @@
     }
   },
   "DirectActions": {
-    "title": "Direkte Aktionen",
-    "contact": {
-      "title": "Entscheidungsträger Kontaktieren",
-      "description": "Ihre Stimme ist wichtig bei der Beendigung bewaffneter Konflikte. Kontaktieren Sie diejenigen, die Veränderungen bewirken können.",
-      "howTo": "So kommunizieren Sie effektiv:",
-      "steps": {
-        "findReps": "Identifizieren Sie Ihre Vertreter und relevante diplomatische Missionen",
-        "writeLetter": "Verfassen Sie eine klare, präzise Nachricht mit Fokus auf konkrete notwendige Maßnahmen",
-        "followUp": "Bleiben Sie regelmäßig dran und teilen Sie Antworten mit anderen"
+    "title": "Aktiv Werden",
+    "description": "Direkte Schritte zur Beendigung bewaffneter Konflikte.",
+    "sections": {
+      "contact": {
+        "title": "Entscheidungsträger Kontaktieren",
+        "description": "Ihre Stimme zählt bei der Beendigung bewaffneter Konflikte. Wenden Sie sich an diejenigen, die Veränderungen bewirken können.",
+        "howTo": "So kommunizieren Sie effektiv:",
+        "steps": {
+          "findReps": "Identifizieren Sie Ihre Vertreter und relevante diplomatische Missionen",
+          "writeLetter": "Verfassen Sie eine klare, präzise Nachricht mit Fokus auf konkrete notwendige Maßnahmen",
+          "followUp": "Bleiben Sie regelmäßig dran und teilen Sie Antworten mit anderen"
+        }
+      },
+      "aid": {
+        "title": "Humanitäre Hilfe Unterstützen",
+        "description": "Helfen Sie Organisationen, die direkte Unterstützung in Konfliktgebieten leisten.",
+        "howTo": "So helfen Sie effektiv:",
+        "steps": {
+          "research": "Recherchieren Sie Organisationen, die im Konfliktgebiet tätig sind",
+          "verify": "Überprüfen Sie deren Qualifikationen und Erfolgsbilanz",
+          "support": "Leisten Sie einen Beitrag und ermutigen Sie andere, verifizierte Organisationen zu unterstützen"
+        }
+      },
+      "info": {
+        "title": "Verifizierte Informationen Teilen",
+        "description": "Helfen Sie dabei, genaue Informationen über Konflikte und Friedensbemühungen zu verbreiten.",
+        "howTo": "So teilen Sie verantwortungsvoll:",
+        "steps": {
+          "verify": "Überprüfen Sie Informationen immer durch mehrere verlässliche Quellen",
+          "focus": "Konzentrieren Sie sich auf konstruktive Entwicklungen und Lösungen",
+          "share": "Teilen Sie über geeignete Kanäle mit klarem Kontext"
+        }
+      },
+      "political": {
+        "title": "Politische Aktion Starten",
+        "description": "Gründen oder unterstützen Sie politische Friedensinitiativen.",
+        "howTo": "So erzielen Sie politische Wirkung:",
+        "steps": {
+          "start": "Gründen oder unterstützen Sie eine friedensorientierte politische Bewegung",
+          "organize": "Organisieren Sie friedliche Demonstrationen und Veranstaltungen",
+          "build": "Bilden Sie Koalitionen mit anderen friedensorientierten Gruppen"
+        }
+      },
+      "discord": {
+        "title": "Zusammen Arbeiten",
+        "description": "Schließen Sie sich anderen an, die aktiv an der Beendigung bewaffneter Konflikte arbeiten. Koordinieren Sie Aktionen und teilen Sie Ressourcen.",
+        "button": "Discord-Server Beitreten"
       }
-    },
-    "aid": {
-      "title": "Humanitäre Hilfe Unterstützen",
-      "description": "Helfen Sie Organisationen, die direkte Unterstützung in Konfliktgebieten leisten.",
-      "howTo": "So helfen Sie effektiv:",
-      "steps": {
-        "research": "Recherchieren Sie Organisationen, die im Konfliktgebiet tätig sind",
-        "verify": "Überprüfen Sie deren Qualifikationen und Erfolgsbilanz",
-        "support": "Leisten Sie einen Beitrag und ermutigen Sie andere, verifizierte Organisationen zu unterstützen"
-      }
-    },
-    "info": {
-      "title": "Verifizierte Informationen Teilen",
-      "description": "Helfen Sie dabei, genaue Informationen über Konflikte und Friedensbemühungen zu verbreiten.",
-      "howTo": "So teilen Sie verantwortungsvoll:",
-      "steps": {
-        "verify": "Überprüfen Sie Informationen immer durch mehrere verlässliche Quellen",
-        "focus": "Konzentrieren Sie sich auf konstruktive Entwicklungen und Lösungen",
-        "share": "Teilen Sie über geeignete Kanäle mit klarem Kontext"
-      }
-    },
-    "discord": {
-      "title": "Zusammenarbeiten",
-      "description": "Schließen Sie sich anderen an, die aktiv an der Beendigung bewaffneter Konflikte arbeiten. Koordinieren Sie Aktionen und teilen Sie Ressourcen.",
-      "button": "Discord-Server Beitreten"
     }
   },
   "Understanding": {
@@ -203,6 +217,122 @@
         "information": "Austausch verifizierter Informationen",
         "sensitivity": "Sensibilität für die menschlichen Auswirkungen von Konflikten",
         "nonviolence": "Engagement für gewaltfreie Ansätze"
+      }
+    }
+  },
+  "Analysis": {
+    "title": "Konfliktanalyse: Wege zum Frieden finden",
+    "introduction": "In einer Welt, die von kultureller Vielfalt, unterschiedlichen Werten und Prioritäten geprägt ist, entstehen Konflikte oft dann, wenn verschiedene Perspektiven aufeinanderprallen. Dauerhafter Frieden erfordert von uns, diese Unterschiede zu verstehen und zu respektieren, während wir auf gemeinsame Ziele hinarbeiten.",
+    
+    "foundation": {
+      "title": "Die Grundlagen von Konflikten",
+      "description": "Konflikte spiegeln oft zugrundeliegende Spannungen zwischen verschiedenen Prioritäten und Werten wider. Das Verständnis dieser Dynamiken hilft uns, Wege zum Frieden zu finden, die alle Perspektiven respektieren.",
+      "priorities": [
+        {
+          "title": "Sicherheit und Stabilität",
+          "description": "Das Bedürfnis nach Ordnung und Schutz"
+        },
+        {
+          "title": "Identität und Macht",
+          "description": "Der Wunsch, Einfluss geltend zu machen und das Erbe zu bewahren"
+        },
+        {
+          "title": "Fortschritt und Wohlstand",
+          "description": "Das Streben nach Innovation und Wachstum"
+        },
+        {
+          "title": "Inklusivität und Harmonie",
+          "description": "Das Streben nach Gleichberechtigung und Verständigung"
+        }
+      ]
+    },
+
+    "caseStudies": {
+      "ukraineConflict": {
+        "title": "Fallstudie: Der Russland-Ukraine-Konflikt",
+        "description": "Der anhaltende Konflikt in der Ukraine zeigt beispielhaft, wie unterschiedliche Prioritäten zu einer Eskalation von Spannungen führen können. Das Verständnis dieser Perspektiven hilft uns, Lösungen zu entwickeln, die die Bedürfnisse aller Beteiligten berücksichtigen.",
+        "perspectives": {
+          "title": "Zentrale Perspektiven",
+          "0": {
+            "title": "Sicherheit und Stabilität",
+            "description": "Präsent in der russischen Führung und westlichen Bedenken",
+            "points": [
+              "Russland sieht die NATO-Erweiterung als Bedrohung seiner traditionellen Einflusssphäre",
+              "Der Westen betrachtet die NATO als Verteidigungsbündnis zur Wahrung demokratischer Werte"
+            ]
+          },
+          "1": {
+            "title": "Identität und Macht",
+            "description": "Präsent in russischen und einigen ukrainischen Narrativen",
+            "points": [
+              "Die russische Führung betont die Bewahrung kultureller und historischer Verbindungen mit der Ukraine",
+              "Befürworter der ukrainischen Souveränität priorisieren Selbstbestimmung und Widerstand gegen externe Kontrolle"
+            ]
+          },
+          "2": {
+            "title": "Fortschritt und Wohlstand",
+            "description": "Ein Schwerpunkt für ukrainische Reformbewegungen und westliche Verbündete",
+            "points": [
+              "Die Ukraine strebt eine Integration in westliche Wirtschafts- und Politiksysteme an, um zu modernisieren und zu gedeihen",
+              "Westliche Nationen priorisieren die Entwicklung der Ukraine als Teil eines stabilen, demokratischen Europas"
+            ]
+          },
+          "3": {
+            "title": "Inklusivität und Harmonie",
+            "description": "Sichtbar in Graswurzel-Friedensbemühungen und Teilen der ukrainischen Gesellschaft",
+            "points": [
+              "Viele Ukrainer und internationale Vermittler setzen sich für Menschenrechte und kulturelle Vielfalt ein",
+              "Basisorganisationen bemühen sich um die Wiederherstellung von Vertrauen zwischen gespaltenen Gemeinschaften"
+            ]
+          }
+        }
+      }
+    },
+
+    "pathsToPeace": {
+      "title": "Wege zu dauerhaftem Frieden",
+      "description": "Frieden erfordert Lösungen, die verschiedene Perspektiven berücksichtigen und gleichzeitig praktische Bedürfnisse ansprechen.",
+      "paths": {
+        "0": {
+          "title": "Sicherheitsgarantien",
+          "description": "Etablierung von Rahmenbedingungen für gegenseitige Sicherheit und Stabilität",
+          "points": [
+            "Internationale Abkommen schaffen, die Souveränität und Sicherheit für alle Parteien gewährleisten",
+            "Mechanismen zur Reduzierung militärischer Spannungen und zum Aufbau von Vertrauen entwickeln"
+          ]
+        },
+        "1": {
+          "title": "Kultur- und Sprachenrechte",
+          "description": "Schutz der Vielfalt bei gleichzeitiger Förderung der Einheit",
+          "points": [
+            "Schutz von Minderheitengruppen und kulturellen Traditionen sicherstellen",
+            "Programme fördern, die Vielfalt zelebrieren und Brücken zwischen Gemeinschaften bauen"
+          ]
+        },
+        "2": {
+          "title": "Wirtschaftliche Zusammenarbeit",
+          "description": "Aufbau gemeinsamen Wohlstands durch Kooperation",
+          "points": [
+            "Gemeinsame Wirtschaftsinitiativen unter Einbindung aller Parteien entwickeln",
+            "Rahmenbedingungen für nachhaltige Entwicklung und Handel schaffen"
+          ]
+        },
+        "3": {
+          "title": "Governance-Lösungen",
+          "description": "Schaffung inklusiver politischer Rahmenbedingungen",
+          "points": [
+            "Modelle prüfen, die lokale Autonomie und nationale Einheit ausbalancieren",
+            "Transparente und repräsentative Verwaltungsstrukturen etablieren"
+          ]
+        },
+        "4": {
+          "title": "Internationale Unterstützung",
+          "description": "Sicherstellung nachhaltiger Umsetzung",
+          "points": [
+            "Neutrale internationale Akteure für Vermittlung und Überwachung einbinden",
+            "Mechanismen für kontinuierliche Unterstützung und Anpassung entwickeln"
+          ]
+        }
       }
     }
   }

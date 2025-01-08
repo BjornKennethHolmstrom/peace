@@ -20,8 +20,9 @@
     }
   },
   "Navigation": {
-    "message": "It is time to end the world's armed conflicts. It is up to all of us to commit to this",
+    "message": "Together we can end the world's armed conflicts",
     "understanding": "Understanding",
+    "analysis": "Analysis",
     "takeAction": "Take Action",
     "discord": "Join Discord"
   },
@@ -45,41 +46,54 @@
     }
   },
   "DirectActions": {
-    "title": "Direct Actions",
-    "contact": {
-      "title": "Contact Decision Makers",
-      "description": "Your voice matters in ending armed conflicts. Reach out to those with the power to make change.",
-      "howTo": "How to contact effectively:",
-      "steps": {
-        "findReps": "Identify your representatives and relevant diplomatic missions",
-        "writeLetter": "Write a clear, concise message focusing on specific actions needed",
-        "followUp": "Follow up regularly and share responses with others"
+    "title": "Take Action",
+    "description": "Direct steps toward ending armed conflicts.",
+    "sections": {
+      "contact": {
+        "title": "Contact Decision Makers",
+        "description": "Your voice matters in ending armed conflicts. Reach out to those with the power to make change.",
+        "howTo": "How to contact effectively:",
+        "steps": {
+          "findReps": "Identify your representatives and relevant diplomatic missions",
+          "writeLetter": "Write a clear, concise message focusing on specific actions needed",
+          "followUp": "Follow up regularly and share responses with others"
+        }
+      },
+      "aid": {
+        "title": "Support Humanitarian Aid",
+        "description": "Help organizations providing direct assistance in conflict zones.",
+        "howTo": "How to help effectively:",
+        "steps": {
+          "research": "Research organizations working in the conflict area",
+          "verify": "Verify their credentials and track record",
+          "support": "Contribute and encourage others to support verified organizations"
+        }
+      },
+      "info": {
+        "title": "Share Verified Information",
+        "description": "Help spread accurate information about conflicts and peace efforts.",
+        "howTo": "How to share responsibly:",
+        "steps": {
+          "verify": "Always verify information through multiple reliable sources",
+          "focus": "Focus on constructive developments and solutions",
+          "share": "Share through appropriate channels with clear context"
+        }
+      },
+      "political": {
+        "title": "Start Political Action",
+        "description": "Create or join political initiatives for peace.",
+        "howTo": "How to make political impact:",
+        "steps": {
+          "start": "Start or join a peace-focused political movement",
+          "organize": "Organize peaceful demonstrations and events",
+          "build": "Build coalitions with other peace-oriented groups"
+        }
+      },
+      "discord": {
+        "title": "Work Together",
+        "description": "Join others actively working to end armed conflicts. Coordinate actions and share resources.",
+        "button": "Join Discord Server"
       }
-    },
-    "aid": {
-      "title": "Support Humanitarian Aid",
-      "description": "Help organizations providing direct assistance in conflict zones.",
-      "howTo": "How to help effectively:",
-      "steps": {
-        "research": "Research organizations working in the conflict area",
-        "verify": "Verify their credentials and track record",
-        "support": "Contribute and encourage others to support verified organizations"
-      }
-    },
-    "info": {
-      "title": "Share Verified Information",
-      "description": "Help spread accurate information about conflicts and peace efforts.",
-      "howTo": "How to share responsibly:",
-      "steps": {
-        "verify": "Always verify information through multiple reliable sources",
-        "focus": "Focus on constructive developments and solutions",
-        "share": "Share through appropriate channels with clear context"
-      }
-    },
-    "discord": {
-      "title": "Work Together",
-      "description": "Join others actively working to end armed conflicts. Coordinate actions and share resources.",
-      "button": "Join Discord Server"
     }
   },
   "Understanding": {
@@ -205,6 +219,122 @@
         "information": "Sharing verified information",
         "sensitivity": "Sensitivity to the human impact of conflicts",
         "nonviolence": "Commitment to non-violent approaches"
+      }
+    }
+  },
+  "Analysis": {
+    "title": "Conflict Analysis: Finding Paths to Peace",
+    "introduction": "In a world marked by diversity in culture, values, and priorities, conflicts often arise when differing perspectives clash. Lasting peace requires us to understand and respect these differences while working toward shared goals.",
+    
+    "foundation": {
+      "title": "The Foundation of Conflict",
+      "description": "Conflicts often reflect underlying tensions between distinct priorities and values. Understanding these dynamics helps us identify paths to peace that honor all perspectives.",
+      "priorities": [
+        {
+          "title": "Security and Stability",
+          "description": "The need for order and protection"
+        },
+        {
+          "title": "Identity and Power",
+          "description": "The desire to assert influence and preserve heritage"
+        },
+        {
+          "title": "Progress and Prosperity",
+          "description": "The pursuit of innovation and growth"
+        },
+        {
+          "title": "Inclusivity and Harmony",
+          "description": "The aspiration for equality and understanding"
+        }
+      ]
+    },
+
+    "caseStudies": {
+      "ukraineConflict": {
+        "title": "Case Study: The Russia-Ukraine Conflict",
+        "description": "The ongoing conflict in Ukraine exemplifies how divergent priorities can escalate tensions. Understanding these perspectives helps us craft solutions that address the needs of all involved.",
+        "perspectives": {
+          "title": "Key Perspectives",
+          "0": {
+            "title": "Security and Stability",
+            "description": "Present in both Russian leadership and Western concerns",
+            "points": [
+              "Russia perceives NATO's expansion as a threat to its traditional sphere of influence",
+              "The West views NATO as a defensive alliance upholding democratic values"
+            ]
+          },
+          "1": {
+            "title": "Identity and Power",
+            "description": "Present in Russian and some Ukrainian narratives",
+            "points": [
+              "Russian leadership emphasizes preserving cultural and historical ties with Ukraine",
+              "Ukrainian sovereignty advocates prioritize self-determination and resistance to external control"
+            ]
+          },
+          "2": {
+            "title": "Progress and Prosperity",
+            "description": "A focus for Ukraine's reform movements and Western allies",
+            "points": [
+              "Ukraine seeks integration with Western economic and political systems to modernize and thrive",
+              "Western nations prioritize Ukraine's development as part of a stable, democratic Europe"
+            ]
+          },
+          "3": {
+            "title": "Inclusivity and Harmony",
+            "description": "Visible in grassroots peace efforts and parts of Ukrainian society",
+            "points": [
+              "Many Ukrainians and international mediators advocate for human rights and cultural diversity",
+              "Grassroots organizations strive to rebuild trust between divided communities"
+            ]
+          }
+        }
+      }
+    },
+
+    "pathsToPeace": {
+      "title": "Paths to Lasting Peace",
+      "description": "Peace requires solutions that resonate with diverse perspectives while addressing practical needs.",
+      "paths": {
+        "0": {
+          "title": "Security Guarantees",
+          "description": "Establishing frameworks for mutual security and stability",
+          "points": [
+            "Create international agreements ensuring sovereignty and security for all parties",
+            "Develop mechanisms for reducing military tensions and building trust"
+          ]
+        },
+        "1": {
+          "title": "Cultural and Language Rights",
+          "description": "Protecting diversity while fostering unity",
+          "points": [
+            "Ensure protection for minority groups and cultural traditions",
+            "Promote programs that celebrate diversity and build bridges between communities"
+          ]
+        },
+        "2": {
+          "title": "Economic Cooperation",
+          "description": "Building shared prosperity through collaboration",
+          "points": [
+            "Develop joint economic initiatives involving all parties",
+            "Create frameworks for sustainable development and trade"
+          ]
+        },
+        "3": {
+          "title": "Governance Solutions",
+          "description": "Creating inclusive political frameworks",
+          "points": [
+            "Consider models that balance local autonomy with national unity",
+            "Establish transparent and representative governance structures"
+          ]
+        },
+        "4": {
+          "title": "International Support",
+          "description": "Ensuring sustainable implementation",
+          "points": [
+            "Engage neutral international actors for mediation and monitoring",
+            "Develop mechanisms for ongoing support and adjustment"
+          ]
+        }
       }
     }
   }

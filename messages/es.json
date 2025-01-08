@@ -20,8 +20,9 @@
     }
   },
   "Navigation": {
-    "message": "Es hora de terminar con los conflictos armados del mundo. Depende de todos nosotros comprometernos con esto",
+    "message": "Juntos podemos poner fin a los conflictos armados en el mundo",
     "understanding": "Entender",
+    "analysis": "Análisis",
     "takeAction": "Tomar Acción",
     "discord": "Unirse a Discord"
   },
@@ -45,41 +46,54 @@
     }
   },
   "DirectActions": {
-    "title": "Acciones Directas",
-    "contact": {
-      "title": "Contactar a los Tomadores de Decisiones",
-      "description": "Tu voz es importante para terminar los conflictos armados. Contacta a quienes tienen el poder de generar cambios.",
-      "howTo": "Cómo comunicarse efectivamente:",
-      "steps": {
-        "findReps": "Identifica a tus representantes y misiones diplomáticas relevantes",
-        "writeLetter": "Escribe un mensaje claro y conciso enfocado en acciones específicas necesarias",
-        "followUp": "Da seguimiento regularmente y comparte las respuestas con otros"
+    "title": "Tomar Acción",
+    "description": "Pasos directos hacia el fin de los conflictos armados.",
+    "sections": {
+      "contact": {
+        "title": "Contactar a los Tomadores de Decisiones",
+        "description": "Tu voz es importante para terminar los conflictos armados. Contacta a quienes tienen el poder de generar cambios.",
+        "howTo": "Cómo comunicarse efectivamente:",
+        "steps": {
+          "findReps": "Identifica a tus representantes y misiones diplomáticas relevantes",
+          "writeLetter": "Escribe un mensaje claro y conciso enfocado en acciones específicas necesarias",
+          "followUp": "Da seguimiento regularmente y comparte las respuestas con otros"
+        }
+      },
+      "aid": {
+        "title": "Apoyar la Ayuda Humanitaria",
+        "description": "Ayuda a organizaciones que proporcionan asistencia directa en zonas de conflicto.",
+        "howTo": "Cómo ayudar efectivamente:",
+        "steps": {
+          "research": "Investiga organizaciones que trabajan en el área de conflicto",
+          "verify": "Verifica sus credenciales y trayectoria",
+          "support": "Contribuye y anima a otros a apoyar organizaciones verificadas"
+        }
+      },
+      "info": {
+        "title": "Compartir Información Verificada",
+        "description": "Ayuda a difundir información precisa sobre conflictos y esfuerzos de paz.",
+        "howTo": "Cómo compartir responsablemente:",
+        "steps": {
+          "verify": "Siempre verifica la información a través de múltiples fuentes confiables",
+          "focus": "Concéntrate en desarrollos constructivos y soluciones",
+          "share": "Comparte a través de canales apropiados con contexto claro"
+        }
+      },
+      "political": {
+        "title": "Iniciar Acción Política",
+        "description": "Crea o únete a iniciativas políticas por la paz.",
+        "howTo": "Cómo generar impacto político:",
+        "steps": {
+          "start": "Inicia o únete a un movimiento político enfocado en la paz",
+          "organize": "Organiza manifestaciones y eventos pacíficos",
+          "build": "Construye coaliciones con otros grupos orientados a la paz"
+        }
+      },
+      "discord": {
+        "title": "Trabajar Juntos",
+        "description": "Únete a otros que trabajan activamente para terminar los conflictos armados. Coordina acciones y comparte recursos.",
+        "button": "Unirse al Servidor de Discord"
       }
-    },
-    "aid": {
-      "title": "Apoyar la Ayuda Humanitaria",
-      "description": "Ayuda a organizaciones que proporcionan asistencia directa en zonas de conflicto.",
-      "howTo": "Cómo ayudar efectivamente:",
-      "steps": {
-        "research": "Investiga organizaciones que trabajan en el área de conflicto",
-        "verify": "Verifica sus credenciales y trayectoria",
-        "support": "Contribuye y anima a otros a apoyar organizaciones verificadas"
-      }
-    },
-    "info": {
-      "title": "Compartir Información Verificada",
-      "description": "Ayuda a difundir información precisa sobre conflictos y esfuerzos de paz.",
-      "howTo": "Cómo compartir responsablemente:",
-      "steps": {
-        "verify": "Siempre verifica la información a través de múltiples fuentes confiables",
-        "focus": "Concéntrate en desarrollos constructivos y soluciones",
-        "share": "Comparte a través de canales apropiados con contexto claro"
-      }
-    },
-    "discord": {
-      "title": "Trabajar Juntos",
-      "description": "Únete a otros que trabajan activamente para terminar los conflictos armados. Coordina acciones y comparte recursos.",
-      "button": "Unirse al Servidor de Discord"
     }
   },
   "Understanding": {
@@ -203,6 +217,122 @@
         "information": "Compartir información verificada",
         "sensitivity": "Sensibilidad al impacto humano de los conflictos",
         "nonviolence": "Compromiso con enfoques no violentos"
+      }
+    }
+  },
+  "Analysis": {
+    "title": "Análisis de Conflictos: Encontrando Caminos hacia la Paz",
+    "introduction": "En un mundo marcado por la diversidad de culturas, valores y prioridades, los conflictos a menudo surgen cuando chocan diferentes perspectivas. La paz duradera requiere que entendamos y respetemos estas diferencias mientras trabajamos hacia objetivos compartidos.",
+    
+    "foundation": {
+      "title": "Los Fundamentos del Conflicto",
+      "description": "Los conflictos a menudo reflejan tensiones subyacentes entre distintas prioridades y valores. Entender estas dinámicas nos ayuda a identificar caminos hacia la paz que honren todas las perspectivas.",
+      "priorities": [
+        {
+          "title": "Seguridad y Estabilidad",
+          "description": "La necesidad de orden y protección"
+        },
+        {
+          "title": "Identidad y Poder",
+          "description": "El deseo de afirmar influencia y preservar el patrimonio"
+        },
+        {
+          "title": "Progreso y Prosperidad",
+          "description": "La búsqueda de innovación y crecimiento"
+        },
+        {
+          "title": "Inclusividad y Armonía",
+          "description": "La aspiración por la igualdad y el entendimiento"
+        }
+      ]
+    },
+
+    "caseStudies": {
+      "ukraineConflict": {
+        "title": "Estudio de Caso: El Conflicto Rusia-Ucrania",
+        "description": "El conflicto en curso en Ucrania ejemplifica cómo las prioridades divergentes pueden escalar las tensiones. Entender estas perspectivas nos ayuda a crear soluciones que aborden las necesidades de todos los involucrados.",
+        "perspectives": {
+          "title": "Perspectivas Clave",
+          "0": {
+            "title": "Seguridad y Estabilidad",
+            "description": "Presente tanto en el liderazgo ruso como en las preocupaciones occidentales",
+            "points": [
+              "Rusia percibe la expansión de la OTAN como una amenaza a su esfera tradicional de influencia",
+              "Occidente ve a la OTAN como una alianza defensiva que sostiene valores democráticos"
+            ]
+          },
+          "1": {
+            "title": "Identidad y Poder",
+            "description": "Presente en narrativas rusas y algunas ucranianas",
+            "points": [
+              "El liderazgo ruso enfatiza la preservación de lazos culturales e históricos con Ucrania",
+              "Los defensores de la soberanía ucraniana priorizan la autodeterminación y la resistencia al control externo"
+            ]
+          },
+          "2": {
+            "title": "Progreso y Prosperidad",
+            "description": "Un enfoque para los movimientos de reforma ucranianos y aliados occidentales",
+            "points": [
+              "Ucrania busca la integración con sistemas económicos y políticos occidentales para modernizarse y prosperar",
+              "Las naciones occidentales priorizan el desarrollo de Ucrania como parte de una Europa democrática estable"
+            ]
+          },
+          "3": {
+            "title": "Inclusividad y Armonía",
+            "description": "Visible en esfuerzos de paz comunitarios y partes de la sociedad ucraniana",
+            "points": [
+              "Muchos ucranianos y mediadores internacionales abogan por los derechos humanos y la diversidad cultural",
+              "Las organizaciones comunitarias se esfuerzan por reconstruir la confianza entre comunidades divididas"
+            ]
+          }
+        }
+      }
+    },
+
+    "pathsToPeace": {
+      "title": "Caminos hacia una Paz Duradera",
+      "description": "La paz requiere soluciones que resuenen con diversas perspectivas mientras abordan necesidades prácticas.",
+      "paths": {
+        "0": {
+          "title": "Garantías de Seguridad",
+          "description": "Establecer marcos para la seguridad y estabilidad mutua",
+          "points": [
+            "Crear acuerdos internacionales que garanticen la soberanía y seguridad para todas las partes",
+            "Desarrollar mecanismos para reducir tensiones militares y construir confianza"
+          ]
+        },
+        "1": {
+          "title": "Derechos Culturales y Lingüísticos",
+          "description": "Proteger la diversidad mientras se fomenta la unidad",
+          "points": [
+            "Asegurar la protección de grupos minoritarios y tradiciones culturales",
+            "Promover programas que celebren la diversidad y construyan puentes entre comunidades"
+          ]
+        },
+        "2": {
+          "title": "Cooperación Económica",
+          "description": "Construir prosperidad compartida a través de la colaboración",
+          "points": [
+            "Desarrollar iniciativas económicas conjuntas que involucren a todas las partes",
+            "Crear marcos para el desarrollo sostenible y el comercio"
+          ]
+        },
+        "3": {
+          "title": "Soluciones de Gobernanza",
+          "description": "Crear marcos políticos inclusivos",
+          "points": [
+            "Considerar modelos que equilibren la autonomía local con la unidad nacional",
+            "Establecer estructuras de gobernanza transparentes y representativas"
+          ]
+        },
+        "4": {
+          "title": "Apoyo Internacional",
+          "description": "Asegurar una implementación sostenible",
+          "points": [
+            "Involucrar actores internacionales neutrales para mediación y monitoreo",
+            "Desarrollar mecanismos para apoyo y ajuste continuos"
+          ]
+        }
       }
     }
   }
