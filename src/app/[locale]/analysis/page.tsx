@@ -5,7 +5,6 @@ import React from 'react';
 import { useTranslations } from 'next-intl';
 import { CaseStudy } from '@/components/analysis/CaseStudy';
 import { PathsToPeace } from '@/components/analysis/PathsToPeace';
-import { ActionableSteps } from '@/components/analysis/ActionableSteps';
 
 export default function AnalysisPage() {
   const t = useTranslations('Analysis');

@@ -13,8 +13,8 @@ This project will:
 
 ## Website Structure
 
-- **Common Ground**: Exploration of shared values across different beliefs and philosophies
-- **Current Conflicts**: Analysis and understanding of ongoing conflicts
+- **Understanding**: Understanding of conflicts and peace
+- **Analysis**: Analysis of ongoing conflicts
 - **Take Action**: Resources and guidance for contributing to peace efforts
 
 ## Technical Details

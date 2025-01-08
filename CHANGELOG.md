@@ -2,6 +2,14 @@
 
 All notable changes to the peace project will be documented in this file.
 
+## [0.1.3] - 2025-01-08
+
+### Added
+- Analysis section
+
+### Changed
+- Expanded take action section 
+
 ## [0.1.2] - 2025-01-01
 
 ### Added
