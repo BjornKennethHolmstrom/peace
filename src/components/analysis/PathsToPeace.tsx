@@ -19,16 +19,30 @@ export const PathsToPeace = () => {
             <h3 className="text-xl font-medium mb-3">
               {t(`paths.${index}.title`)}
             </h3>
-            <p className="text-gray-600 mb-4">
-              {t(`paths.${index}.description`)}
-            </p>
-            <ul className="list-disc pl-5 space-y-2">
-              {[0, 1].map((pointIndex) => (
-                <li key={pointIndex} className="text-gray-600">
-                  {t(`paths.${index}.points.${pointIndex}`)}
-                </li>
-              ))}
-            </ul>
+            <div className="space-y-4">
+              <div>
+                <p className="font-medium text-gray-700 mb-2">{t('labels.systemsWeBuild')}</p>
+                <p className="text-gray-600 mb-2">{t(`paths.${index}.systems`)}</p>
+                <ul className="list-disc pl-5 space-y-1 text-gray-600">
+                  {[0, 1].map((pointIndex) => (
+                    <li key={pointIndex}>
+                      {t(`paths.${index}.systemPoints.${pointIndex}`)}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+              <div>
+                <p className="font-medium text-gray-700 mb-2">{t('labels.mindsetsCultivate')}</p>
+                <p className="text-gray-600 mb-2">{t(`paths.${index}.mindsets`)}</p>
+                <ul className="list-disc pl-5 space-y-1 text-gray-600">
+                  {[0, 1].map((pointIndex) => (
+                    <li key={pointIndex}>
+                      {t(`paths.${index}.mindsetPoints.${pointIndex}`)}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </div>
           </Card>
         ))}
       </div>

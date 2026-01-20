@@ -255,115 +255,158 @@
   },
   "Analysis": {
     "title": "Konfliktanalyse: Wege zum Frieden finden",
-    "introduction": "In einer Welt, die von kultureller Vielfalt, unterschiedlichen Werten und Prioritäten geprägt ist, entstehen Konflikte oft dann, wenn verschiedene Perspektiven aufeinanderprallen. Dauerhafter Frieden erfordert von uns, diese Unterschiede zu verstehen und zu respektieren, während wir auf gemeinsame Ziele hinarbeiten.",
-    
-    "foundation": {
-      "title": "Die Grundlagen von Konflikten",
-      "description": "Konflikte spiegeln oft zugrundeliegende Spannungen zwischen verschiedenen Prioritäten und Werten wider. Das Verständnis dieser Dynamiken hilft uns, Wege zum Frieden zu finden, die alle Perspektiven respektieren.",
-      "priorities": [
-        {
-          "title": "Sicherheit und Stabilität",
-          "description": "Das Bedürfnis nach Ordnung und Schutz"
-        },
-        {
-          "title": "Identität und Macht",
-          "description": "Der Wunsch, Einfluss geltend zu machen und das Erbe zu bewahren"
-        },
-        {
-          "title": "Fortschritt und Wohlstand",
-          "description": "Das Streben nach Innovation und Wachstum"
-        },
-        {
-          "title": "Inklusivität und Harmonie",
-          "description": "Das Streben nach Gleichberechtigung und Verständigung"
-        }
-      ]
+    "introduction": "In einer Welt, die von Vielfalt in Kultur, Werten und Prioritäten geprägt ist, entstehen Konflikte oft, wenn unterschiedliche Perspektiven aufeinanderprallen. Dauerhafter Frieden erfordert, dass wir diese Unterschiede verstehen und respektieren, während wir auf gemeinsame Ziele hinarbeiten. Wirklicher Frieden erfordert Arbeit sowohl an den Strukturen, die wir aufbauen, als auch an den Denkweisen, die wir kultivieren.",
+    "barriers": {
+      "title": "Die vier Barrieren für den Frieden",
+      "description": "Jede Barriere existiert sowohl als strukturelles Problem in der Interaktion zwischen Nationen als auch als Muster in unserem Denken:",
+      "labels": {
+        "structural": "Strukturell",
+        "consciousness": "Bewusstsein",
+        "whatsNeeded": "Was benötigt wird",
+        "structures": "Strukturen",
+        "mindsets": "Denkweisen"
+      },
+      "sovereignty": {
+        "title": "1. Die Souveränitätsfalle",
+        "structural": "Staaten können keine mehrdeutigen territorialen Regelungen akzeptieren, ohne dies als existenzielle Niederlage zu sehen",
+        "consciousness": "Wir verschmelzen Identität mit Land und sehen Gebietsverluste als kulturellen Tod statt als administrative Änderung",
+        "structures": "Metasouveräne Rahmenbedingungen, bioregionale Governance, die binäre Grenzen überwindet",
+        "mindsets": "Fluide Identitäten, die mehrere Zugehörigkeiten (lokal, regional, menschlich, planetar) zulassen"
+      },
+      "resources": {
+        "title": "2. Instrumentalisierung von Ressourcen",
+        "structural": "Strategische Ressourcen werden im Wettbewerb zu Waffen; geteilte Kontrolle bedeutet strategische Niederlage",
+        "consciousness": "Mangelmentalität treibt das Horten an, selbst wenn Kooperation Überfluss schaffen würde",
+        "structures": "Gemeingutbasierte Governance, automatisierte Protokolle zur Ressourcenteilung",
+        "mindsets": "Wandel von 'meins gegen deins' zu 'unseres zum Bewahren'; Überfluss durch Kooperation"
+      },
+      "competition": {
+        "title": "3. Wettbewerb um relative Gewinne",
+        "structural": "Großmächte optimieren auf den Nachteil des Rivalen statt auf absolute Stabilität",
+        "consciousness": "Selbstwert wird durch Dominanz gemessen; der Erfolg anderer fühlt sich wie ein persönlicher Verlust an",
+        "structures": "Rahmenwerke für absoluten Gewinn, die planetaren Beitrag über Machtposition belohnen",
+        "mindsets": "Sicherheit durch gemeinsamen Wohlstand, nicht durch die Schwäche anderer"
+      },
+      "freerider": {
+        "title": "4. Trittbrettfahrer-Problem",
+        "structural": "Akteure profitieren von Instabilität ohne Strafe; das System belohnt Nicht-Kooperation",
+        "consciousness": "Abkopplung vom kollektiven Wohlergehen; 'Nicht-mein-Problem'-Denken",
+        "structures": "Durchsetzung von Maßnahmen gegen Trittbrettfahren, Transparenz- und Konsequenzprotokolle",
+        "mindsets": "Tiefe Anerkennung der gegenseitigen Verbundenheit; planetares Bewusstsein"
+      }
     },
-
     "caseStudies": {
       "ukraineConflict": {
         "title": "Fallstudie: Der Russland-Ukraine-Konflikt",
-        "description": "Der anhaltende Konflikt in der Ukraine zeigt beispielhaft, wie unterschiedliche Prioritäten zu einer Eskalation von Spannungen führen können. Das Verständnis dieser Perspektiven hilft uns, Lösungen zu entwickeln, die die Bedürfnisse aller Beteiligten berücksichtigen.",
+        "description": "Der andauernde Konflikt in der Ukraine verdeutlicht, wie diese Barrieren sowohl auf struktureller als auch auf Bewusstseinsebene wirken. Das Verständnis beider Dimensionen hilft uns, Lösungen zu entwickeln, die die Ursachen angehen.",
         "perspectives": {
-          "title": "Zentrale Perspektiven",
+          "title": "Schlüsselperspektiven",
           "0": {
             "title": "Sicherheit und Stabilität",
-            "description": "Präsent in der russischen Führung und westlichen Bedenken",
+            "description": "Sowohl in der russischen Führung als auch in westlichen Bedenken präsent",
             "points": [
-              "Russland sieht die NATO-Erweiterung als Bedrohung seiner traditionellen Einflusssphäre",
-              "Der Westen betrachtet die NATO als Verteidigungsbündnis zur Wahrung demokratischer Werte"
+              "Russland nimmt die NATO-Osterweiterung als Bedrohung seiner traditionellen Einflusssphäre wahr",
+              "Der Westen sieht die NATO als Verteidigungsbündnis, das demokratische Werte wahrt"
             ]
           },
           "1": {
             "title": "Identität und Macht",
-            "description": "Präsent in russischen und einigen ukrainischen Narrativen",
+            "description": "In russischen und einigen ukrainischen Narrativen präsent",
             "points": [
-              "Die russische Führung betont die Bewahrung kultureller und historischer Verbindungen mit der Ukraine",
+              "Die russische Führung betont den Erhalt kultureller und historischer Bindungen zur Ukraine",
               "Befürworter der ukrainischen Souveränität priorisieren Selbstbestimmung und Widerstand gegen externe Kontrolle"
             ]
           },
           "2": {
             "title": "Fortschritt und Wohlstand",
-            "description": "Ein Schwerpunkt für ukrainische Reformbewegungen und westliche Verbündete",
+            "description": "Ein Fokus der ukrainischen Reformbewegungen und westlichen Verbündeten",
             "points": [
-              "Die Ukraine strebt eine Integration in westliche Wirtschafts- und Politiksysteme an, um zu modernisieren und zu gedeihen",
+              "Die Ukraine strebt die Integration in westliche Wirtschafts- und Politiksysteme an, um sich zu modernisieren und zu florieren",
               "Westliche Nationen priorisieren die Entwicklung der Ukraine als Teil eines stabilen, demokratischen Europas"
             ]
           },
           "3": {
             "title": "Inklusivität und Harmonie",
-            "description": "Sichtbar in Graswurzel-Friedensbemühungen und Teilen der ukrainischen Gesellschaft",
+            "description": "Sichtbar in Basis-Friedensbemühungen und Teilen der ukrainischen Gesellschaft",
             "points": [
               "Viele Ukrainer und internationale Vermittler setzen sich für Menschenrechte und kulturelle Vielfalt ein",
-              "Basisorganisationen bemühen sich um die Wiederherstellung von Vertrauen zwischen gespaltenen Gemeinschaften"
+              "Basisorganisationen bemühen sich, das Vertrauen zwischen gespaltenen Gemeinschaften wiederaufzubauen"
             ]
           }
         }
       }
     },
-
     "pathsToPeace": {
-      "title": "Wege zu dauerhaftem Frieden",
-      "description": "Frieden erfordert Lösungen, die verschiedene Perspektiven berücksichtigen und gleichzeitig praktische Bedürfnisse ansprechen.",
+      "title": "Wege nach vorn",
+      "description": "Echter Frieden erfordert die gleichzeitige Arbeit an beiden Dimensionen. Wir müssen neue Strukturen aufbauen und gleichzeitig neue Denkweisen kultivieren:",
+      "labels": {
+        "systemsWeBuild": "Systeme, die wir bauen",
+        "mindsetsCultivate": "Denkweisen, die wir kultivieren"
+      },
       "paths": {
         "0": {
           "title": "Sicherheitsgarantien",
-          "description": "Etablierung von Rahmenbedingungen für gegenseitige Sicherheit und Stabilität",
-          "points": [
-            "Internationale Abkommen schaffen, die Souveränität und Sicherheit für alle Parteien gewährleisten",
-            "Mechanismen zur Reduzierung militärischer Spannungen und zum Aufbau von Vertrauen entwickeln"
+          "systems": "Etablierung von Rahmenwerken für gegenseitige Sicherheit und Stabilität",
+          "systemPoints": [
+            "Schaffung internationaler Abkommen, die Souveränität und Sicherheit für alle Parteien gewährleisten",
+            "Entwicklung von Mechanismen zum Abbau militärischer Spannungen und zur Vertrauensbildung"
+          ],
+          "mindsets": "Weg von 'Sicherheit durch Dominanz' hin zu 'Sicherheit durch Kooperation'",
+          "mindsetPoints": [
+            "Anerkennen, dass dauerhafte Sicherheit aus dem Wohlergehen der Nachbarn entsteht, nicht aus deren Schwäche",
+            "Kultivierung vertrauensbildender Praktiken, die politische Zyklen überdauern"
           ]
         },
         "1": {
-          "title": "Kultur- und Sprachenrechte",
-          "description": "Schutz der Vielfalt bei gleichzeitiger Förderung der Einheit",
-          "points": [
-            "Schutz von Minderheitengruppen und kulturellen Traditionen sicherstellen",
-            "Programme fördern, die Vielfalt zelebrieren und Brücken zwischen Gemeinschaften bauen"
+          "title": "Kultur- und Sprachrechte",
+          "systems": "Schutz der Vielfalt bei gleichzeitiger Förderung der Einheit",
+          "systemPoints": [
+            "Sicherstellung des Schutzes für Minderheitengruppen und kulturelle Traditionen",
+            "Förderung von Programmen, die Vielfalt feiern und Brücken zwischen Gemeinschaften bauen"
+          ],
+          "mindsets": "Von 'Entweder-oder'-Identität zu 'Sowohl-als-auch'-Zugehörigkeit",
+          "mindsetPoints": [
+            "Mehrere kulturelle Identitäten ohne Widerspruch innehaben",
+            "Vielfalt als Stärke statt als Bedrohung sehen"
           ]
         },
         "2": {
           "title": "Wirtschaftliche Zusammenarbeit",
-          "description": "Aufbau gemeinsamen Wohlstands durch Kooperation",
-          "points": [
-            "Gemeinsame Wirtschaftsinitiativen unter Einbindung aller Parteien entwickeln",
-            "Rahmenbedingungen für nachhaltige Entwicklung und Handel schaffen"
+          "systems": "Aufbau gemeinsamen Wohlstands durch Zusammenarbeit",
+          "systemPoints": [
+            "Entwicklung gemeinsamer wirtschaftlicher Initiativen unter Einbeziehung aller Parteien",
+            "Schaffung von Rahmenbedingungen für nachhaltige Entwicklung und Handel"
+          ],
+          "mindsets": "Vom Nullsummen-Wettbewerb zur Positivsummen-Kooperation",
+          "mindsetPoints": [
+            "Verstehen, dass gemeinsamer Wohlstand mehr Reichtum für alle schafft",
+            "Weg vom 'Gewinnen' hin zum 'gemeinsamen Gedeihen'"
           ]
         },
         "3": {
           "title": "Governance-Lösungen",
-          "description": "Schaffung inklusiver politischer Rahmenbedingungen",
-          "points": [
-            "Modelle prüfen, die lokale Autonomie und nationale Einheit ausbalancieren",
-            "Transparente und repräsentative Verwaltungsstrukturen etablieren"
+          "systems": "Schaffung inklusiver politischer Rahmenbedingungen",
+          "systemPoints": [
+            "Betrachtung von Modellen, die lokale Autonomie mit übergeordneter Koordination ausbalancieren",
+            "Einrichtung transparenter und repräsentativer Regierungsstrukturen"
+          ],
+          "mindsets": "Fluide Souveränität und verschachtelte Governance",
+          "mindsetPoints": [
+            "Akzeptieren, dass effektive Regierungsführung auf mehreren Ebenen gleichzeitig stattfindet",
+            "Souveränität als Werkzeug für das Wohlergehen sehen, nicht als heiliges Absolutum"
           ]
         },
         "4": {
           "title": "Internationale Unterstützung",
-          "description": "Sicherstellung nachhaltiger Umsetzung",
-          "points": [
-            "Neutrale internationale Akteure für Vermittlung und Überwachung einbinden",
-            "Mechanismen für kontinuierliche Unterstützung und Anpassung entwickeln"
+          "systems": "Sicherstellung einer nachhaltigen Umsetzung",
+          "systemPoints": [
+            "Einbeziehung neutraler internationaler Akteure zur Vermittlung und Überwachung",
+            "Entwicklung von Mechanismen für fortlaufende Unterstützung und Anpassung"
+          ],
+          "mindsets": "Weltbürgertum und planetare Verantwortung",
+          "mindsetPoints": [
+            "Unsere Rolle für das planetare Wohlergehen anerkennen, nicht nur nationale Interessen",
+            "Verantwortung für die kollektive menschliche Zukunft kultivieren"
           ]
         }
       }

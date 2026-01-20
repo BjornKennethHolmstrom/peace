@@ -254,116 +254,159 @@
     }
   },
   "Analysis": {
-    "title": "Análisis de Conflictos: Encontrando Caminos hacia la Paz",
-    "introduction": "En un mundo marcado por la diversidad de culturas, valores y prioridades, los conflictos a menudo surgen cuando chocan diferentes perspectivas. La paz duradera requiere que entendamos y respetemos estas diferencias mientras trabajamos hacia objetivos compartidos.",
-    
-    "foundation": {
-      "title": "Los Fundamentos del Conflicto",
-      "description": "Los conflictos a menudo reflejan tensiones subyacentes entre distintas prioridades y valores. Entender estas dinámicas nos ayuda a identificar caminos hacia la paz que honren todas las perspectivas.",
-      "priorities": [
-        {
-          "title": "Seguridad y Estabilidad",
-          "description": "La necesidad de orden y protección"
-        },
-        {
-          "title": "Identidad y Poder",
-          "description": "El deseo de afirmar influencia y preservar el patrimonio"
-        },
-        {
-          "title": "Progreso y Prosperidad",
-          "description": "La búsqueda de innovación y crecimiento"
-        },
-        {
-          "title": "Inclusividad y Armonía",
-          "description": "La aspiración por la igualdad y el entendimiento"
-        }
-      ]
+    "title": "Análisis de conflictos: Encontrando caminos hacia la paz",
+    "introduction": "En un mundo marcado por la diversidad de culturas, valores y prioridades, los conflictos surgen a menudo cuando chocan perspectivas diferentes. La paz duradera requiere que comprendamos y respetemos estas diferencias mientras trabajamos hacia objetivos compartidos. La verdadera paz requiere trabajar tanto en las estructuras que construimos como en las mentalidades que cultivamos.",
+    "barriers": {
+      "title": "Las cuatro barreras para la paz",
+      "description": "Cada barrera existe tanto como un problema estructural en la forma en que interactúan las naciones como un patrón en nuestra forma de pensar:",
+      "labels": {
+        "structural": "Estructural",
+        "consciousness": "Conciencia",
+        "whatsNeeded": "Lo que se necesita",
+        "structures": "Estructuras",
+        "mindsets": "Mentalidades"
+      },
+      "sovereignty": {
+        "title": "1. La trampa de la soberanía",
+        "structural": "Los estados no pueden aceptar arreglos territoriales ambiguos sin verlo como una derrota existencial",
+        "consciousness": "Fusionamos la identidad con la tierra, viendo la pérdida de territorio como una muerte cultural en lugar de un cambio administrativo",
+        "structures": "Marcos metasoberanos, gobernanza biorregional que trasciende las fronteras binarias",
+        "mindsets": "Identidades fluidas que pueden sostener múltiples pertenencias (local, regional, humana, planetaria)"
+      },
+      "resources": {
+        "title": "2. El uso de recursos como armas",
+        "structural": "Los recursos estratégicos se convierten en armas en la competencia; compartir el control equivale a una derrota estratégica",
+        "consciousness": "La mentalidad de escasez impulsa el acaparamiento incluso cuando la cooperación crearía abundancia",
+        "structures": "Gobernanza basada en el procomún, protocolos automatizados de intercambio de recursos",
+        "mindsets": "Cambio de 'mío vs. tuyo' a 'nuestro para administrar'; abundancia a través de la cooperación"
+      },
+      "competition": {
+        "title": "3. Competencia de ganancia relativa",
+        "structural": "Las grandes potencias optimizan para la desventaja del rival en lugar de la estabilidad absoluta",
+        "consciousness": "La autovalía se mide a través de la dominación; el éxito de los demás se siente como una pérdida personal",
+        "structures": "Marcos de ganancia absoluta que recompensan la contribución planetaria sobre la posición de poder",
+        "mindsets": "Seguridad a través de la prosperidad compartida, no a través de la debilidad de los demás"
+      },
+      "freerider": {
+        "title": "4. El problema del polizón (Free-Rider)",
+        "structural": "Los actores se benefician de la inestabilidad sin penalización; el sistema recompensa la no cooperación",
+        "consciousness": "Desconexión del bienestar colectivo; pensamiento de 'no es mi problema'",
+        "structures": "Aplicación de medidas contra el parasitismo, protocolos de transparencia y consecuencias",
+        "mindsets": "Reconocimiento profundo de la interconexión; conciencia planetaria"
+      }
     },
-
     "caseStudies": {
       "ukraineConflict": {
-        "title": "Estudio de Caso: El Conflicto Rusia-Ucrania",
-        "description": "El conflicto en curso en Ucrania ejemplifica cómo las prioridades divergentes pueden escalar las tensiones. Entender estas perspectivas nos ayuda a crear soluciones que aborden las necesidades de todos los involucrados.",
+        "title": "Estudio de caso: El conflicto Rusia-Ucrania",
+        "description": "El conflicto actual en Ucrania ejemplifica cómo estas barreras operan tanto a nivel estructural como de conciencia. Comprender ambas dimensiones nos ayuda a diseñar soluciones que aborden las causas fundamentales.",
         "perspectives": {
-          "title": "Perspectivas Clave",
+          "title": "Perspectivas clave",
           "0": {
-            "title": "Seguridad y Estabilidad",
+            "title": "Seguridad y estabilidad",
             "description": "Presente tanto en el liderazgo ruso como en las preocupaciones occidentales",
             "points": [
-              "Rusia percibe la expansión de la OTAN como una amenaza a su esfera tradicional de influencia",
-              "Occidente ve a la OTAN como una alianza defensiva que sostiene valores democráticos"
+              "Rusia percibe la expansión de la OTAN como una amenaza a su esfera de influencia tradicional",
+              "Occidente ve a la OTAN como una alianza defensiva que defiende los valores democráticos"
             ]
           },
           "1": {
-            "title": "Identidad y Poder",
-            "description": "Presente en narrativas rusas y algunas ucranianas",
+            "title": "Identidad y poder",
+            "description": "Presente en las narrativas rusas y algunas ucranianas",
             "points": [
-              "El liderazgo ruso enfatiza la preservación de lazos culturales e históricos con Ucrania",
+              "El liderazgo ruso enfatiza la preservación de los lazos culturales e históricos con Ucrania",
               "Los defensores de la soberanía ucraniana priorizan la autodeterminación y la resistencia al control externo"
             ]
           },
           "2": {
-            "title": "Progreso y Prosperidad",
-            "description": "Un enfoque para los movimientos de reforma ucranianos y aliados occidentales",
+            "title": "Progreso y prosperidad",
+            "description": "Un enfoque para los movimientos de reforma de Ucrania y los aliados occidentales",
             "points": [
-              "Ucrania busca la integración con sistemas económicos y políticos occidentales para modernizarse y prosperar",
-              "Las naciones occidentales priorizan el desarrollo de Ucrania como parte de una Europa democrática estable"
+              "Ucrania busca la integración con los sistemas económicos y políticos occidentales para modernizarse y prosperar",
+              "Las naciones occidentales priorizan el desarrollo de Ucrania como parte de una Europa estable y democrática"
             ]
           },
           "3": {
-            "title": "Inclusividad y Armonía",
-            "description": "Visible en esfuerzos de paz comunitarios y partes de la sociedad ucraniana",
+            "title": "Inclusividad y armonía",
+            "description": "Visible en los esfuerzos de paz de base y partes de la sociedad ucraniana",
             "points": [
               "Muchos ucranianos y mediadores internacionales abogan por los derechos humanos y la diversidad cultural",
-              "Las organizaciones comunitarias se esfuerzan por reconstruir la confianza entre comunidades divididas"
+              "Las organizaciones de base se esfuerzan por reconstruir la confianza entre comunidades divididas"
             ]
           }
         }
       }
     },
-
     "pathsToPeace": {
-      "title": "Caminos hacia una Paz Duradera",
-      "description": "La paz requiere soluciones que resuenen con diversas perspectivas mientras abordan necesidades prácticas.",
+      "title": "Caminos hacia adelante",
+      "description": "La verdadera paz requiere trabajar en ambas dimensiones simultáneamente. Debemos construir nuevas estructuras mientras cultivamos nuevas formas de pensar:",
+      "labels": {
+        "systemsWeBuild": "Sistemas que construimos",
+        "mindsetsCultivate": "Mentalidades que cultivamos"
+      },
       "paths": {
         "0": {
-          "title": "Garantías de Seguridad",
-          "description": "Establecer marcos para la seguridad y estabilidad mutua",
-          "points": [
-            "Crear acuerdos internacionales que garanticen la soberanía y seguridad para todas las partes",
-            "Desarrollar mecanismos para reducir tensiones militares y construir confianza"
+          "title": "Garantías de seguridad",
+          "systems": "Establecimiento de marcos para la seguridad y estabilidad mutuas",
+          "systemPoints": [
+            "Crear acuerdos internacionales que aseguren la soberanía y la seguridad para todas las partes",
+            "Desarrollar mecanismos para reducir las tensiones militares y fomentar la confianza"
+          ],
+          "mindsets": "Pasar de la 'seguridad mediante la dominación' a la 'seguridad mediante la cooperación'",
+          "mindsetPoints": [
+            "Reconocer que la seguridad duradera proviene del bienestar de los vecinos, no de su debilidad",
+            "Cultivar prácticas de construcción de confianza que trasciendan los ciclos políticos"
           ]
         },
         "1": {
-          "title": "Derechos Culturales y Lingüísticos",
-          "description": "Proteger la diversidad mientras se fomenta la unidad",
-          "points": [
-            "Asegurar la protección de grupos minoritarios y tradiciones culturales",
+          "title": "Derechos culturales y lingüísticos",
+          "systems": "Proteger la diversidad mientras se fomenta la unidad",
+          "systemPoints": [
+            "Garantizar la protección de los grupos minoritarios y las tradiciones culturales",
             "Promover programas que celebren la diversidad y construyan puentes entre comunidades"
+          ],
+          "mindsets": "De una identidad de 'o esto o aquello' a una pertenencia de 'ambos'",
+          "mindsetPoints": [
+            "Sostener múltiples identidades culturales sin contradicción",
+            "Ver la diversidad como una fortaleza en lugar de una amenaza"
           ]
         },
         "2": {
-          "title": "Cooperación Económica",
-          "description": "Construir prosperidad compartida a través de la colaboración",
-          "points": [
+          "title": "Cooperación económica",
+          "systems": "Construir prosperidad compartida a través de la colaboración",
+          "systemPoints": [
             "Desarrollar iniciativas económicas conjuntas que involucren a todas las partes",
             "Crear marcos para el desarrollo sostenible y el comercio"
+          ],
+          "mindsets": "De la competencia de suma cero a la cooperación de suma positiva",
+          "mindsetPoints": [
+            "Entender que la prosperidad compartida crea más riqueza para todos",
+            "Pasar de 'ganar' a 'prosperar juntos'"
           ]
         },
         "3": {
-          "title": "Soluciones de Gobernanza",
-          "description": "Crear marcos políticos inclusivos",
-          "points": [
-            "Considerar modelos que equilibren la autonomía local con la unidad nacional",
-            "Establecer estructuras de gobernanza transparentes y representativas"
+          "title": "Soluciones de gobernanza",
+          "systems": "Creación de marcos políticos inclusivos",
+          "systemPoints": [
+            "Considerar modelos que equilibren la autonomía local con una coordinación más amplia",
+            "Establecer estructuras de gobierno transparentes y representativas"
+          ],
+          "mindsets": "Soberanía fluida y gobernanza anidada",
+          "mindsetPoints": [
+            "Aceptar que la gobernanza efectiva opera en múltiples escalas simultáneamente",
+            "Ver la soberanía como una herramienta para el bienestar, no como un absoluto sagrado"
           ]
         },
         "4": {
-          "title": "Apoyo Internacional",
-          "description": "Asegurar una implementación sostenible",
-          "points": [
-            "Involucrar actores internacionales neutrales para mediación y monitoreo",
-            "Desarrollar mecanismos para apoyo y ajuste continuos"
+          "title": "Apoyo internacional",
+          "systems": "Garantizar una implementación sostenible",
+          "systemPoints": [
+            "Involucrar a actores internacionales neutrales para la mediación y el monitoreo",
+            "Desarrollar mecanismos para el apoyo y ajuste continuos"
+          ],
+          "mindsets": "Ciudadanía global y responsabilidad planetaria",
+          "mindsetPoints": [
+            "Reconocer nuestro papel en el bienestar planetario, no solo el interés nacional",
+            "Cultivar la responsabilidad por el futuro humano colectivo"
           ]
         }
       }

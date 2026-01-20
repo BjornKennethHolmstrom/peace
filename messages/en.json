@@ -257,35 +257,52 @@
   },
   "Analysis": {
     "title": "Conflict Analysis: Finding Paths to Peace",
-    "introduction": "In a world marked by diversity in culture, values, and priorities, conflicts often arise when differing perspectives clash. Lasting peace requires us to understand and respect these differences while working toward shared goals.",
+    "introduction": "In a world marked by diversity in culture, values, and priorities, conflicts often arise when differing perspectives clash. Lasting peace requires us to understand and respect these differences while working toward shared goals. Real peace requires working on both the structures we build and the mindsets we cultivate.",
     
-    "foundation": {
-      "title": "The Foundation of Conflict",
-      "description": "Conflicts often reflect underlying tensions between distinct priorities and values. Understanding these dynamics helps us identify paths to peace that honor all perspectives.",
-      "priorities": [
-        {
-          "title": "Security and Stability",
-          "description": "The need for order and protection"
-        },
-        {
-          "title": "Identity and Power",
-          "description": "The desire to assert influence and preserve heritage"
-        },
-        {
-          "title": "Progress and Prosperity",
-          "description": "The pursuit of innovation and growth"
-        },
-        {
-          "title": "Inclusivity and Harmony",
-          "description": "The aspiration for equality and understanding"
-        }
-      ]
+    "barriers": {
+      "title": "The Four Barriers to Peace",
+      "description": "Each barrier exists both as a structural problem in how nations interact and as a pattern in how we think:",
+      "labels": {
+        "structural": "Structural",
+        "consciousness": "Consciousness",
+        "whatsNeeded": "What's needed",
+        "structures": "Structures",
+        "mindsets": "Mindsets"
+      },
+      "sovereignty": {
+        "title": "1. The Sovereignty Trap",
+        "structural": "States cannot accept ambiguous territorial arrangements without seeing it as existential defeat",
+        "consciousness": "We fuse identity with land, seeing territory loss as cultural death rather than administrative change",
+        "structures": "Meta-sovereign frameworks, bioregional governance that transcends binary borders",
+        "mindsets": "Fluid identities that can hold multiple belongings (local, regional, human, planetary)"
+      },
+      "resources": {
+        "title": "2. Resource Weaponization",
+        "structural": "Strategic resources become weapons in competition; sharing control equals strategic defeat",
+        "consciousness": "Scarcity mindset drives hoarding even when cooperation would create abundance",
+        "structures": "Commons-based governance, automated resource sharing protocols",
+        "mindsets": "Shift from 'mine vs yours' to 'ours to steward'; abundance through cooperation"
+      },
+      "competition": {
+        "title": "3. Relative-Gain Competition",
+        "structural": "Great powers optimize for rival disadvantage over absolute stability",
+        "consciousness": "Self-worth measured through domination; others' success feels like personal loss",
+        "structures": "Absolute-gain frameworks that reward planetary contribution over power position",
+        "mindsets": "Security through shared prosperity, not through others' weakness"
+      },
+      "freerider": {
+        "title": "4. Free-Rider Problem",
+        "structural": "Actors profit from instability without penalty; system rewards non-cooperation",
+        "consciousness": "Disconnection from collective wellbeing; 'not my problem' thinking",
+        "structures": "Anti-free-riding enforcement, transparency and consequence protocols",
+        "mindsets": "Deep recognition of interconnection; planetary consciousness"
+      }
     },
 
     "caseStudies": {
       "ukraineConflict": {
         "title": "Case Study: The Russia-Ukraine Conflict",
-        "description": "The ongoing conflict in Ukraine exemplifies how divergent priorities can escalate tensions. Understanding these perspectives helps us craft solutions that address the needs of all involved.",
+        "description": "The ongoing conflict in Ukraine exemplifies how these barriers operate at both structural and consciousness levels. Understanding both dimensions helps us craft solutions that address root causes.",
         "perspectives": {
           "title": "Key Perspectives",
           "0": {
@@ -325,47 +342,76 @@
     },
 
     "pathsToPeace": {
-      "title": "Paths to Lasting Peace",
-      "description": "Peace requires solutions that resonate with diverse perspectives while addressing practical needs.",
+      "title": "Paths Forward",
+      "description": "Real peace requires working on both dimensions simultaneously. We must build new structures while cultivating new ways of thinking:",
+      "labels": {
+        "systemsWeBuild": "Systems we build",
+        "mindsetsCultivate": "Mindsets we cultivate"
+      },
       "paths": {
         "0": {
           "title": "Security Guarantees",
-          "description": "Establishing frameworks for mutual security and stability",
-          "points": [
+          "systems": "Establishing frameworks for mutual security and stability",
+          "systemPoints": [
             "Create international agreements ensuring sovereignty and security for all parties",
             "Develop mechanisms for reducing military tensions and building trust"
+          ],
+          "mindsets": "Moving from 'security through domination' to 'security through cooperation'",
+          "mindsetPoints": [
+            "Recognize that lasting security comes from neighbors' wellbeing, not their weakness",
+            "Cultivate trust-building practices that transcend political cycles"
           ]
         },
         "1": {
           "title": "Cultural and Language Rights",
-          "description": "Protecting diversity while fostering unity",
-          "points": [
+          "systems": "Protecting diversity while fostering unity",
+          "systemPoints": [
             "Ensure protection for minority groups and cultural traditions",
             "Promote programs that celebrate diversity and build bridges between communities"
+          ],
+          "mindsets": "From 'either/or' identity to 'both/and' belonging",
+          "mindsetPoints": [
+            "Hold multiple cultural identities without contradiction",
+            "See diversity as strength rather than threat"
           ]
         },
         "2": {
           "title": "Economic Cooperation",
-          "description": "Building shared prosperity through collaboration",
-          "points": [
+          "systems": "Building shared prosperity through collaboration",
+          "systemPoints": [
             "Develop joint economic initiatives involving all parties",
             "Create frameworks for sustainable development and trade"
+          ],
+          "mindsets": "From zero-sum competition to positive-sum cooperation",
+          "mindsetPoints": [
+            "Understand that shared prosperity creates more wealth for everyone",
+            "Move from 'winning' to 'thriving together'"
           ]
         },
         "3": {
           "title": "Governance Solutions",
-          "description": "Creating inclusive political frameworks",
-          "points": [
-            "Consider models that balance local autonomy with national unity",
+          "systems": "Creating inclusive political frameworks",
+          "systemPoints": [
+            "Consider models that balance local autonomy with broader coordination",
             "Establish transparent and representative governance structures"
+          ],
+          "mindsets": "Fluid sovereignty and nested governance",
+          "mindsetPoints": [
+            "Accept that effective governance operates at multiple scales simultaneously",
+            "See sovereignty as tool for wellbeing, not as sacred absolute"
           ]
         },
         "4": {
           "title": "International Support",
-          "description": "Ensuring sustainable implementation",
-          "points": [
+          "systems": "Ensuring sustainable implementation",
+          "systemPoints": [
             "Engage neutral international actors for mediation and monitoring",
             "Develop mechanisms for ongoing support and adjustment"
+          ],
+          "mindsets": "Global citizenship and planetary responsibility",
+          "mindsetPoints": [
+            "Recognize our role in planetary wellbeing, not just national interest",
+            "Cultivate responsibility for collective human future"
           ]
         }
       }
