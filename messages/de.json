@@ -22,6 +22,7 @@
   "Navigation": {
     "message": "Gemeinsam können wir die bewaffneten Konflikte der Welt beenden",
     "understanding": "Verstehen",
+    "innerOuter": "Innen → Außen",
     "analysis": "Analyse",
     "takeAction": "Aktiv Werden",
     "discord": "Discord Beitreten"
@@ -410,6 +411,86 @@
           ]
         }
       }
+    }
+  },
+  "InnerOuter": {
+    "title": "Von der inneren Arbeit zum äußeren Wandel",
+    "subtitle": "Die Strukturen, die Frieden verhindern, spiegeln wider, wie wir zu denken gelernt haben. Das eine ohne das andere zu ändern, funktioniert nicht.",
+    "connection": {
+      "title": "Die persönlich-politische Verbindung",
+      "consciousness": {
+        "individual": "Individuelles Bewusstsein: Wie ich „Feinde“ und „Verbündete“ sehe",
+        "political": "Politische Strukturen: Wie Nationen Freunde und Bedrohungen definieren"
+      },
+      "practice": {
+        "personal": "Persönliche Praxis: Erkennen der gemeinsamen Menschlichkeit trotz Unterschieden",
+        "political": "Politische Praxis: Diplomatische Rahmenbedingungen, die auf gegenseitigem Respekt aufbauen"
+      },
+      "resource": {
+        "inner": "Innere Ressource: Weg von der Mangelmentalität hin zur Überflussmentalität",
+        "outer": "Äußere Ressource: Gemeingutbasierte Governance, Ressourcenteilung"
+      }
+    },
+    "practical": {
+      "title": "Praktische Integration",
+      "steps": {
+        "0": {
+          "title": "1. Die Muster erkennen",
+          "description": "Wenn Sie „wir gegen die“ denken, achten Sie darauf, wie dieselbe Logik in der Geopolitik funktioniert. Die Spaltung, die Sie persönlich spüren, ist dieselbe Spaltung, die Konflikte zwischen Nationen erzeugt."
+        },
+        "1": {
+          "title": "2. Die Geschichten hinterfragen",
+          "description": "Was wäre, wenn Grenzen nicht heilig wären? Was wäre, wenn Ressourcen geteilt würden? Beachten Sie Ihren Widerstand – das ist derselbe Widerstand, der den systemischen Wandel auf globaler Ebene blockiert."
+        },
+        "2": {
+          "title": "3. Im großen Maßstab üben",
+          "description": "Beginnen Sie lokal mit Nachbarschaftskooperation, erweitern Sie dies auf bioregionales Denken und dann auf planetares Bewusstsein. Jede Ebene baut auf der vorherigen auf."
+        },
+        "3": {
+          "title": "4. Beides aufbauen",
+          "description": "Arbeiten Sie an innerer Transformation UND struktureller Reform. Meditation ohne Handlung ändert nichts. Handlung ohne Bewusstsein erschafft alte Muster in neuen Formen neu."
+        }
+      }
+    },
+    "historical": {
+      "title": "Historische Beispiele",
+      "examples": {
+        "abolition": {
+          "title": "Abschaffung der Sklaverei",
+          "description": "Erforderte einen Bewusstseinswandel (versklavte Menschen als vollwertige Menschen mit gleichen Rechten zu sehen) UND strukturelle Veränderungen (neue Gesetze, Durchsetzungsmechanismen, wirtschaftliche Neuorganisation). Keines von beiden hätte allein Erfolg gehabt."
+        },
+        "suffrage": {
+          "title": "Frauenwahlrecht",
+          "description": "Veränderte sowohl das gesellschaftliche Bewusstsein über die Fähigkeiten von Frauen als auch die rechtlichen Strukturen. Die Bewegung arbeitete gleichzeitig an den Köpfen (durch Bildung und Demonstrationen) und an den Systemen (durch politische Organisierung)."
+        },
+        "environmental": {
+          "title": "Umweltbewegung",
+          "description": "Verschob das Bewusstsein über die Beziehung der Menschheit zur Natur UND schuf neue Institutionen (Umweltbehörden, internationale Verträge, Schutzgebiete). Persönliche Lebensstiländerungen und politische Änderungen verstärkten sich gegenseitig."
+        }
+      }
+    },
+    "omega": {
+      "title": "Die Verbindung zum Omega-Beweis",
+      "summary": "Neuere Forschungen zeigen, dass das derzeitige internationale System strukturell keinen Frieden schaffen kann, egal wie gut die Friedensabkommen gestaltet sind. Das System selbst – aufgebaut auf absoluter Souveränität, Ressourcenwettbewerb und Nullsummendenken – macht dauerhaften Frieden architektonisch unmöglich.",
+      "connection": "Aber neue Strukturen erfordern Menschen, die bereit sind, sie aufzubauen und zu akzeptieren. Man kann keine planetare Governance mit nationalistischem Bewusstsein aufbauen. Man kann keine Ressourcen-Allmende mit Mangeldenken schaffen. Man kann keine Kooperationsrahmen mit Wettbewerbsdenken etablieren.",
+      "key": "Hier wird Bewusstseinsarbeit essenziell: Sie schafft die Menschen, die fähig sind, neue Strukturen zu bauen und zu bewohnen."
+    },
+    "meaning": {
+      "title": "Was das für Sie bedeutet",
+      "points": [
+        "Studieren Sie die strukturellen Probleme, die Frieden verhindern (siehe Analyseseite)",
+        "Achten Sie darauf, wie dieselben Muster in Ihrem eigenen Denken und Ihren Beziehungen wirken",
+        "Üben Sie andere Sichtweisen: Kooperation über Wettbewerb, Genügsamkeit über Mangel, Verbundenheit über Trennung",
+        "Unterstützen Sie strukturelle Veränderungen (neue Governance-Modelle, Ressourcenteilung), während Sie innere Arbeit leisten",
+        "Erkennen Sie, dass dies ein Sowohl-als-auch ist, kein Entweder-oder – wir brauchen transformiertes Bewusstsein UND transformierte Strukturen"
+      ]
+    },
+    "cta": {
+      "title": "Bereit, tiefer einzutauchen?",
+      "description": "Entdecken Sie, wie innere und äußere Transformation zusammenwirken:",
+      "understanding": "Verständnis",
+      "analysis": "Analyse",
+      "action": "Handeln"
     }
   }
 }

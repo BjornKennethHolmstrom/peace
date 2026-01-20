@@ -22,6 +22,7 @@
   "Navigation": {
     "message": "Juntos podemos poner fin a los conflictos armados en el mundo",
     "understanding": "Entender",
+    "innerOuter": "Interior → Exterior",
     "analysis": "Análisis",
     "takeAction": "Tomar Acción",
     "discord": "Unirse a Discord"
@@ -410,6 +411,86 @@
           ]
         }
       }
+    }
+  },
+  "InnerOuter": {
+    "title": "Del trabajo interior al cambio exterior",
+    "subtitle": "Las estructuras que impiden la paz reflejan cómo se nos ha enseñado a pensar. Cambiar uno sin el otro no funciona.",
+    "connection": {
+      "title": "La conexión personal-política",
+      "consciousness": {
+        "individual": "Conciencia individual: Cómo veo a los \"enemigos\" y \"aliados\"",
+        "political": "Estructuras políticas: Cómo definen las naciones a los amigos y las amenazas"
+      },
+      "practice": {
+        "personal": "Práctica personal: Reconocer la humanidad compartida a través de las diferencias",
+        "political": "Práctica política: Marcos diplomáticos construidos sobre el respeto mutuo"
+      },
+      "resource": {
+        "inner": "Recurso interior: Pasar de una mentalidad de escasez a una de abundancia",
+        "outer": "Recurso exterior: Gobernanza basada en el procomún, intercambio de recursos"
+      }
+    },
+    "practical": {
+      "title": "Integración práctica",
+      "steps": {
+        "0": {
+          "title": "1. Note los patrones",
+          "description": "Cuando piense en \"nosotros contra ellos\", observe cómo esa misma lógica opera en la geopolítica. La división que siente personalmente es la misma división que crea conflictos entre naciones."
+        },
+        "1": {
+          "title": "2. Cuestione las historias",
+          "description": "¿Qué pasaría si las fronteras no fueran sagradas? ¿Y si se compartieran los recursos? Note su resistencia: esa es la misma resistencia que bloquea el cambio sistémico a nivel global."
+        },
+        "2": {
+          "title": "3. Practique a escala",
+          "description": "Empiece localmente con la cooperación vecinal, amplíe al pensamiento biorregional y luego a la conciencia planetaria. Cada nivel se construye sobre el anterior."
+        },
+        "3": {
+          "title": "4. Construya ambos",
+          "description": "Trabaje en la transformación interior Y en la reforma estructural. La meditación sin acción no cambia nada. La acción sin conciencia recrea viejos patrones en nuevas formas."
+        }
+      }
+    },
+    "historical": {
+      "title": "Ejemplos históricos",
+      "examples": {
+        "abolition": {
+          "title": "Abolición de la esclavitud",
+          "description": "Requirió un cambio de conciencia (ver a las personas esclavizadas como plenamente humanas con igualdad de derechos) Y un cambio estructural (nuevas leyes, mecanismos de aplicación, reorganización económica). Ninguno por sí solo habría tenido éxito."
+        },
+        "suffrage": {
+          "title": "Sufragio femenino",
+          "description": "Cambió tanto la conciencia social sobre las capacidades de las mujeres como las estructuras legales. El movimiento trabajó en las mentes (a través de la educación y la manifestación) y en los sistemas (a través de la organización política) simultáneamente."
+        },
+        "environmental": {
+          "title": "Movimiento ambiental",
+          "description": "Cambió la conciencia sobre la relación de la humanidad con la naturaleza Y creó nuevas instituciones (agencias de protección ambiental, tratados internacionales, áreas protegidas). Los cambios en el estilo de vida personal y los cambios políticos se reforzaron mutuamente."
+        }
+      }
+    },
+    "omega": {
+      "title": "La conexión de la Prueba Omega",
+      "summary": "Investigaciones recientes demuestran que el sistema internacional actual no puede estructuralmente producir la paz, por muy bien diseñados que estén los acuerdos de paz. El sistema en sí mismo —basado en la soberanía absoluta, la competencia por los recursos y el pensamiento de suma cero— hace que la paz duradera sea arquitectónicamente imposible.",
+      "connection": "Pero las nuevas estructuras requieren personas dispuestas a construirlas y aceptarlas. No se puede construir una gobernanza planetaria con una conciencia nacionalista. No se puede crear un procomún de recursos con mentalidades de escasez. No se pueden establecer marcos de cooperación con un pensamiento competitivo.",
+      "key": "Aquí es donde el trabajo de conciencia se vuelve esencial: crea a los seres humanos capaces de construir y habitar nuevas estructuras."
+    },
+    "meaning": {
+      "title": "Lo que esto significa para usted",
+      "points": [
+        "Estudie los problemas estructurales que impiden la paz (ver página de Análisis)",
+        "Note estos mismos patrones operando en su propio pensamiento y relaciones",
+        "Practique diferentes formas de ver: cooperación sobre competencia, suficiencia sobre escasez, interconexión sobre separación",
+        "Apoye los cambios estructurales (nuevos modelos de gobernanza, intercambio de recursos) mientras realiza el trabajo interior",
+        "Reconozca que esto es 'ambos/y', no 'o esto/o lo otro': necesitamos una conciencia transformada Y estructuras transformadas"
+      ]
+    },
+    "cta": {
+      "title": "¿Listo para profundizar?",
+      "description": "Explore cómo la transformación interior y exterior trabajan juntas:",
+      "understanding": "Comprensión",
+      "analysis": "Análisis",
+      "action": "Tomar acción"
     }
   }
 }

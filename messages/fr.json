@@ -22,6 +22,7 @@
   "Navigation": {
     "message": "Ensemble, nous pouvons mettre fin aux conflits armés dans le monde",
     "understanding": "Comprendre",
+    "innerOuter": "Intérieur → Extérieur",
     "analysis": "Analyse",
     "takeAction": "Agir",
     "discord": "Rejoindre Discord"
@@ -410,6 +411,86 @@
           ]
         }
       }
+    }
+  },
+  "InnerOuter": {
+    "title": "Du travail intérieur au changement extérieur",
+    "subtitle": "Les structures qui empêchent la paix reflètent la façon dont on nous a appris à penser. Changer l'un sans l'autre ne fonctionne pas.",
+    "connection": {
+      "title": "La connexion personnel-politique",
+      "consciousness": {
+        "individual": "Conscience individuelle : Comment je vois les \"ennemis\" et les \"alliés\"",
+        "political": "Structures politiques : Comment les nations définissent les amis et les menaces"
+      },
+      "practice": {
+        "personal": "Pratique personnelle : Reconnaître l'humanité partagée au-delà des différences",
+        "political": "Pratique politique : Cadres diplomatiques fondés sur le respect mutuel"
+      },
+      "resource": {
+        "inner": "Ressource intérieure : Passer d'une mentalité de pénurie à une mentalité d'abondance",
+        "outer": "Ressource extérieure : Gouvernance basée sur les biens communs, partage des ressources"
+      }
+    },
+    "practical": {
+      "title": "Intégration pratique",
+      "steps": {
+        "0": {
+          "title": "1. Remarquez les schémas",
+          "description": "Lorsque vous pensez \"nous contre eux\", remarquez comment cette même logique opère en géopolitique. La division que vous ressentez personnellement est la même division qui crée des conflits entre les nations."
+        },
+        "1": {
+          "title": "2. Questionnez les histoires",
+          "description": "Et si les frontières n'étaient pas sacrées ? Et si les ressources étaient partagées ? Remarquez votre résistance — c'est la même résistance qui bloque le changement systémique au niveau mondial."
+        },
+        "2": {
+          "title": "3. Pratiquez à l'échelle",
+          "description": "Commencez localement avec la coopération de voisinage, étendez à la pensée biorégionale, puis à la conscience planétaire. Chaque niveau s'appuie sur le précédent."
+        },
+        "3": {
+          "title": "4. Construisez les deux",
+          "description": "Travaillez sur la transformation intérieure ET la réforme structurelle. La méditation sans action ne change rien. L'action sans conscience recrée d'anciens modèles sous de nouvelles formes."
+        }
+      }
+    },
+    "historical": {
+      "title": "Exemples historiques",
+      "examples": {
+        "abolition": {
+          "title": "Abolition de l'esclavage",
+          "description": "A nécessité un changement de conscience (voir les personnes asservies comme pleinement humaines avec des droits égaux) ET un changement structurel (nouvelles lois, mécanismes d'application, réorganisation économique). Aucun des deux n'aurait réussi seul."
+        },
+        "suffrage": {
+          "title": "Suffrage des femmes",
+          "description": "A changé à la fois la conscience sociétale sur les capacités des femmes et les structures juridiques. Le mouvement a travaillé simultanément sur les esprits (par l'éducation et la manifestation) et sur les systèmes (par l'organisation politique)."
+        },
+        "environmental": {
+          "title": "Mouvement environnemental",
+          "description": "A changé la conscience de la relation de l'humanité avec la nature ET a créé de nouvelles institutions (agences de protection de l'environnement, traités internationaux, zones protégées). Les changements de mode de vie personnel et les changements politiques se sont renforcés mutuellement."
+        }
+      }
+    },
+    "omega": {
+      "title": "La connexion de la Preuve Omega",
+      "summary": "Des recherches récentes démontrent que le système international actuel ne peut structurellement pas produire la paix, aussi bien conçus que soient les accords de paix. Le système lui-même — bâti sur la souveraineté absolue, la compétition pour les ressources et la pensée à somme nulle — rend la paix durable architecturalement impossible.",
+      "connection": "Mais de nouvelles structures nécessitent des personnes prêtes à les construire et à les accepter. On ne peut pas construire une gouvernance planétaire avec une conscience nationaliste. On ne peut pas créer des biens communs de ressources avec des mentalités de pénurie. On ne peut pas établir des cadres de coopération avec une pensée compétitive.",
+      "key": "C'est là que le travail de conscience devient essentiel : il crée les humains capables de construire et d'habiter de nouvelles structures."
+    },
+    "meaning": {
+      "title": "Ce que cela signifie pour vous",
+      "points": [
+        "Étudiez les problèmes structurels qui empêchent la paix (voir la page Analyse)",
+        "Remarquez ces mêmes schémas opérant dans votre propre pensée et vos relations",
+        "Pratiquez différentes façons de voir : la coopération plutôt que la compétition, la suffisance plutôt que la pénurie, l'interconnexion plutôt que la séparation",
+        "Soutenez les changements structurels (nouveaux modèles de gouvernance, partage des ressources) tout en faisant le travail intérieur",
+        "Reconnaissez qu'il s'agit de \"l'un et l'autre\", pas de \"l'un ou l'autre\" — nous avons besoin d'une conscience transformée ET de structures transformées"
+      ]
+    },
+    "cta": {
+      "title": "Prêt à aller plus loin ?",
+      "description": "Explorez comment la transformation intérieure et extérieure travaillent ensemble :",
+      "understanding": "Compréhension",
+      "analysis": "Analyse",
+      "action": "Passer à l'action"
     }
   }
 }

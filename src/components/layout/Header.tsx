@@ -28,6 +28,9 @@ export default function Header() {
               <Link href={`/${locale}/understanding`} className="hover:text-gray-600">
                 {t('understanding')}
               </Link>
+              <Link href={`/${locale}/inner-outer`} className="hover:text-gray-600">
+                {t('innerOuter')}
+              </Link>
               <Link href={`/${locale}/analysis`} className="hover:text-gray-600">
                 {t('analysis')}
               </Link>

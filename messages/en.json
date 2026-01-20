@@ -22,6 +22,7 @@
   "Navigation": {
     "message": "Together we can end the world's armed conflicts",
     "understanding": "Understanding",
+    "innerOuter": "Inner → Outer", 
     "analysis": "Analysis",
     "takeAction": "Take Action",
     "discord": "Join Discord"
@@ -415,6 +416,92 @@
           ]
         }
       }
+    }
+  },
+  "InnerOuter": {
+    "title": "From Inner Work to Outer Change",
+    "subtitle": "The structures that prevent peace mirror how we've been taught to think. Changing one without the other doesn't work.",
+    
+    "connection": {
+      "title": "The Personal-Political Connection",
+      "consciousness": {
+        "individual": "Individual consciousness: How I see \"enemies\" and \"allies\"",
+        "political": "Political structures: How nations define friends and threats"
+      },
+      "practice": {
+        "personal": "Personal practice: Recognizing shared humanity across difference",
+        "political": "Political practice: Diplomatic frameworks built on mutual respect"
+      },
+      "resource": {
+        "inner": "Inner resource: Moving from scarcity to abundance mindset",
+        "outer": "Outer resource: Commons-based governance, resource sharing"
+      }
+    },
+    
+    "practical": {
+      "title": "Practical Integration",
+      "steps": {
+        "0": {
+          "title": "1. Notice the patterns",
+          "description": "When you think \"us vs them,\" notice how that same logic operates in geopolitics. The division you feel personally is the same division that creates conflicts between nations."
+        },
+        "1": {
+          "title": "2. Question the stories",
+          "description": "What if borders weren't sacred? What if resources were shared? Notice your resistance—that's the same resistance blocking systemic change at the global level."
+        },
+        "2": {
+          "title": "3. Practice at scale",
+          "description": "Start local with neighborhood cooperation, expand to bioregional thinking, then planetary consciousness. Each level builds on the previous."
+        },
+        "3": {
+          "title": "4. Build both",
+          "description": "Work on inner transformation AND structural reform. Meditation without action changes nothing. Action without consciousness recreates old patterns in new forms."
+        }
+      }
+    },
+    
+    "historical": {
+      "title": "Historical Examples",
+      "examples": {
+        "abolition": {
+          "title": "Abolition of Slavery",
+          "description": "Required consciousness shift (seeing enslaved people as fully human with equal rights) AND structural change (new laws, enforcement mechanisms, economic reorganization). Neither alone would have succeeded."
+        },
+        "suffrage": {
+          "title": "Women's Suffrage",
+          "description": "Changed both societal consciousness about women's capabilities and legal structures. The movement worked on minds (through education and demonstration) and systems (through political organizing) simultaneously."
+        },
+        "environmental": {
+          "title": "Environmental Movement",
+          "description": "Shifted consciousness about humanity's relationship with nature AND created new institutions (EPA, international treaties, protected areas). Personal lifestyle changes and policy changes reinforced each other."
+        }
+      }
+    },
+    
+    "omega": {
+      "title": "The Omega Proof Connection",
+      "summary": "Recent research demonstrates that the current international system structurally cannot produce peace, no matter how well-designed the peace agreements are. The system itself—built on absolute sovereignty, resource competition, and zero-sum thinking—makes lasting peace architecturally impossible.",
+      "connection": "But new structures require people willing to build and accept them. You can't build planetary governance with nationalist consciousness. You can't create resource commons with scarcity mindsets. You can't establish cooperation frameworks with competitive thinking.",
+      "key": "This is where consciousness work becomes essential: it creates the humans capable of building and inhabiting new structures."
+    },
+    
+    "meaning": {
+      "title": "What This Means for You",
+      "points": [
+        "Study the structural problems that prevent peace (see Analysis page)",
+        "Notice these same patterns operating in your own thinking and relationships",
+        "Practice different ways of seeing: cooperation over competition, sufficiency over scarcity, interconnection over separation",
+        "Support structural changes (new governance models, resource sharing) while doing inner work",
+        "Recognize this is both/and, not either/or—we need transformed consciousness AND transformed structures"
+      ]
+    },
+    
+    "cta": {
+      "title": "Ready to Go Deeper?",
+      "description": "Explore how inner and outer transformation work together:",
+      "understanding": "Understanding",
+      "analysis": "Analysis",
+      "action": "Take Action"
     }
   }
 }
