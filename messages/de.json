@@ -99,6 +99,39 @@
   "Understanding": {
     "title": "Konflikte und Frieden Verstehen",
     "description": "Klares Verständnis führt zu effektivem Handeln. Erfahren Sie, warum wir Frieden brauchen, die Dynamik von Konflikten und Wege zum Frieden.",
+    "inner": {
+      "title": "Die innere Dimension",
+      "description": "Frieden beginnt damit, wie wir die Welt sehen. Die gleichen Strukturen, die Frieden auf globaler Ebene verhindern, wirken auch in unserem Denken:",
+      "labels": {
+        "inOurMinds": "In unseren Köpfen",
+        "inTheSystem": "Im System",
+        "theShift": "Der Wandel"
+      },
+      "competition": {
+        "title": "Vom Wettbewerb zur Zusammenarbeit",
+        "inOurMinds": "Das Denken: „Wenn die gewinnen, verliere ich“",
+        "inTheSystem": "Nullsummen-Ressourcenwettbewerb, Optimierung relativer Gewinne",
+        "theShift": "Erkennen, dass geteilter Wohlstand mehr für alle schafft"
+      },
+      "identity": {
+        "title": "Von fester Identität zu fließender Zugehörigkeit",
+        "inOurMinds": "„Ich bin in erster Linie [Nationalität]“",
+        "inTheSystem": "Souveränitätsfalle, Grenzen als heilige Linien",
+        "theShift": "Vielfältige, verschachtelte Identitäten (lokal, bioregional, menschlich, planetar)"
+      },
+      "scarcity": {
+        "title": "Von Knappheit zu Genügsamkeit",
+        "inOurMinds": "„Es gibt nicht genug für alle“",
+        "inTheSystem": "Ressourcen als Waffen, Horten strategischer Güter",
+        "theShift": "Verstehen, dass Kooperation Fülle schafft"
+      },
+      "separation": {
+        "title": "Von Trennung zu Verbundenheit",
+        "inOurMinds": "„Deren Probleme sind nicht meine“",
+        "inTheSystem": "Trittbrettfahrer-Anreize, Profitieren von der Instabilität anderer",
+        "theShift": "Erkennen, dass wir eine Biosphäre und eine Zukunft teilen"
+      }
+    },
     "why": {
       "title": "Warum Frieden Wichtig Ist",
       "human": {

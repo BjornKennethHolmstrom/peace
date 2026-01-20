@@ -60,6 +60,50 @@ export default function Understanding({ params: { locale } }: { params: { locale
           </div>
         </section>
 
+        {/* The Inner Dimension Section */}
+        <section className="mb-12">
+          <h2 className="text-2xl mb-6">{t('inner.title')}</h2>
+          <p className="text-lg mb-6">{t('inner.description')}</p>
+          
+          <div className="space-y-6">
+            <div className="p-6 border rounded">
+              <h3 className="text-xl mb-3">{t('inner.competition.title')}</h3>
+              <div className="space-y-2 text-gray-600">
+                <p><strong>{t('inner.labels.inOurMinds')}:</strong> {t('inner.competition.inOurMinds')}</p>
+                <p><strong>{t('inner.labels.inTheSystem')}:</strong> {t('inner.competition.inTheSystem')}</p>
+                <p><strong>{t('inner.labels.theShift')}:</strong> {t('inner.competition.theShift')}</p>
+              </div>
+            </div>
+
+            <div className="p-6 border rounded">
+              <h3 className="text-xl mb-3">{t('inner.identity.title')}</h3>
+              <div className="space-y-2 text-gray-600">
+                <p><strong>{t('inner.labels.inOurMinds')}:</strong> {t('inner.identity.inOurMinds')}</p>
+                <p><strong>{t('inner.labels.inTheSystem')}:</strong> {t('inner.identity.inTheSystem')}</p>
+                <p><strong>{t('inner.labels.theShift')}:</strong> {t('inner.identity.theShift')}</p>
+              </div>
+            </div>
+
+            <div className="p-6 border rounded">
+              <h3 className="text-xl mb-3">{t('inner.scarcity.title')}</h3>
+              <div className="space-y-2 text-gray-600">
+                <p><strong>{t('inner.labels.inOurMinds')}:</strong> {t('inner.scarcity.inOurMinds')}</p>
+                <p><strong>{t('inner.labels.inTheSystem')}:</strong> {t('inner.scarcity.inTheSystem')}</p>
+                <p><strong>{t('inner.labels.theShift')}:</strong> {t('inner.scarcity.theShift')}</p>
+              </div>
+            </div>
+
+            <div className="p-6 border rounded">
+              <h3 className="text-xl mb-3">{t('inner.separation.title')}</h3>
+              <div className="space-y-2 text-gray-600">
+                <p><strong>{t('inner.labels.inOurMinds')}:</strong> {t('inner.separation.inOurMinds')}</p>
+                <p><strong>{t('inner.labels.inTheSystem')}:</strong> {t('inner.separation.inTheSystem')}</p>
+                <p><strong>{t('inner.labels.theShift')}:</strong> {t('inner.separation.theShift')}</p>
+              </div>
+            </div>
+          </div>
+        </section>
+
         {/* Practical Understanding Section */}
         <section className="mb-12">
           <h2 className="text-2xl mb-6">{t('practical.title')}</h2>

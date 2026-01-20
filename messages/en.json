@@ -99,6 +99,39 @@
   "Understanding": {
     "title": "Understanding Conflicts and Peace",
     "description": "Clear understanding leads to effective action. Learn about why we need peace, the dynamics of conflicts and paths to peace.",
+    "inner": {
+      "title": "The Inner Dimension",
+      "description": "Peace begins with how we see the world. The same structures that prevent peace at the global level operate in how we think:",
+      "labels": {
+        "inOurMinds": "In our minds",
+        "inTheSystem": "In the system",
+        "theShift": "The shift"
+      },
+      "competition": {
+        "title": "From Competition to Collaboration",
+        "inOurMinds": "\"If they win, I lose\" thinking",
+        "inTheSystem": "Zero-sum resource competition, relative-gain optimization",
+        "theShift": "Recognizing that shared prosperity creates more for everyone"
+      },
+      "identity": {
+        "title": "From Fixed Identity to Fluid Belonging",
+        "inOurMinds": "\"I am [nationality] first and foremost\"",
+        "inTheSystem": "Sovereignty trap, borders as sacred lines",
+        "theShift": "Multiple, nested identities (local, bioregional, human, planetary)"
+      },
+      "scarcity": {
+        "title": "From Scarcity to Sufficiency",
+        "inOurMinds": "\"There's not enough to go around\"",
+        "inTheSystem": "Resource weaponization, hoarding strategic assets",
+        "theShift": "Understanding that cooperation creates abundance"
+      },
+      "separation": {
+        "title": "From Separation to Interconnection",
+        "inOurMinds": "\"Their problems aren't mine\"",
+        "inTheSystem": "Free-rider incentives, profiting from others' instability",
+        "theShift": "Recognizing we share one biosphere, one future"
+      }
+    },
 	"why": {
 	  "title": "Why Peace Matters",
 	  "human": {

@@ -99,6 +99,39 @@
   "Understanding": {
     "title": "Comprendre les Conflits et la Paix",
     "description": "Une compréhension claire mène à une action efficace. Découvrez pourquoi nous avons besoin de la paix, la dynamique des conflits et les chemins vers la paix.",
+    "inner": {
+      "title": "La dimension intérieure",
+      "description": "La paix commence par notre façon de voir le monde. Les mêmes structures qui empêchent la paix au niveau mondial opèrent dans notre façon de penser :",
+      "labels": {
+        "inOurMinds": "Dans nos esprits",
+        "inTheSystem": "Dans le système",
+        "theShift": "Le changement"
+      },
+      "competition": {
+        "title": "De la compétition à la collaboration",
+        "inOurMinds": "La pensée « s'ils gagnent, je perds »",
+        "inTheSystem": "Compétition à somme nulle pour les ressources, optimisation des gains relatifs",
+        "theShift": "Reconnaître que la prospérité partagée crée plus pour tout le monde"
+      },
+      "identity": {
+        "title": "De l'identité figée à l'appartenance fluide",
+        "inOurMinds": "« Je suis [nationalité] avant tout »",
+        "inTheSystem": "Piège de la souveraineté, frontières comme lignes sacrées",
+        "theShift": "Identités multiples et imbriquées (locales, biorégionales, humaines, planétaires)"
+      },
+      "scarcity": {
+        "title": "De la rareté à la suffisance",
+        "inOurMinds": "« Il n'y en a pas assez pour tout le monde »",
+        "inTheSystem": "Armement des ressources, thésaurisation des atouts stratégiques",
+        "theShift": "Comprendre que la coopération crée l'abondance"
+      },
+      "separation": {
+        "title": "De la séparation à l'interconnexion",
+        "inOurMinds": "« Leurs problèmes ne sont pas les miens »",
+        "inTheSystem": "Incitations au passager clandestin, profiter de l'instabilité des autres",
+        "theShift": "Reconnaître que nous partageons une seule biosphère, un seul avenir"
+      }
+    },
     "why": {
       "title": "Pourquoi la Paix est Importante",
       "human": {

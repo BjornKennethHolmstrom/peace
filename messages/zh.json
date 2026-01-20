@@ -99,6 +99,39 @@
   "Understanding": {
     "title": "理解冲突与和平",
     "description": "清晰的理解引导有效行动。了解为什么我们需要和平，冲突的动态以及通向和平的道路。",
+    "inner": {
+      "title": "内在维度",
+      "description": "和平始于我们看待世界的方式。阻碍全球和平的同样结构也存在于我们的思维方式中：",
+      "labels": {
+        "inOurMinds": "在我们的思想中",
+        "inTheSystem": "在系统中",
+        "theShift": "转变"
+      },
+      "competition": {
+        "title": "从竞争到协作",
+        "inOurMinds": "“你赢即我输”的思维",
+        "inTheSystem": "零和资源竞争，相对收益最大化",
+        "theShift": "认识到共同繁荣能为每个人创造更多"
+      },
+      "identity": {
+        "title": "从固定身份到流动归属",
+        "inOurMinds": "“我首先是[国籍]”",
+        "inTheSystem": "主权陷阱，将边界视为神圣防线",
+        "theShift": "多重嵌套的身份（地方、生物区域、人类、行星）"
+      },
+      "scarcity": {
+        "title": "从匮乏到充裕",
+        "inOurMinds": "“资源不够分”",
+        "inTheSystem": "资源武器化，囤积战略资产",
+        "theShift": "理解合作能够创造富足"
+      },
+      "separation": {
+        "title": "从分离到互联",
+        "inOurMinds": "“他们的问题与我无关”",
+        "inTheSystem": "搭便车激励机制，从他人的不稳定中获利",
+        "theShift": "认识到我们共享一个生物圈，一个未来"
+      }
+    },
     "why": {
       "title": "为什么和平重要",
       "human": {

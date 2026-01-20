@@ -99,6 +99,39 @@
   "Understanding": {
     "title": "Entendiendo los Conflictos y la Paz",
     "description": "El entendimiento claro lleva a la acción efectiva. Aprende sobre por qué necesitamos la paz, la dinámica de los conflictos y los caminos hacia la paz.",
+    "inner": {
+      "title": "La dimensión interior",
+      "description": "La paz comienza con cómo vemos el mundo. Las mismas estructuras que impiden la paz a nivel global operan en nuestra forma de pensar:",
+      "labels": {
+        "inOurMinds": "En nuestras mentes",
+        "inTheSystem": "En el sistema",
+        "theShift": "El cambio"
+      },
+      "competition": {
+        "title": "De la competencia a la colaboración",
+        "inOurMinds": "Pensamiento de \"si ellos ganan, yo pierdo\"",
+        "inTheSystem": "Competencia de suma cero por los recursos, optimización de ganancias relativas",
+        "theShift": "Reconocer que la prosperidad compartida crea más para todos"
+      },
+      "identity": {
+        "title": "De la identidad fija a la pertenencia fluida",
+        "inOurMinds": "\"Soy [nacionalidad] ante todo\"",
+        "inTheSystem": "Trampa de la soberanía, fronteras como líneas sagradas",
+        "theShift": "Identidades múltiples y anidadas (local, biorregional, humana, planetaria)"
+      },
+      "scarcity": {
+        "title": "De la escasez a la suficiencia",
+        "inOurMinds": "\"No hay suficiente para todos\"",
+        "inTheSystem": "Uso de recursos como armas, acaparamiento de activos estratégicos",
+        "theShift": "Entender que la cooperación crea abundancia"
+      },
+      "separation": {
+        "title": "De la separación a la interconexión",
+        "inOurMinds": "\"Sus problemas no son los míos\"",
+        "inTheSystem": "Incentivos de polizón (free-rider), lucrarse de la inestabilidad ajena",
+        "theShift": "Reconocer que compartimos una biosfera, un futuro"
+      }
+    },
     "why": {
       "title": "Por Qué Importa la Paz",
       "human": {
